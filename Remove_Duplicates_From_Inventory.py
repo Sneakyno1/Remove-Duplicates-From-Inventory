@@ -1,5 +1,8 @@
 import csv
 
+ITEM_NAME = 1
+DEPARTMENT = 4
+CATEGORY = 5
 
 print("Starting")
 
@@ -12,6 +15,18 @@ with open('2022workingcsv.csv','r', encoding='utf8') as inputCSV:
      listWithNoZZ = [row for row in CSVContent if row[1][:2] != 'zz']
 
      print('Entries with \'zz\' removed')
+
+
+     #initializing a dictionary that will have the category name as the key
+     #the associated value will be a list of the items in that category
+     categoryDictionary = dict()
+     
+     for line in listWithNoZZ:
+         categoryDictionary[line[CATEGORY]]=list()
+
+     for line in listWithNoZZ:
+         categoryDictionary[line[CATEGORY]].append(line[ITEM_NAME])
+
 
      #open the output csv in another context manager
      with open('ZZClearedCSV.csv', 'w', newline='', encoding='utf8') as outputCSV:
