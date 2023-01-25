@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Remove Duplicates From Inventory", "Remove Duplicates From Inventory.pyproj", "{9404C491-1181-43A9-B133-5EE1527F37EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9404C491-1181-43A9-B133-5EE1527F37EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9404C491-1181-43A9-B133-5EE1527F37EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {163E9064-D1DC-4756-AA92-12CEF1D5A26E}
+	EndGlobalSection
+EndGlobal
