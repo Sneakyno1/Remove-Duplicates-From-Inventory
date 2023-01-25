@@ -1,9 +1,12 @@
 import csv
 
 
-with open('2022workingcsv.csv','r', encoding="utf8") as inputCSV:
+print("Starting")
+
+with open('2022workingcsv.csv','r', encoding='utf8') as inputCSV:
      CSVContent = csv.reader(inputCSV, delimiter = ',')
-     with open('ZZClearedCSV.csv', 'w', newline='') as outputCSV:
+
+     with open('ZZClearedCSV.csv', 'w', newline='', encoding='utf8') as outputCSV:
           output=csv.writer(outputCSV, delimiter = ',')
 
           for row in CSVContent:
@@ -11,3 +14,5 @@ with open('2022workingcsv.csv','r', encoding="utf8") as inputCSV:
                     continue
                else:
                     output.writerow(row)
+
+print('done')
