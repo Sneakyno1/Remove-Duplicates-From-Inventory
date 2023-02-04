@@ -1,0 +1,10 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+C97DE87B-E381-4A6F-96C9-9AB145769AFB,Groom Tuxedo Oreo Choc Mold CML 1624,,$0.00 ,Chocolate Molds,Wedding,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.98 ,,2,1,4,3/4/2022 15:32,Wilton (WiltonForBusiness dot com),FALSE,,,$1.96 
+91D47606-3A3D-4D40-B2A0-BB5862D7754F,Guest Thank You Bar 4-Cavity Mold 90-15554,,$0.00 ,Chocolate Molds,Wedding,,4.00E+11,$2.25 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,10/29/2022 12:35,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+AD8C7A61-1362-4DDD-9F8F-5535AFFCE08A,He Asked/She Said Yes Choc Mold LOTP W079,,$0.00 ,Chocolate Molds,Wedding,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.03 ,,5,1,1,10/29/2022 15:05,Wilton (WiltonForBusiness dot com),FALSE,,,$5.15 
+3C8FC089-FF6E-4373-A5EF-FBADA8366E49,"Bride Cookie Cutter 5.25""x3.25""",7,$0.00 ,Cookie Cutters,Wedding,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.00 ,,7,1,0,11/23/2022 13:12,DecoPac,FALSE,,,$0.00 
+141DE7B8-A6EA-4455-A5E5-792F27547CB0,Wedding 3pc. Cookie Cutter Set,3,$12.48 ,Cookie Cutters,Wedding,7.69E+11,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$4.16 ,,3,1,6,11/10/2022 13:03,AnnClarkCookieCutters dot com,FALSE,,,$12.48 
+1229712e-eef2-416a-aaaf-5b72d5662aed,"Cookie Countess ""Will You Be My Bridesmaid"" Stencil",2,$5.50 ,Stencils,Wedding,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,4/6/2022 13:25,Wholesale Sugar Flowers dot com,FALSE,,,$5.50 
+eaf1c947-1d3b-4559-a749-b7f83408674f,Cookie Countess Bride Tribe Stencil,3,$0.00 ,Stencils,Wedding,8.40E+11,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$0.00 ,,3,1,1,,Sweets & Treats,FALSE,,,$0.00 
+d285a981-e886-4f95-b74a-9c0ad462c634,Cookie Countess Wedding Dress Maker,2,$16.50 ,Stencils,Wedding,,4.00E+11,$16.50 ,TRUE,TRUE,TRUE,$8.25 ,,2,1,3,10/6/2021 14:56,PME,FALSE,,,$16.50 
+48dc3583-a157-4b4c-b28e-54e5f471e615,Cookie Countess Wedding Rings Stencil,3,$8.25 ,Stencils,Wedding,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,9/30/2022 15:00,PME,FALSE,,,$8.25 

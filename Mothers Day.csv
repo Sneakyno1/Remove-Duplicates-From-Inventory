@@ -1,0 +1,6 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+BEC49CFE-9B4D-4F89-919E-CD267B77CDB1,"Best Mom Ever Cupcake Rings, 6ct.",18,$11.70 ,Decorations,Mothers Day,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.65 ,,20,3,24,5/7/2022 11:27,CK Products,FALSE,,,$13.00 
+C7E71D1D-5EC4-4780-8EF5-B2CB446B5BF2,"Floral ""Mom"" Lay-on",,$0.00 ,Decorations,Mothers Day,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.87 ,,0,0,0,5/8/2021 15:14,DecoPac,FALSE,,,$0.00 
+51EADC1B-D777-48A7-8602-4F8D11265B13,Floral Mother's Day Pop Top,1,$0.78 ,Decorations,Mothers Day,,4.00E+11,$1.79 ,TRUE,TRUE,TRUE,$0.78 ,,2,1,12,5/7/2022 11:06,DecoPac,FALSE,,,$1.56 
+7F6D3B2C-04FB-4808-B056-274C7039E1CB,Happy Mother's Day Lay-on,4,$1.52 ,Decorations,Mothers Day,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.38 ,,5,3,24,5/6/2022 16:12,Cookie Countess Wholesale dot com,FALSE,,,$1.90 
+CB1488B2-6C2F-4F5E-808F-2A7EFC17D66A,"Watercolor ""Mom"" Cupcake Rings, 6ct.",17,$10.37 ,Decorations,Mothers Day,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.61 ,,19,3,24,5/8/2021 15:14,CK Products,FALSE,,,$11.59 

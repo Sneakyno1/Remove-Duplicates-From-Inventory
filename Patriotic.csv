@@ -1,0 +1,16 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+5B56E6B3-7B3F-4542-8886-343D64B08E0F,"Fox Run Canadian Flag Baking Cups, 50ct.",6,$6.72 ,Cupcake Liners,Patriotic,30734071946,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.12 ,,6,1,6,,Linneas Inc dot com,FALSE,,,$6.72 
+9B6E7258-64B8-4D83-A5D7-134F94141095,"Fox Run Maple Leaf Baking Cups, 50ct",5,$5.60 ,Cupcake Liners,Patriotic,30734071953,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.12 ,,5,1,6,6/7/2022 10:14,DecoPac,FALSE,,,$5.60 
+32DFD968-3520-439D-8F1B-0FF825E4FE61,"Fox Run Patriotic Baking Cups, 50ct.",4,$4.32 ,Cupcake Liners,Patriotic,30734071991,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.08 ,,4,1,6,6/30/2022 12:05,Fredal 586-773-3133,FALSE,,,$4.32 
+E0789B6D-7A02-4911-8BF9-CF92B95151E5,"Fox Run Patriotic Flag Cupcake Liners, 50ct.",3,$4.05 ,Cupcake Liners,Patriotic,30734049204,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.35 ,,3,1,6,7/1/2022 12:58,DecoPac,FALSE,,,$4.05 
+64B5B464-67FB-4E93-AABD-5F12E897DF93,"Fox Run Red, Silver & Blue Foil Baking Cups, 45ct.",5,$7.95 ,Cupcake Liners,Patriotic,30734072035,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.59 ,,5,1,6,6/7/2022 11:37,DecoPac,FALSE,,,$7.95 
+4FB253E2-8E07-4736-875D-9B86C0235E4F,Patriotic Bake Cups (50ct),0,$0.00 ,Cupcake Liners,Patriotic,7.69E+11,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$1.00 ,,0,0,0,8/31/2022 17:34,Linneas Inc dot com,FALSE,,,$0.00 
+3DD319EE-7547-4836-B7EA-02035EF915B1,"Canadian Flag Picks, 2.5"", 6ct.",24,$6.00 ,Decorations,Patriotic,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.25 ,,24,2,1,,Linneas Inc dot com,FALSE,,,$6.00 
+141C2ED8-BABD-451C-B3B7-118AE21EB1B0,"Deluxe Fusion Mix - Firecracker, 3oz.",,$0.00 ,Decorations,Patriotic,,4.00E+11,$3.99 ,TRUE,FALSE,TRUE,$1.43 ,,0,1,1,6/30/2022 13:02,Cookie Countess Wholesale dot com,FALSE,,,$0.00 
+8C586A68-84AE-4349-A17D-46AFC7538D28,"Lg Patriotic Stars Sugars, 4ct.",,$0.00 ,Decorations,Patriotic,,4.00E+11,$2.29 ,TRUE,FALSE,TRUE,$0.88 ,,18,4,30,11/2/2022 16:30,CK Products,FALSE,,,$15.84 
+570709DE-0870-424D-8F36-05B5522CB1AE,"Patriotic Fusion Mix, 3oz.",,$0.00 ,Decorations,Patriotic,,4.00E+11,$3.89 ,TRUE,FALSE,TRUE,$0.85 ,,0,3,25,7/1/2022 12:58,Life of the Party,FALSE,,,$0.00 
+47A6E1BE-EE8A-4E09-A1F5-ED332F655A36,"Patriotic Star Picks, 6ct.",,$0.00 ,Decorations,Patriotic,,4.00E+11,$1.29 ,TRUE,TRUE,TRUE,$0.48 ,,21,2,1,7/1/2022 12:55,Linneas Inc dot com,FALSE,,,$10.08 
+039ED6F0-A940-4FC8-B473-4E2417A114EE,"Patriotic Stars Quins, 3oz.",,$0.00 ,Decorations,Patriotic,,4.00E+11,$3.29 ,TRUE,FALSE,TRUE,$1.05 ,,3,2,8,7/1/2022 15:08,Choklit Molds dot com,FALSE,,,$3.15 
+E9EAAFB6-25E9-45B0-9331-5AACC76132BA,"US Flag Picks, 3.5"", 6ct.",,$0.00 ,Decorations,Patriotic,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.22 ,,9,2,1,10/18/2022 16:03,not tracked,FALSE,,,$1.98 
+d257f66d-810f-4578-ab6f-5ffa8c297ba7,Patriotic picks 6ct.,,$0.00 ,Seasonal,Patriotic,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.00 ,,12,0,0,,Ateco,FALSE,,,$0.00 
+210ba0d2-a8b6-45ae-a00c-772f2ca749ab,Wilton Fun Pix Flag 40ct,,$0.00 ,Seasonal,Patriotic,70896704047,4.00E+11,$1.79 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,7/2/2021 16:48,DecoPac,FALSE,,,$0.00 

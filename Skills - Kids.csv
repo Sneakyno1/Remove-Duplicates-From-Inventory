@@ -1,0 +1,3 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+bd2e3ec1-f1ef-46a4-aa94-8b16bfdea381,"Kids Cake Decorating Class - May 14, 2022",,$0.00 ,Events,Skills - Kids,,4.00E+11,$75.00 ,TRUE,FALSE,TRUE,$11.00 ,,10,0,0,,Wilton (WiltonForBusiness dot com),FALSE,,,$110.00 
+7251ef26-91e7-44ab-a396-bd50210a7bf1,"Kids Cupcake Decorating Class - July 21, 2022",,$0.00 ,Events,Skills - Kids,,4.00E+11,$75.00 ,TRUE,FALSE,TRUE,$11.00 ,,0,0,0,6/25/2022 10:50,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 

@@ -1,0 +1,6 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+ebbea969-428c-4755-9f7a-92972436ab44,Cookie Countess Antlers & Flowers Stencil,3,$8.25 ,Stencils,Floral,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,Sweets & Treats,FALSE,,,$8.25 
+482f9521-bf0b-419f-8104-89e8afc5dbc7,Cookie Countess Daisy Chain 2pc. Stencil,3,$16.50 ,Stencils,Floral,,4.00E+11,$11.00 ,TRUE,TRUE,TRUE,$5.50 ,,3,1,3,3/3/2022 14:49,Sweets & Treats,FALSE,,,$16.50 
+6f0dfb30-46a4-4940-a827-44e48689a9e8,Cookie Countess Hexagon & Flowers 2 pc. Stencil,1,$5.50 ,Stencils,Floral,,4.00E+11,$11.00 ,TRUE,TRUE,TRUE,$5.50 ,,1,1,3,10/4/2022 14:34,Webstaurant store,FALSE,,,$5.50 
+ec0b8e99-772d-43d3-9450-2a578e50d4a2,Cookie Countess Hibiscus Flowers Stencil,3,$8.25 ,Stencils,Floral,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,Webstaurant store,FALSE,,,$8.25 
+b2cda625-232e-4091-9e21-050c816169c7,Cookie Countess Palm Leaves Stencil,3,$8.25 ,Stencils,Floral,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,CDS - Chocolate Delivery Systems Christina Catlin 716-877-3146,FALSE,,,$8.25 

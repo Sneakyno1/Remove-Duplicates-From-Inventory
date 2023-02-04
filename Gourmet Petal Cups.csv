@@ -1,0 +1,3 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+4764D0D1-8288-41D1-BBB9-C2ED53B949BA,"Brown Tulip Baking Cup, 20ct.",1,$1.36 ,Cupcake Liners,Gourmet Petal Cups,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.36 ,,1,1,5,12/16/2022 10:55,CK Products,FALSE,,,$1.36 
+E38D3A52-7DB1-4022-BF87-E1F1365748CB,"Natural Tulip Baking Cup, 20ct.",5,$7.65 ,Cupcake Liners,Gourmet Petal Cups,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.53 ,,5,1,5,12/9/2022 12:30,Linneas Inc dot com,FALSE,,,$7.65 

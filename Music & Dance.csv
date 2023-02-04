@@ -1,0 +1,3 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+35307F6B-7430-481E-B97F-69B29C892019,"Guitar Cookie Cutter 4.5""x2""",9,$5.31 ,Cookie Cutters,Music & Dance,71581013550,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.59 ,,9,2,12,12/16/2022 12:45,CK Products,FALSE,,,$5.31 
+45B441ED-81B1-493F-971B-183256AD6315,"Music Note Cookie Cutter 3.5""",8,$6.40 ,Cookie Cutters,Music & Dance,71581013567,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.80 ,,8,2,12,12/16/2022 12:45,CK Products,FALSE,,,$6.40 

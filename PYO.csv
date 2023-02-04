@@ -1,0 +1,14 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+21935cfa-0eda-49f0-961d-01a672468921,Cookie Countess Birthday Cupcake PYO Stencil,2,$5.50 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,1/19/2022 16:36,Sweets & Treats,FALSE,,,$8.25 
+325a5600-d50d-438a-9b12-6f78e61535af,Cookie Countess Cutie Cupcake PYO Stencil,2,$5.72 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.86 ,,3,1,3,1/19/2022 14:46,Sweets & Treats,FALSE,,,$8.58 
+18dd13e3-ef5e-48d3-8648-80fba92ea816,Cookie Countess Friendly Dinosaur PYO Stencil,4,$11.32 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.83 ,,4,1,3,8/27/2022 15:49,Sweets & Treats,FALSE,,,$11.32 
+79c5b72f-57d3-4c0d-a758-33fa7e5aee76,Cookie Countess Gnome w/Flower PYO,3,$8.58 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.86 ,,3,1,3,3/5/2022 16:05,Evil Cake Genius,FALSE,,,$8.58 
+f7aff968-9e15-4b06-9b79-463ec4364fa3,Cookie Countess Graphic Flowers PYO Stencil,1,$2.75 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,1,1,3,10/11/2022 11:53,Evil Cake Genius,FALSE,,,$2.75 
+d87f8be6-531f-432e-9725-359f24e3e9a9,Cookie Countess Mermaid PYO Stencil,2,$5.50 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,2/5/2022 10:27,Wholesale Sugar Flowers dot com,FALSE,,,$5.50 
+0967e418-ab89-426a-b0d8-b837242f774b,Cookie Countess Monster Truck PYO Stencil,4,$11.00 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,4,1,3,9/17/2021 11:04,CDS - Chocolate Delivery Systems Christina Catlin 716-877-3146,FALSE,,,$11.00 
+eaa09927-b5fd-4f24-8b4d-5571f2c54dc0,Cookie Countess Pencil & Star PYO Stencil,4,$11.32 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.83 ,,4,1,3,7/21/2022 10:46,CDS - Chocolate Delivery Systems Christina Catlin 716-877-3146,FALSE,,,$11.32 
+781e5f27-83ed-4f46-8809-b1fb0a2af2b7,Cookie Countess Pizza PYO Stencil,3,$8.25 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,CK Products,FALSE,,,$8.25 
+4b84d770-e193-4c6b-8283-95dcbc7f4354,Cookie Countess Pumpkin Stack PYO Stencil,,$0.00 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,0,1,3,10/4/2022 15:07,Nashville Wraps,FALSE,,,$0.00 
+0960ba9a-d6bf-4852-b7a5-2a8fe30de789,Cookie Countess PYO Rainbow,5,$14.20 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.84 ,,5,1,3,2/9/2022 11:44,Nashville Wraps,FALSE,,,$14.20 
+61bcc5ba-f836-4e90-9461-52ea800eb4e0,Cookie Countess Rocket PYO Stencil,3,$8.49 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.83 ,,3,1,3,8/27/2022 15:49,Nashville Wraps,FALSE,,,$8.49 
+8296c4f4-1086-4773-bce5-bf16eb77fc0f,Cookie Countess Unicorn PYO Stencil,4,$11.32 ,Stencils,PYO,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.83 ,,4,1,3,2/5/2022 10:27,PME,FALSE,,,$11.32 

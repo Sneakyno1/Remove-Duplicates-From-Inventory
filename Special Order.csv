@@ -1,0 +1,3 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+6D63E593-468F-4447-AB8B-DFE18529D2B5,"Special Order - White w/ Gold Stripe Cup, 2000ct.",1,$17.53 ,Cupcake Liners,Special Order,,4.00E+11,$30.00 ,TRUE,TRUE,TRUE,$17.53 ,,1,0,0,,Linneas Inc dot com,FALSE,,,$17.53 
+65B42C46-43B7-4F12-8319-EBE556254AD0,"Susan Brattina - White Liners 2 1/2""x2 1/16"", 520cups/sleeve",2,$20.12 ,Cupcake Liners,Special Order,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$10.06 ,,2,1,1,10/11/2022 16:37,DecoPac,FALSE,,,$20.12 

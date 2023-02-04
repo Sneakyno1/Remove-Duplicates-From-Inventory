@@ -1,0 +1,51 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+b2b63f4a-cba4-4690-8a0f-594e6d1d6fea,Jack O Lantern Sucker Hard Candy Mold 8H-3239,1,$1.59 ,Hard Candy Molds,Halloween,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.59 ,,1,1,3,10/4/2022 13:53,DecoPac,FALSE,,,$1.59 
+8867ad68-a4fc-47bb-a35d-09944b145474,Skull Sucker Hard Candy Mold 8H-3262,2,$3.18 ,Hard Candy Molds,Halloween,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.59 ,,2,1,3,10/23/2021 13:32,DecoPac,FALSE,,,$3.18 
+fa3b6fff-eb4f-4c1d-9f95-6bb6355b044c,"Black & Orange Sprinkles, 4oz.",,$0.00 ,Seasonal,Halloween,,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$0.60 ,,0,0,0,10/31/2020 11:19,Sweet Stamp,FALSE,,,$0.00 
+1ebe0c8a-d7f6-4d42-964d-19955b7571f4,BOO Silk Screen Stencil & Cutter combo,5,$33.75 ,Seasonal,Halloween,,4.00E+11,$13.99 ,TRUE,TRUE,TRUE,$6.75 ,,2,1,1,8/24/2022 15:03,Sweet Stamp,FALSE,,,$13.50 
+702b57c5-5196-42ea-ae30-98de50c5675a,Halloween Fusion Mix 3oz.,,$0.00 ,Seasonal,Halloween,,4.00E+11,$3.89 ,TRUE,FALSE,TRUE,$0.80 ,,0,0,0,10/5/2021 15:47,Sweet Stamp,FALSE,,,$0.00 
+9409c292-d8d3-4fd6-b97c-5104545e4db5,"Halloween Pumpkin Sprinkle Mix, 3oz.",,$0.00 ,Seasonal,Halloween,,4.00E+11,$3.29 ,TRUE,FALSE,TRUE,$0.60 ,,0,0,0,10/27/2020 15:35,not tracked,FALSE,,,$0.00 
+77890a54-885d-41b8-99fa-cbfefb313270,"Spooky Halloween Quins, 3oz.",,$0.00 ,Seasonal,Halloween,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$0.29 ,,0,0,0,10/20/2021 15:02,Ateco,FALSE,,,$0.00 
+47abf140-aef2-4eef-bff1-0a27d904c659,"Trick or Treat Quins, 3oz.",,$0.00 ,Seasonal,Halloween,,4.00E+11,$3.29 ,TRUE,FALSE,TRUE,$0.74 ,,0,0,0,10/27/2021 16:53,Ateco,FALSE,,,$0.00 
+35652a34-cc73-4d02-8ccd-c6a8772cd4df,Wilton 100ct 1.25” Skull/Crossbones Mini Baking Cups,,$0.00 ,Seasonal,Halloween,70896512680,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,0,,Ateco,FALSE,,,$0.00 
+19a2ba40-277b-4a2f-af36-f9ea048c2818,Wilton 100ct 1” Bat Eyes Mini Baking Cups,,$0.00 ,Seasonal,Halloween,70896004437,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,10/14/2020 16:52,Ateco,FALSE,,,$0.00 
+0bfe0c06-203b-4d21-88ca-6c4139f5e7b6,Wilton 100ct 1” Skull Spider Mini Baking Cups,,$0.00 ,Seasonal,Halloween,70896531766,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.00 ,,2,0,0,10/29/2021 16:37,Ateco,FALSE,,,$0.00 
+c36add8a-3c08-4b64-b800-574612e6db52,Wilton 75ct 2” Black/Orange Baking Cups,,$0.00 ,Seasonal,Halloween,70896514127,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,10/29/2020 10:57,DecoPac,FALSE,,,$0.00 
+84837e33-71c6-484b-9bf1-e335a690c0e8,Wilton 75ct 2” Trick or Treat Black Baking Cups,,$0.00 ,Seasonal,Halloween,70896414212,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,10/24/2020 15:03,DecoPac,FALSE,,,$0.00 
+62d522d9-2243-4bbd-bcdd-3fc3d2944c31,Wilton 75ct “Haunt it” Baking Cups,,$0.00 ,Seasonal,Halloween,70896472786,4.00E+11,$2.09 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,10/13/2020 10:38,Pfiel & Holing,FALSE,,,$0.00 
+53187cf0-1670-4038-8f37-9213ed5f4576,Wilton 75ct Ghost Orange Trick or Treat Baking Cups,,$0.00 ,Seasonal,Halloween,70896372864,4.00E+11,$2.09 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,10/27/2020 10:37,Pfiel & Holing,FALSE,,,$0.00 
+c817ea06-35d2-498f-9822-92e81f6b8538,"Wilton Blood Red Glaze, 4oz.",11,$30.25 ,Seasonal,Halloween,70896133755,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.75 ,,11,1,6,10/29/2022 14:55,Sweet Stamp,FALSE,,,$30.25 
+3d8d4dad-c337-4415-9386-35afb22fa8d6,Wilton Halloween Bat Turner,3,$9.39 ,Seasonal,Halloween,70896159625,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.13 ,,3,1,6,10/22/2022 13:16,Wilton (WiltonForBusiness dot com),FALSE,,,$9.39 
+2848fe8b-f74e-418d-ba5b-4e101f0a325b,Wilton Halloween Cookie Cutter & Stencil Set,5,$12.35 ,Seasonal,Halloween,70896159687,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.47 ,,5,1,1,9/7/2022 14:21,Wilton (WiltonForBusiness dot com),FALSE,,,$12.35 
+552c33c2-8ff7-4ca9-8fbb-edede37714fe,Wilton Halloween Icing Set w/Tips,2,$5.90 ,Seasonal,Halloween,70896343246,4.00E+11,$7.49 ,TRUE,FALSE,TRUE,$2.95 ,,2,1,1,10/27/2022 14:30,Wilton (WiltonForBusiness dot com),FALSE,,,$5.90 
+47354a0c-ea7a-4c3e-855b-7c700f3a21c4,Wilton Halloween Icon Cupcake Kit,3,$7.38 ,Seasonal,Halloween,70896137852,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.46 ,,3,1,6,10/28/2022 11:51,Linneas Inc dot com,FALSE,,,$7.38 
+165402fd-38ce-4e1f-9ffd-84b9e536b90d,"Wilton Halloween Treat Sticks, 25ct.",,$0.00 ,Seasonal,Halloween,70896275066,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,0,10/28/2021 12:32,Porsha Kimble (email PKCrew at gmail dot com) 682-804-4096,FALSE,,,$0.00 
+7830fc8e-8505-4d19-8d35-e36070f2de18,"Wilton Iridescent Spider Halloween Treat Bags, 10ct.",6,$9.78 ,Seasonal,Halloween,70896137869,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.63 ,,6,1,1,,Porsha Kimble (email PKCrew at gmail dot com) 682-804-4096,FALSE,,,$9.78 
+7c13339a-f146-42a3-a45f-14425585d937,"Wilton Slime Green Glaze, 4oz.",17,$46.75 ,Seasonal,Halloween,70896146878,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.75 ,,17,1,6,10/29/2022 12:13,Porsha Kimble (email PKCrew at gmail dot com) 682-804-4096,FALSE,,,$46.75 
+2fa6a8a7-3e13-4e65-b015-48336c4156ab,Amuck Amuck Amuck Silkscreen Stencil,3,$13.50 ,Stencils,Halloween,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$4.50 ,,3,2,1,10/15/2022 16:02,SoChatti,FALSE,,,$13.50 
+f59dd89e-c059-4a3f-a0ca-413959d0833e,Boo Silk Screen Stencil,3,$13.50 ,Stencils,Halloween,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$4.50 ,,3,1,1,,CK Products,FALSE,,,$13.50 
+b082dc04-1de6-42d4-9d33-95e0c85c5621,Boo! PYO Stencil w/Cookie Cutter ,2,$10.26 ,Stencils,Halloween,,4.00E+11,$10.99 ,TRUE,TRUE,TRUE,$5.13 ,,2,1,3,10/13/2021 10:23,CK Products,FALSE,,,$10.26 
+37dfc21e-1083-42cd-b5f1-2b3213a63f72,"Cookie Countess ""Boo!"" 2-pc. stencil",2,$9.00 ,Stencils,Halloween,,4.00E+11,$11.00 ,TRUE,TRUE,TRUE,$4.50 ,,2,1,3,9/18/2021 12:40,CK Products,FALSE,,,$9.00 
+b8024a8f-8827-41aa-9f9b-b9fd297cf4a6,Cookie Countess Bat & Spider Trick or Treat Stencil,3,$8.25 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,Sweets & Treats,FALSE,,,$8.25 
+a31569be-f280-4ae4-96f2-4adcf4342f3e,Cookie Countess Dancing Skeleton Stencil,2,$5.50 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,10/21/2022 13:59,Sweets & Treats,FALSE,,,$5.50 
+1a230313-9b01-4f3d-9655-5fe7b3832763,Cookie Countess Furry Spider Stencil,3,$8.25 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,Sweets & Treats,FALSE,,,$8.25 
+954dcf75-1575-4247-a6bd-c4941e683ab4,Cookie Countess Halloween Candy PYO Stencil,1,$2.75 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,1,1,3,10/13/2022 16:02,Evil Cake Genius,FALSE,,,$2.75 
+43a47223-1403-4a42-9673-e2e4d7732631,Cookie Countess Happy Halloween Hat Stencil,,$0.00 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.25 ,,0,0,0,10/1/2021 13:59,Evil Cake Genius,FALSE,,,$0.00 
+13d08641-2bed-4a97-9083-8222bdf28096,Cookie Countess Happy Halloween Stencil,3,$6.75 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.25 ,,3,1,3,10/23/2020 13:20,Amazon,FALSE,,,$6.75 
+b0f80b3a-b4c1-4bd0-9ccc-11bdbaca96bf,Cookie Countess Haunted House PYO Stencil,2,$5.50 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,9/28/2021 14:03,Amazon,FALSE,,,$5.50 
+47a231f0-93d1-4478-84a4-1d922890102e,Cookie Countess Jack the Lantern Stencil,1,$2.25 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.25 ,,1,1,3,10/25/2022 13:53,Wilton (WiltonForBusiness dot com),FALSE,,,$2.25 
+b58181f6-cc53-413c-ae92-bf5776e18a11,Cookie Countess October 31st Stencil,2,$5.50 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,,CDS - Chocolate Delivery Systems Christina Catlin 716-877-3146,FALSE,,,$5.50 
+307b3229-690a-46da-ad4c-6ac36ea3d003,Cookie Countess Potion Bottles Stencil,2,$5.50 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,9/25/2021 16:05,Clear Bags,FALSE,,,$5.50 
+f61113b2-4ce1-4731-b6f9-fdced429128a,Cookie Countess Pumpkin Faces Background Stencil,,$0.00 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.25 ,,0,0,0,9/29/2022 13:25,Clear Bags,FALSE,,,$0.00 
+6f4bf765-f33f-4521-89de-12da990ddd3d,Cookie Countess Rose Sugar Skull Stencil,,$0.00 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,0,1,3,10/21/2022 13:58,Nashville Wraps,FALSE,,,$0.00 
+64fe1c4a-7246-494b-ada1-50f38a4ea1de,Cookie Countess Single Spider Web Stencil,2,$5.66 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.83 ,,2,1,3,11/8/2022 11:51,Nashville Wraps,FALSE,,,$5.66 
+690ef653-86b6-45de-9cdc-a2e69b269f59,Cookie Countess Spiders Stencil,4,$11.32 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.83 ,,4,1,3,10/13/2021 10:23,Nashville Wraps,FALSE,,,$11.32 
+d9e8a7c8-dfa5-4e7b-a607-0419f70290fa,Cookie Countess Spooky Landscape Stencil,3,$6.75 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.25 ,,3,1,3,,Nashville Wraps,FALSE,,,$6.75 
+e1d13840-92d5-4d0e-ba51-04317752deb5,Cookie Countess Tangled Web Stencil,2,$5.50 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,9/25/2021 15:34,PME,FALSE,,,$5.50 
+d4a02839-640f-4512-9294-fb284602eedd,Cookie Countess Trick or Treat Block Stencil,2,$5.50 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,10/13/2021 10:23,PME,FALSE,,,$5.50 
+10916d66-0578-4520-87e6-ba452160b862,Cookie Countess Trick or Treat Script Stencil,2,$4.50 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.25 ,,2,1,3,9/18/2021 12:40,PME,FALSE,,,$4.50 
+4cd3e89c-5083-477a-b84e-0d3411baeb52,Cookie Countess Witch Please Stencil,3,$16.50 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$5.50 ,,3,1,3,9/25/2021 15:05,Laser Cutter,FALSE,,,$16.50 
+a3db4689-0a71-452b-a594-ecd59ebe7ecd,Cookie Countess Witches Be Crazy Stencil,3,$8.25 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,Laser Cutter,FALSE,,,$8.25 
+b7bd4667-250e-4fea-945a-3d6fbbfe1106,Cookie Countess Witchy Witch 2 sizes Stencil,3,$8.25 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,Laser Cutter,FALSE,,,$8.25 
+ba095823-6a23-426a-b745-cff75cb44098,I Smell Children Silkscreen Stencil,2,$9.00 ,Stencils,Halloween,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$4.50 ,,2,1,1,10/15/2022 16:02,PME,FALSE,,,$9.00 
+cf8afa30-89be-4959-a0d1-c5d683717dc5,Witch Legs Stencil,4,$11.00 ,Stencils,Halloween,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,4,1,3,9/14/2021 11:05,Amazon,FALSE,,,$11.00 

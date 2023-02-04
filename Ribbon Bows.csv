@@ -1,0 +1,9 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+d6ca14cd-ac91-418d-b9f2-f07a2ba7c6de,Glimmer Metallic Bow Twist Ties - Gold Lg (5ct),,$0.00 ,Packaging,Ribbon Bows,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.30 ,,20,2,,12/21/2022 16:20,not tracked,FALSE,,,$25.98 
+59aefa21-c818-4529-a1dd-e69ed24f9d9c,Glimmer Metallic Bow Twist Ties - Gold Med (10ct),,$0.00 ,Packaging,Ribbon Bows,,4.00E+11,$3.79 ,TRUE,TRUE,TRUE,$1.91 ,,3,2,,10/2/2021 16:25,not tracked,FALSE,,,$5.72 
+36ffe433-9630-4c99-9901-119c5758060e,Glimmer Metallic Bow Twist Ties - Gold Sm (10ct),,$0.00 ,Packaging,Ribbon Bows,,4.00E+11,$0.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+e624b546-d21c-460f-b642-332fcea6aa5e,Glimmer Metallic Bow Twist Ties - Silver Lg (5ct),,$0.00 ,Packaging,Ribbon Bows,,4.00E+11,$2.79 ,TRUE,TRUE,TRUE,$1.32 ,,27,2,,2/11/2022 10:54,not tracked,FALSE,,,$35.63 
+8a69c1df-9578-40dc-8120-1dc2dc95af4d,Glimmer Metallic Bow Twist Ties - Silver Med (10ct),,$0.00 ,Packaging,Ribbon Bows,,4.00E+11,$3.79 ,TRUE,TRUE,TRUE,$1.90 ,,3,2,,11/4/2022 16:51,not tracked,FALSE,,,$5.71 
+27c6780f-cf11-48cc-b513-22e3da7d76f4,Glimmer Metallic Bow Twist Ties - Silver Sm (10ct),,$0.00 ,Packaging,Ribbon Bows,,4.00E+11,$0.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+e0d538b5-9feb-4dcb-9c2a-84eafae21610,Grosgrain Bow on Twist Tie - Large Forest Green,,$0.00 ,Packaging,Ribbon Bows,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.84 ,,4,0,,12/21/2022 13:40,not tracked,FALSE,,,$3.36 
+8b884217-cc2c-4c21-b0b0-8089f5a910e7,Grosgrain Bow on Twist Tie - Medium Forest Green,,$0.00 ,Packaging,Ribbon Bows,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.43 ,,2,0,,9/22/2022 16:32,not tracked,FALSE,,,$2.86 

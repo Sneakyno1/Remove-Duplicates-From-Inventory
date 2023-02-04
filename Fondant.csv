@@ -1,0 +1,8 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+5b9d2340-4d69-447b-b469-6924c2617cc6,Satin Ice Fondant 2lb. Navy Blue,2,$21.92 ,Icing,Fondant,8.51E+11,4.00E+11,$22.99 ,TRUE,FALSE,TRUE,$10.96 ,,2,1,1,6/17/2022 12:05,not tracked,FALSE,,,$21.92 
+68dfa04d-7eb8-4bfe-bf17-acbadfd19a82,Satin Ice Fondant Gold Shimmer 4.4oz.,13,$35.23 ,Icing,Fondant,8.57E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.71 ,,13,2,12,12/3/2022 14:55,DecoPac,FALSE,,,$35.23 
+281923f4-ae1e-4cda-98a1-0722ed03ab00,Satin Ice Fondant Pearl Shimmer 4.4oz.,2,$5.68 ,Icing,Fondant,8.10E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.84 ,,5,2,1,12/22/2022 16:25,DecoPac,FALSE,,,$14.20 
+58c54f99-044f-493a-9e8e-7c088396b020,Satin Ice Fondant Silver Shimmer 4.4oz.,8,$22.24 ,Icing,Fondant,1.84E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.78 ,,8,2,1,12/2/2022 17:08,not tracked,FALSE,,,$22.24 
+f9c30569-ddfb-470e-a4e7-3122d4bb4a7e,Wilton Decorator Preferred Fondant Yellow 24oz,5,$33.05 ,Icing,Fondant,70896423085,4.00E+11,$13.49 ,TRUE,FALSE,TRUE,$6.61 ,,8,1,3,7/19/2022 13:51,not tracked,FALSE,,,$52.88 
+e6b5b9f7-074a-4b6b-8a41-e77d6712f988,"Wilton Decorator Preferred Fondant, Neutral Multipack, 4.4oz packs x4",3,$24.66 ,Icing,Fondant,70896123145,4.00E+11,$14.99 ,TRUE,FALSE,TRUE,$8.22 ,,3,1,3,11/29/2022 11:13,not tracked,FALSE,,,$24.66 
+d9181bdd-030a-4b61-9699-a6297b0ba64d,"Wilton Decorator Preferred Fondant, Pastels, 4.4oz packs x4",2,$14.24 ,Icing,Fondant,70896423139,4.00E+11,$14.99 ,TRUE,FALSE,TRUE,$7.12 ,,2,1,3,7/26/2022 14:19,not tracked,FALSE,,,$14.24 

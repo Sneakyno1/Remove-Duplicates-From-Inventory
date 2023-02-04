@@ -1,0 +1,59 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+8d4a3559-ad60-4579-96db-0f3efc7afc6d,"Candy Sprinkles Cello Bags 4x2x9"", 5ct.",10,$6.50 ,Packaging,Bags,,4.00E+11,$1.39 ,TRUE,TRUE,TRUE,$0.65 ,,10,4,20,12/20/2022 11:05,R&M International - MoreThanBaking dot com,FALSE,,,$6.50 
+0d3eb750-c7c6-45a4-b343-c4c22dcf7f04,"Clear Gift Basket Bags, 2ct. - Large Poly 22""x8""x25""",6,$9.00 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.50 ,,8,2,,10/13/2022 15:05,Ateco,FALSE,,,$12.00 
+b310ae89-2c60-4fd5-b60a-9acc218bc124,"Clear Gift Basket Bags, 2ct. - Medium Poly 18.5""x5""x22.5",0,$0.00 ,Packaging,Bags,,4.00E+11,$2.69 ,TRUE,TRUE,TRUE,$1.25 ,,0,2,,12/17/2022 14:45,Wholesale Sugar Flowers dot com,FALSE,,,$0.00 
+477158de-e666-465b-a841-9203799c48a8,"Clear Gift Basket Bags, 2ct. - X Large Cello 25""x30""",18,$15.84 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.88 ,,19,2,,10/4/2022 16:32,Wholesale Sugar Flowers dot com,FALSE,,,$16.72 
+de7e622c-61cf-49ae-b1c2-6f0998e4023f,"Elegant White Lace Cello Bags 4x2x9"", 5ct.",2,$1.26 ,Packaging,Bags,,4.00E+11,$1.39 ,TRUE,TRUE,TRUE,$0.63 ,,2,0,0,12/21/2022 13:14,not tracked,FALSE,,,$1.26 
+952599f6-f1c4-4170-a86d-235004c35647,"Flat Cello Bags 25ct. - 2""x4 1/8""",0,$0.00 ,Packaging,Bags,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.42 ,,1,0,,12/8/2022 17:09,CK Products,FALSE,,,$0.42 
+49dbb104-e909-46a0-b857-ab651030fe46,"Flat Cello Bags 25ct. - 2""x8""",8,$7.44 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.93 ,,8,3,,12/17/2022 14:19,CK Products,FALSE,,,$7.44 
+e33d77aa-2869-41db-9af3-be64bf17306c,"Flat Cello Bags 25ct. - 2.25""x8""",30,$14.50 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.48 ,,42,0,,12/20/2022 15:32,not tracked,FALSE,,,$20.31 
+7c5831b9-068c-4b66-b09d-45892feb22ba,"Flat Cello Bags 25ct. - 2.5""x10""",15,$18.15 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.21 ,,16,3,,12/17/2022 11:55,not tracked,FALSE,,,$19.36 
+8f157e30-7d87-43b5-a799-7ca85a866ee9,"Flat Cello Bags 25ct. - 2.5""x4.25""",6,$7.44 ,Packaging,Bags,,4.00E+11,$2.69 ,TRUE,TRUE,TRUE,$1.24 ,,6,3,,12/21/2022 15:15,not tracked,FALSE,,,$7.44 
+0a04e8e4-a12f-4fad-aed9-ccc0eb719023,Flat Cello Bags 25ct. - 2x10,10,$11.50 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.15 ,,20,3,,12/9/2022 11:24,not tracked,FALSE,,,$23.00 
+ebd09d4f-df53-4b90-94af-4778afd456df,"Flat Cello Bags 25ct. - 3""x11""",2,$3.50 ,Packaging,Bags,,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$1.75 ,,3,3,,12/20/2022 13:51,not tracked,FALSE,,,$5.26 
+47dc1d71-0580-49e5-88f4-9d9c550edc9b,"Flat Cello Bags 25ct. - 3""x5""",12,$16.44 ,Packaging,Bags,,4.00E+11,$2.79 ,TRUE,TRUE,TRUE,$1.37 ,,14,3,,12/21/2022 15:15,not tracked,FALSE,,,$19.18 
+eefa6580-5394-4db7-810a-1ef0bcd19b59,"Flat Cello Bags 25ct. - 3""x5.5""",103,$80.13 ,Packaging,Bags,,4.00E+11,$1.79 ,TRUE,TRUE,TRUE,$0.78 ,,106,3,,12/16/2022 11:45,not tracked,FALSE,,,$82.46 
+f128946c-465e-4172-9013-13a8259478a1,"Flat Cello Bags 25ct. - 3""x6""",20,$15.82 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.79 ,,21,3,,12/20/2022 10:21,not tracked,FALSE,,,$16.61 
+df64e7a8-c610-4999-9d5d-d2878b28e3c6,"Flat Cello Bags 25ct. - 3""x7""",0,$0.00 ,Packaging,Bags,,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,7/24/2020 14:13,not tracked,FALSE,,,$0.00 
+2048d7b3-b380-442a-a280-8a9776ba2ab8,"Flat Cello Bags 25ct. - 3""x8""",0,$0.00 ,Packaging,Bags,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.00 ,,4,3,,10/29/2022 13:12,not tracked,FALSE,,,$0.00 
+abc047f0-2255-4b48-8dc4-c913e9499393,"Flat Cello Bags 25ct. - 3.5""x11",27,$30.51 ,Packaging,Bags,,4.00E+11,$3.89 ,TRUE,TRUE,TRUE,$1.13 ,,28,3,,12/21/2022 15:32,not tracked,FALSE,,,$31.64 
+93200abb-fecf-4608-8ee7-927e618417ac,"Flat Cello Bags 25ct. - 3.5""x11"" seam",19,$21.47 ,Packaging,Bags,,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.13 ,,19,3,,11/10/2022 15:44,not tracked,FALSE,,,$21.47 
+260d0bbe-6979-4011-85e6-a38c0cf95f49,"Flat Cello Bags 25ct. - 3.5""x5.5""",,$0.00 ,Packaging,Bags,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.14 ,,27,3,,12/10/2022 15:23,not tracked,FALSE,,,$30.90 
+a9050de4-63cb-41fb-a821-ac05813d84da,"Flat Cello Bags 25ct. - 3.5""x7.5""",12,$14.64 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.22 ,,12,3,,12/15/2022 13:42,not tracked,FALSE,,,$14.64 
+d00b7cf4-79ce-4279-b747-c362b1a1fa5d,"Flat Cello Bags 25ct. - 3.75""x6.5""",13,$14.13 ,Packaging,Bags,,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.09 ,,12,3,,12/10/2022 10:45,not tracked,FALSE,,,$13.05 
+1f6fd1f0-3c3d-4a7c-a8ba-5bd81910945e,"Flat Cello Bags 25ct. - 4 5/16"" square self seal",240,$392.88 ,Packaging,Bags,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.64 ,,38,3,,12/22/2022 12:54,not tracked,FALSE,,,$62.21 
+f8276a93-3168-4d02-bb5a-510504a0acaa,"Flat Cello Bags 25ct. - 4""x11",0,$0.00 ,Packaging,Bags,,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$0.06 ,,3,3,,12/16/2022 10:55,not tracked,FALSE,,,$0.17 
+2dfa1d90-d3b4-4531-a582-a116573e9111,"Flat Cello Bags 25ct. - 4""x12""",23,$0.00 ,Packaging,Bags,,4.00E+11,$3.89 ,TRUE,TRUE,TRUE,$0.00 ,,30,3,,12/21/2022 15:23,not tracked,FALSE,,,$0.00 
+d85dc2f8-fa72-41ff-a43d-2f19106c6aaa,"Flat Cello Bags 25ct. - 4""x8""",0,$0.00 ,Packaging,Bags,,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$0.50 ,,-1,3,,12/22/2022 14:49,not tracked,FALSE,,,($0.50)
+843cbc2b-fd7c-496b-8597-bdd3f0fb53ff,"Flat Cello Bags 25ct. - 4.31"" Sq. Self Seal",0,$0.00 ,Packaging,Bags,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.53 ,,-6,0,,9/27/2022 11:11,not tracked,FALSE,,,($9.18)
+5d79814c-5abd-4f32-b89a-17c1109ebcca,"Flat Cello Bags 25ct. - 4.5""x8.75""",2,$1.90 ,Packaging,Bags,,4.00E+11,$3.79 ,TRUE,TRUE,TRUE,$0.95 ,,5,3,,12/22/2022 14:25,not tracked,FALSE,,,$4.75 
+3177acfd-f03a-47a0-bf9d-1259f89863ff,"Flat Cello Bags 25ct. - 4.75""X6.75""",2,$4.53 ,Packaging,Bags,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.27 ,,3,3,,12/10/2022 10:24,not tracked,FALSE,,,$6.80 
+9a1dacba-b973-49fd-9ca0-4b66964a963e,Flat Cello Bags 25ct. - 4x6,39,$42.55 ,Packaging,Bags,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.09 ,,40,3,,12/22/2022 10:57,not tracked,FALSE,,,$43.64 
+8dad28e4-cd3b-4062-b15c-a87ab9dcef1b,"Flat Cello Bags 25ct. - 5""x10""",0,$0.00 ,Packaging,Bags,,4.00E+11,$3.89 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,12/16/2020 12:03,not tracked,FALSE,,,$0.00 
+5f20784b-a67f-4771-83e3-c17c5e8ac79b,"Flat Cello Bags 25ct. - 5""x8""",0,$0.00 ,Packaging,Bags,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$0.50 ,,0,0,,6/16/2021 11:21,not tracked,FALSE,,,$0.00 
+d4321753-ea77-45f0-8c02-40954087ddee,"Flat Cello Bags 25ct. - 5.25""x8.25""",23,$57.37 ,Packaging,Bags,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.49 ,,23,3,,12/22/2022 11:16,not tracked,FALSE,,,$57.37 
+770b683f-5f25-4855-84b2-30fc128744ca,"Flat Cello Bags 25ct. - 5.75""x7.75""",5,$7.63 ,Packaging,Bags,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.53 ,,6,3,,12/16/2022 13:40,not tracked,FALSE,,,$9.15 
+3b3b798d-3feb-48ca-be23-cd96be534432,"Flat Cello Bags 25ct. - 6""x10""",3,$4.03 ,Packaging,Bags,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.34 ,,5,3,,9/9/2022 16:15,not tracked,FALSE,,,$6.72 
+22c14450-0f6f-4d0d-8dea-371095b4f8ea,"Flat Cello Bags 25ct. - 6.5""x9.5""",0,$0.00 ,Packaging,Bags,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,4/2/2021 12:31,not tracked,FALSE,,,$0.00 
+71d335f0-534d-4d7b-9db6-41cc9147f4e2,"Flat Cello Bags 25ct. - 6.75""x9""",25,$35.00 ,Packaging,Bags,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.40 ,,25,3,,12/21/2022 14:56,not tracked,FALSE,,,$35.00 
+c32acc19-0052-4521-b1c9-dd4cb987dc06,"Flat Cello Bags 25ct. - 7""x10""",7,$12.18 ,Packaging,Bags,,4.00E+11,$4.49 ,TRUE,TRUE,TRUE,$1.74 ,,7,3,,12/16/2022 11:39,not tracked,FALSE,,,$12.18 
+24a0619c-7e06-4fb1-bde5-374946426836,"Gusseted bags - 2.5x1.5x7.5"" (25ct)",1,$0.00 ,Packaging,Bags,,4.00E+11,$2.69 ,TRUE,TRUE,TRUE,$0.00 ,,4,3,,12/6/2022 16:45,not tracked,FALSE,,,$0.00 
+a8ba7294-557d-4090-b1f9-ed265c20b828,"Gusseted bags - 3.5x2.25x8.25""",4,$6.28 ,Packaging,Bags,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.57 ,,4,2,,12/20/2022 16:07,not tracked,FALSE,,,$6.28 
+137e116d-89c8-4b80-8958-831d60ec57a0,"Gusseted bags - 3x1.75x6.75""(25ct)",12,$15.60 ,Packaging,Bags,,4.00E+11,$2.69 ,TRUE,TRUE,TRUE,$1.30 ,,12,2,,12/16/2022 11:21,not tracked,FALSE,,,$15.60 
+20e36022-4e82-457d-9f9d-6105090a9fef,"Gusseted bags - 4.5x3.25x13""",16,$33.99 ,Packaging,Bags,,4.00E+11,$4.29 ,TRUE,TRUE,TRUE,$2.12 ,,33,10,,12/3/2022 15:49,not tracked,FALSE,,,$70.10 
+b9f74a97-a983-4e14-adc2-6a64ae009568,"Gusseted bags - 4x2.75x10.75""",12,$13.04 ,Packaging,Bags,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.09 ,,14,10,,12/20/2022 15:16,not tracked,FALSE,,,$15.21 
+f7b45ed6-363e-4617-973f-a3c88e6cca31,Gusseted bags - 5.5x2.25x13,0,$0.00 ,Packaging,Bags,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.76 ,,0,0,,6/17/2022 11:16,not tracked,FALSE,,,$0.00 
+53abb8d4-2e42-43e2-9b84-a24b5d172414,Gusseted bags - 5.5x3.25x12.5,6,$11.70 ,Packaging,Bags,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$1.95 ,,13,2,,12/22/2022 15:27,not tracked,FALSE,,,$25.35 
+6a5a0b36-82b9-4896-9388-dbfee4ba4b6f,Gusseted bags - 5x3.25x11.5,16,$28.64 ,Packaging,Bags,,4.00E+11,$4.79 ,TRUE,TRUE,TRUE,$1.79 ,,9,2,,12/16/2022 10:37,not tracked,FALSE,,,$16.11 
+2b3fa847-677d-4d95-a080-ed4a027997fd,Gusseted bags - 5x3.25x14,8,$27.38 ,Packaging,Bags,,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.42 ,,10,2,,12/17/2022 16:02,not tracked,FALSE,,,$34.22 
+bd185bac-0c57-4304-a79f-1ff25d1706a7,Gusseted bags - 6x3.25x14,2,$4.30 ,Packaging,Bags,,4.00E+11,$4.39 ,TRUE,TRUE,TRUE,$2.15 ,,13,3,,12/17/2022 14:05,not tracked,FALSE,,,$27.96 
+d4b9201b-2f6a-43ee-9892-1bab3d3eb11c,Gusseted bags - Bread Bags 8x4x18 (2ct),36,$10.44 ,Packaging,Bags,,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.29 ,,38,10,,12/20/2022 15:16,not tracked,FALSE,,,$11.02 
+2929c336-cacf-4d2e-ba63-fdbebdf4c0a6,"Wilton Autumn Party Bag, 20ct.",,$0.00 ,Packaging,Bags,70896004277,4.00E+11,$2.09 ,TRUE,TRUE,TRUE,$0.00 ,,3,1,1,7/29/2022 15:01,Linneas Inc dot com,FALSE,,,$0.00 
+d0b1ba24-e14b-46fb-adc7-6e23d0b4008f,"Wilton Clear Party Bags 100ct., 4""x6""",0,$0.00 ,Packaging,Bags,70896122940,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$2.90 ,,10,2,6,12/21/2022 15:15,Linneas Inc dot com,FALSE,,,$29.00 
+3960be5f-da2f-4077-9f05-441cfcb09d89,"Wilton Gold Dot Clear Party Bags, 10ct.",1,$1.42 ,Packaging,Bags,70896675101,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.42 ,,1,0,0,9/8/2022 15:28,Linneas Inc dot com,FALSE,,,$1.42 
+93915a00-2358-4010-bbe5-e3ee0c7a7174,Wilton Party Bags 20ct.  (Spring flowers & birds),0,$0.00 ,Packaging,Bags,70896197290,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,0,10/27/2022 15:20,not tracked,FALSE,,,$0.00 
+80215ed4-9e1a-414b-8a2a-e7c180944324,"Wilton Pumpkin Patch Party Bags, 20ct.",0,$0.00 ,Packaging,Bags,70896514189,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,10/14/2020 13:05,Linneas Inc dot com,FALSE,,,$0.00 
+cbb4ef45-dc6d-4677-9ee7-6190f222a43f,"Wilton Rainbow Party Bags, 30ct.",2,$4.34 ,Packaging,Bags,70896271914,4.00E+11,$4.69 ,TRUE,TRUE,TRUE,$2.17 ,,2,1,6,12/16/2022 12:45,Linneas Inc dot com,FALSE,,,$4.34 
+7c4f9729-e702-4432-91de-11bc4daaa16a,"Wilton Treat Bags 150ct. 4x6""",5,$25.75 ,Packaging,Bags,70896195081,4.00E+11,$10.49 ,TRUE,TRUE,TRUE,$5.15 ,,5,1,3,11/22/2022 16:41,not tracked,FALSE,,,$25.75 
+1e1ae560-2e4a-4648-baa1-9542550c00d6,"Wilton Treat Bags Happy Birthday 4x2x9.5"", 30ct.",1,$1.37 ,Packaging,Bags,70896024916,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.37 ,,1,0,0,8/11/2022 13:26,not tracked,FALSE,,,$1.37 
+20638c39-9889-4b6d-b041-b6eb6c6faed2,"Wilton Treat Bags Sweet Dots 20ct., 4x2x9.5""",0,$0.00 ,Packaging,Bags,70896401168,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.20 ,,0,0,0,5/19/2021 13:02,not tracked,FALSE,,,$0.00 

@@ -1,0 +1,6 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+73590226-35D5-4AB1-8F88-3012CD31EDF6,"Celebakes Candy Pebbles, 4oz.",10,$12.90 ,Decorations,Candy,,4.00E+11,$3.29 ,TRUE,FALSE,TRUE,$1.29 ,,10,1,1,12/8/2022 14:11,Cookie Cutters dot Com,FALSE,,,$12.90 
+51A7EA23-6933-4E4E-9D97-5048C90EB15D,"Color It Candy Shimmer Pearls, 3oz. - Bright Pink",,$0.00 ,Decorations,Candy,,4.00E+11,$2.99 ,TRUE,FALSE,TRUE,$1.07 ,,5,2,,11/22/2022 10:27,CK Products,FALSE,,,$5.37 
+2E4CE062-D00D-4091-94C5-A4D085A598B1,"Color It Candy Shimmer Pearls, 3oz. - Shimmer White",,$0.00 ,Decorations,Candy,,4.00E+11,$2.99 ,TRUE,FALSE,TRUE,$1.06 ,,3,2,,12/9/2022 10:27,Sweet Stamp,FALSE,,,$3.19 
+54DC9DBE-AD3F-41C0-9B13-94D16D972F6E,Wilton Red Jumbo Hearts Pouch,,$0.00 ,Decorations,Candy,70896172808,4.00E+11,$1.29 ,TRUE,FALSE,TRUE,$0.60 ,,6,2,3,11/30/2022 14:48,DecoPac,FALSE,,,$3.60 
+64144143-A8A6-45B5-9036-6C2DA5EF1FBA,"Wilton Salted Caramel Candy Spoons, 6ct.",,$0.00 ,Decorations,Candy,70896093219,4.00E+11,$6.99 ,TRUE,FALSE,TRUE,$3.46 ,,2,1,6,11/27/2021 15:36,DecoPac,FALSE,,,$6.92 

@@ -1,0 +1,34 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+787D7EAA-B96F-4596-882F-A69D1EEB8475,"1 1/8"" Bear Choc Mold 90-11709",,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.05 ,,1,1,3,11/19/2022 10:30,Wilton (WiltonForBusiness dot com),FALSE,,,$1.05 
+8AB6A5ED-316E-45B8-A508-1BFA18E165A9,"2"" Bear Sucker Mold 90-11741",,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.20 ,,3,1,3,11/19/2022 10:30,Wilton (WiltonForBusiness dot com),FALSE,,,$3.60 
+1C8BB4B7-6791-4A78-A4F9-515926C4964E,Baby Feet Choc Mold LOTP B072,,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.03 ,,4,1,6,11/19/2022 10:30,Wilton (WiltonForBusiness dot com),FALSE,,,$4.12 
+FAACD38C-593A-4C61-9BFF-3EACC4C35671,"Baby Onesie ""?"" Choc Mold LOTP B076",,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.25 ,TRUE,TRUE,TRUE,$0.90 ,,4,1,6,4/8/2022 15:31,not tracked,FALSE,,,$3.60 
+CA459FD7-5702-4FA7-B39B-F8CFAAFB96EF,Bear Lolly Choc Mold LOTP A050,,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.03 ,,6,1,1,,Wilton (WiltonForBusiness dot com),FALSE,,,$6.18 
+79F8AA1C-0C39-42A1-98D4-8CEB20392179,Brother & Sister Elephant Mold 90-965,,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.99 ,,4,1,3,4/9/2022 16:03,Wilton (WiltonForBusiness dot com),FALSE,,,$3.96 
+E5ED890F-34EB-47D9-A98E-5C13EF3FC029,It's a Girl Oreo Choc Mold 90-16117,,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.25 ,TRUE,TRUE,TRUE,$0.81 ,,4,1,3,8/19/2021 16:20,not tracked,FALSE,,,$3.24 
+E51875C7-CB29-4EBA-951A-DF028EF87B3C,"Teddy Bear 2"" Choc Mold 90-11708",,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.54 ,,5,1,0,12/2/2022 13:12,Cookie Cutter dot Com Off the beaten path,FALSE,,,$2.70 
+ADC3A7B2-BAD4-4C49-9192-73FF6D0BF226,Teddy Bear w/heart Oreo Mold 90-16006,,$0.00 ,Chocolate Molds,Baby,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.54 ,,4,1,0,11/19/2022 10:30,R&M International - MoreThanBaking dot com,FALSE,,,$2.16 
+9060B4C6-9B26-4858-AABD-06D2C3C87E0F,Wilton Baby Onesie Lollipop Mold,,$0.00 ,Chocolate Molds,Baby,70896050311,4.00E+11,$2.69 ,TRUE,TRUE,TRUE,$1.30 ,,4,1,3,6/18/2022 13:59,R&M International - MoreThanBaking dot com,FALSE,,,$5.20 
+0CA9289E-A409-4392-BDDE-ECD81869CA1C,"""Baby"" Cookie Cutter & Stencil Set",0,$0.00 ,Cookie Cutters,Baby,,4.00E+11,$14.99 ,TRUE,TRUE,TRUE,$7.00 ,,0,1,6,11/8/2022 10:46,R&M International - MoreThanBaking dot com,FALSE,,,$0.00 
+D46BCB9A-611B-43A8-9AD2-73F590BDB979,"Ann Clark Baby Bib Cookie Cutter 3""",10,$9.80 ,Cookie Cutters,Baby,8.71E+11,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.98 ,,10,2,12,11/15/2022 10:37,not tracked,FALSE,,,$9.80 
+31F851E1-1B52-40C2-BDCB-FCB124A2AE70,"Ann Clark Tiny Bear 2.75""x2.25""",10,$8.20 ,Cookie Cutters,Baby,8.18E+11,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.82 ,,10,2,12,1/20/2022 12:30,DecoPac,FALSE,,,$8.20 
+1E6A4D95-D246-40D5-B11B-49F6BE9B1CBF,"Baby Block Cutter 3""",5,$10.45 ,Cookie Cutters,Baby,,4.00E+11,$4.29 ,TRUE,TRUE,TRUE,$2.09 ,,6,1,10,9/10/2022 11:21,DecoPac,FALSE,,,$12.54 
+E85A57B6-D124-42A1-B669-1947E40891C0,"Baby Elephant Cookie Cutter 3.25""",8,$6.40 ,Cookie Cutters,Baby,71581010009,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.80 ,,8,2,12,11/17/2022 18:50,DecoPac,FALSE,,,$6.40 
+DA6E504F-24A5-49E1-BEE1-CB1D4258698C,"Baby Onesie/Bodysuit Cookie Cutter 4""",4,$3.44 ,Cookie Cutters,Baby,71581009508,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.86 ,,5,1,12,8/27/2022 15:59,DecoPac,FALSE,,,$4.30 
+B1D99225-6C3C-4A82-94C4-37F5B06C3E03,"Baby Rattle Cookie Cutter 4""x2"" B1805",9,$9.90 ,Cookie Cutters,Baby,71581009904,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.10 ,,10,2,12,11/15/2022 10:37,DecoPac,FALSE,,,$11.00 
+078689CE-E7CA-452D-ABF6-BFA4B229D113,"Rubber Duck Cookie Cutter 3.75"" B1260",6,$4.56 ,Cookie Cutters,Baby,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.76 ,,6,1,1,,Webstaurant store,FALSE,,,$4.56 
+695A8E10-1138-4FB5-A3F5-FD50B473F9E3,"Tunde Baby Romper Cookie Cutter 3""x3.25""",10,$11.30 ,Cookie Cutters,Baby,8.18E+11,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.13 ,,10,2,12,9/15/2022 12:42,AnnClarkCookieCutters dot com,FALSE,,,$11.30 
+034CA3C0-B290-41DC-AFB4-36B4EFE4CCC1,"""It's a Boy"" Cupcake Rings, 6ct.",12,$9.36 ,Decorations,Baby,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.78 ,,12,2,12,8/26/2022 13:21,Choklit Molds dot com,FALSE,,,$9.36 
+088033DE-2296-4DC7-ABCD-2D6329EEA2F8,"""It's a Girl"" Cupcake Rings, 6ct.",11,$8.25 ,Decorations,Baby,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.75 ,,11,2,12,12/10/2022 14:13,Choklit Molds dot com,FALSE,,,$8.25 
+7642F5E2-C7D8-4481-BDF2-801E7D6D40ED,"Baby Animals Rings, 6ct.",4,$2.80 ,Decorations,Baby,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.70 ,,4,2,0,9/2/2022 10:15,CK Products,FALSE,,,$2.80 
+EAC5C342-C3F7-40EA-8E95-C5BF74803D0F,B-A-B-Y Blocks Set,2,$6.64 ,Decorations,Baby,6.08E+11,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.32 ,,2,1,2,9/30/2022 17:06,not tracked,FALSE,,,$6.64 
+0EBFA5E5-368B-4F0C-9F88-0AFC039B55E0,"Baby Picks, 6ct. - Blue",0,$0.00 ,Decorations,Baby,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.32 ,,0,1,,9/22/2022 10:10,Pfeil & Holing Cake Deco dot com 718 545 4600,FALSE,,,$0.00 
+CA00780C-CFF5-4C8F-AD64-81D454985381,"Baby Picks, 6ct. - Green",21,$6.17 ,Decorations,Baby,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.29 ,,21,1,,8/17/2022 11:18,DecoPac,FALSE,,,$6.17 
+C8EDB75F-5075-4CEB-8CD6-713179CBF49C,"Baby Picks, 6ct. - Pink",8,$2.52 ,Decorations,Baby,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.32 ,,8,1,,4/2/2022 11:03,The Vines Flower Shop,FALSE,,,$2.52 
+18806CE0-980C-4F00-804A-27D4817730BA,"Bakery Crafts ""Oh Baby"" Cake Topper",12,$19.32 ,Decorations,Baby,6.08E+11,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.61 ,,12,3,12,12/2/2022 13:12,Fredal 586-773-3133,FALSE,,,$19.32 
+FADD7DCC-59A3-4C9E-861E-0E5CA695565A,"Bakery Crafts Cupcake Wraps - Oh Baby, 12sets",12,$28.80 ,Decorations,Baby,6.08E+11,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.40 ,,12,2,1,,DecoPac,FALSE,,,$28.80 
+693F7DDD-39C3-499E-A6F9-3A82645F7D2B,Blue Baby Booties DecoSet,2,$7.66 ,Decorations,Baby,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$3.83 ,,2,1,2,10/30/2021 15:06,CK Products,FALSE,,,$7.66 
+CA62B60B-FC7E-491E-B3AE-565AC81253F0,"Glitter ""It's a Boy/Girl"" Cake Topper - Boy",,$0.00 ,Decorations,Baby,39938545208,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.50 ,,7,2,,11/2/2022 17:02,CK Products,FALSE,,,$10.50 
+04070D5E-DFD1-487B-BF3C-276B662B5029,"Glitter ""It's a Boy/Girl"" Cake Topper - Girl",,$0.00 ,Decorations,Baby,39938545215,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.50 ,,6,2,,5/6/2022 16:46,DecoPac,FALSE,,,$9.00 
+EB90ACF7-4059-40D6-BDBC-CB0AA97C4362,"Oh Baby Gold DecoPics, 6ct.",,$0.00 ,Decorations,Baby,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.78 ,,6,2,1,12/22/2022 12:12,CK Products,FALSE,,,$4.68 
+E9DA5898-84BA-4E75-BF97-33AA57FE08F4,Pink Baby Booties DecoSet,,$0.00 ,Decorations,Baby,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$3.50 ,,1,1,2,10/26/2022 13:26,CK Products,FALSE,,,$3.50 

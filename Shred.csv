@@ -1,0 +1,3 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+32446f09-966c-465b-8f54-cdd8f9d8af5c,Krinkle Paper Shred 3oz (Not for Contact w/Food) - Kraft,,$0.00 ,Packaging,Shred,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.57 ,,48,2,,12/17/2022 13:19,not tracked,FALSE,,,$27.36 
+aea65f2c-8157-4ee0-9d13-6f0f28e92e9c,Krinkle Paper Shred 3oz (Not for Contact w/Food) - White,,$0.00 ,Packaging,Shred,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.69 ,,42,2,,12/17/2022 13:19,not tracked,FALSE,,,$28.98 

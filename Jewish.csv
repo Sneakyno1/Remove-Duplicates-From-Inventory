@@ -1,0 +1,3 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+9FC778CD-6C2B-45D9-98CE-0F23153E1F65,Dreidel Oreo Choc Mold CML 1617,,$0.00 ,Chocolate Molds,Jewish,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.97 ,,4,1,1,,not tracked,FALSE,,,$3.88 
+CC0DB978-3ADF-4C29-92C2-5B4784E5F3CB,Jewish Symbol Choc Mold 90-7101,,$0.00 ,Chocolate Molds,Jewish,,4.00E+11,$2.25 ,TRUE,TRUE,TRUE,$0.83 ,,0,1,3,12/10/2022 10:11,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 

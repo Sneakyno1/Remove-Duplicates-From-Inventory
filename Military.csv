@@ -1,0 +1,5 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+5A4F7C5F-9DA2-4B3A-8FCC-2A7BB6802008,"United States Air Force Rings, 6ct.",,$0.00 ,Decorations,Military,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.93 ,,12,2,1,,not tracked,FALSE,,,$11.16 
+C4F735F2-D865-40E3-8246-7BF68261F681,"United States Army Rings, 6ct.",,$0.00 ,Decorations,Military,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.93 ,,10,2,1,8/25/2022 10:13,Linneas Inc dot com,FALSE,,,$9.30 
+4D29B95F-B5FB-407A-8960-534920214CE8,"United States Marine Corps Rings, 6ct.",,$0.00 ,Decorations,Military,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.93 ,,11,2,1,12/20/2022 14:25,Linneas Inc dot com,FALSE,,,$10.23 
+1FE44683-2C05-41CB-AC4C-25891D979415,"United States Navy Rings, 6ct.",,$0.00 ,Decorations,Military,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.93 ,,11,2,1,5/14/2022 14:01,Linneas Inc dot com,FALSE,,,$10.23 

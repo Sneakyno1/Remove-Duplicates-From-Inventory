@@ -1,0 +1,5 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+894352b2-8fc6-4b8a-8fe4-da0b4a13dd37,"Celebakes Caramel Bits, 16oz.",,$0.00 ,Non-Taxable General,Non-Taxable General,7.45E+11,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$4.84 ,,0,0,0,11/26/2021 10:48,Wholesale Sugar Flowers dot com,FALSE,,,$0.00 
+5387c636-2360-4c48-9e5d-4813f2176ccc,Gift Card,,$0.00 ,Non-Taxable General,Non-Taxable General,,4.00E+11,$0.00 ,FALSE,FALSE,TRUE,$0.00 ,,-54,0,0,12/21/2022 11:47,Wholesale Sugar Flowers dot com,FALSE,,,$0.00 
+ba2e243f-37f3-4576-8824-a5ae53925cd8,"Mini Tart Shells, Frozen (40ct)",,$0.00 ,Non-Taxable General,Non-Taxable General,,4.00E+11,$17.99 ,TRUE,FALSE,TRUE,$7.80 ,,3,2,0,12/22/2022 14:33,Wholesale Sugar Flowers dot com,FALSE,,,$23.40 
+f989235b-aa80-4fea-9959-d0b9a0400c9d,Non-Taxable General Sale - 0,,$0.00 ,Non-Taxable General,Non-Taxable General,,4.00E+11,$0.00 ,TRUE,FALSE,FALSE,,0,0,0,,,Wholesale Sugar Flowers dot com,FALSE,,,$0.00 

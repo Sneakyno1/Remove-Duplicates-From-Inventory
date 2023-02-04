@@ -1,0 +1,6 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+e82c68a3-56d6-4b62-83f4-d1e803607fb3,2 lb. Gold Foil Loaf Pan w/ Plastic Lid,,$0.00 ,Pans,Disposable,,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.52 ,,77,5,1,12/13/2022 10:22,not tracked,FALSE,,,$40.04 
+000c12b6-9654-49e7-ac7c-58bafddeaefe,"9"" Foil Pie Pan 1 1/16"" deep",,$0.00 ,Pans,Disposable,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.19 ,,99,5,50,12/21/2022 12:15,not tracked,FALSE,,,$18.81 
+80f9f161-0a31-491b-b501-4aefbfae3b80,Disposable 5oz. Cupcake Pan/Ramekin with Clear Lid - Red,,$0.00 ,Pans,Disposable,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.39 ,,25,1,,,not tracked,FALSE,,,$9.75 
+4943b421-a697-4fa3-88eb-510ede70180b,"Disposable Extra Deep Foil Pie Pan 5.75""x1.75""",,$0.00 ,Pans,Disposable,,4.00E+11,$0.75 ,TRUE,TRUE,TRUE,$0.29 ,,11,10,100,11/23/2022 12:28,not tracked,FALSE,,,$3.19 
+a4f90306-77f0-41ce-80ee-93a3751a58bb,"Disposable Foil Pie or Tart Pan 3 3/8""",,$0.00 ,Pans,Disposable,,4.00E+11,$0.25 ,TRUE,TRUE,TRUE,$0.08 ,,16,15,125,11/18/2022 15:44,not tracked,FALSE,,,$1.28 

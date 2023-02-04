@@ -1,0 +1,30 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+782d9600-7fc6-4075-9549-2bb6d001fb09,Make-N-Take December 2020 - Dark/Silver & Gold,,$0.00 ,Events,Make-N-Take,,4.00E+11,$6.00 ,TRUE,TRUE,TRUE,$1.50 ,,0,0,,12/4/2020 14:42,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+82e8d296-e14e-47a5-bed5-92fc55cb248d,Make-N-Take December 2020 - Milk/Hot Chocolate,,$0.00 ,Events,Make-N-Take,,4.00E+11,$6.00 ,TRUE,TRUE,TRUE,$1.50 ,,0,0,,12/5/2020 13:47,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+8d995d97-abf6-464f-829e-ac19cde71f84,Make-N-Take December 2020 - Surprise Me!,,$0.00 ,Events,Make-N-Take,,4.00E+11,$6.00 ,TRUE,TRUE,TRUE,$1.50 ,,0,0,,12/2/2020 17:17,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+18f0d0b1-7886-490b-ae06-749acfe72c8e,Make-N-Take December 2020 - White/Peppermint,,$0.00 ,Events,Make-N-Take,,4.00E+11,$6.00 ,TRUE,TRUE,TRUE,$1.50 ,,0,0,,12/5/2020 15:38,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+9c5266f2-0d45-4c9f-8bd9-2a591c9a5830,Make-N-Take December 2021,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,TRUE,TRUE,FALSE,,3,0,0,0,12/4/2021 14:41,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+8782d9bc-d6a5-4eb7-8ea1-2971cae74821,Make-N-Take December 2022,,$0.00 ,Events,Make-N-Take,,4.00E+11,$6.00 ,TRUE,FALSE,FALSE,,1.5,0,0,0,12/9/2022 16:23,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+3ef169b4-6158-4e3e-9f95-84462c4f6f22,Make-N-Take February 2021,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$4.00 ,,0,0,0,2/6/2021 11:45,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+b63b1439-a314-4ebe-873b-d08be0f6ab90,Make-N-Take February 2022,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$3.00 ,,-3,0,0,1/27/2022 13:55,Wilton (WiltonForBusiness dot com),FALSE,,,($9.00)
+79c227f0-1cdd-416a-a90b-ee527ab40623,Make-N-Take July 2021,,$0.00 ,Events,Make-N-Take,,4.00E+11,$2.00 ,TRUE,TRUE,TRUE,$0.40 ,,0,0,0,7/17/2021 16:12,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+53094c17-38bc-464a-b5cc-df53bfa3f2ec,Make-N-Take July 2022,,$0.00 ,Events,Make-N-Take,,4.00E+11,$7.00 ,TRUE,FALSE,FALSE,,4.75,0,0,0,7/16/2022 15:49,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+3cec428b-4f04-406a-92fc-bb5b9d25c558,Make-N-Take June 2021 - Berries,,$0.00 ,Events,Make-N-Take,,4.00E+11,$5.00 ,TRUE,TRUE,TRUE,$2.50 ,,0,0,,6/5/2021 15:40,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+4db4e1c1-2eb9-40d5-a753-836754c6dec8,Make-N-Take June 2021 - Cloud,,$0.00 ,Events,Make-N-Take,,4.00E+11,$5.00 ,TRUE,TRUE,TRUE,$2.50 ,,0,0,,6/5/2021 16:01,not tracked,FALSE,,,$0.00 
+d1f28e13-4802-49eb-bb1d-11a10d398df0,Make-N-Take June 2021 - Design Your Own (Blank),,$0.00 ,Events,Make-N-Take,,4.00E+11,$5.00 ,TRUE,TRUE,TRUE,$2.50 ,,0,0,,6/5/2021 16:01,not tracked,FALSE,,,$0.00 
+8ee0e49b-10f1-46e8-bdcf-1a367c748ea9,Make-N-Take June 2021 - Monster Truck,,$0.00 ,Events,Make-N-Take,,4.00E+11,$5.00 ,TRUE,TRUE,TRUE,$2.50 ,,0,0,,6/5/2021 16:01,not tracked,FALSE,,,$0.00 
+f7816745-ac46-404a-9be2-87ff47f50081,Make-N-Take June 2021 - Rocket,,$0.00 ,Events,Make-N-Take,,4.00E+11,$5.00 ,TRUE,TRUE,TRUE,$2.50 ,,0,0,,6/5/2021 14:43,not tracked,FALSE,,,$0.00 
+d2119dc7-16da-4165-815e-d1d14b8191f4,Make-N-Take June 2022,,$0.00 ,Events,Make-N-Take,,4.00E+11,$5.00 ,TRUE,FALSE,TRUE,$2.50 ,,0,0,0,6/4/2022 11:36,not tracked,FALSE,,,$0.00 
+7c648e13-c0a2-4ef5-8d3e-476b7819ba91,Make-N-Take March 2021,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$3.50 ,,0,0,0,3/27/2021 15:22,CK Products,FALSE,,,$0.00 
+ea1efed9-f504-4d44-8bcf-bd2656044804,Make-N-Take May 2021,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$4.00 ,,0,0,0,5/8/2021 16:06,CK Products,FALSE,,,$0.00 
+2ba9d64f-69be-4869-b4b4-54b7fe9c12f3,Make-N-Take May 2022,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,TRUE,FALSE,TRUE,$3.50 ,,0,0,0,4/26/2022 14:44,CK Products,FALSE,,,$0.00 
+1f1088bf-226d-4905-abdd-269b675edc29,Make-N-Take November 2021,,$0.00 ,Events,Make-N-Take,,4.00E+11,$6.00 ,TRUE,TRUE,FALSE,,1.5,0,0,0,11/6/2021 16:01,CK Products,FALSE,,,$0.00 
+de5068b7-efa6-4540-a407-886492057837,Make-N-Take October 2020 - Bat,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,FALSE,FALSE,TRUE,$0.00 ,,0,0,,10/3/2020 13:01,CK Products,FALSE,,,$0.00 
+c13fb6b4-3e38-46a8-a82c-308ad3322aea,Make-N-Take October 2020 - Candy Corn,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,FALSE,FALSE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+86f1e815-4430-4ec4-a69b-0c46aa7de684,Make-N-Take October 2020 - Cauldron,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,FALSE,FALSE,TRUE,$0.00 ,,0,0,,9/29/2020 9:47,CK Products,FALSE,,,$0.00 
+5e5b6ea3-8ea3-47be-b093-c0ea12696e1b,Make-N-Take October 2020 - Ghost,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,FALSE,FALSE,TRUE,$0.00 ,,0,0,,10/3/2020 12:20,CK Products,FALSE,,,$0.00 
+356c7ff0-4710-40c0-ad06-3aa043b42dc8,Make-N-Take October 2020 - Skull,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,FALSE,FALSE,TRUE,$0.00 ,,0,0,,10/3/2020 13:01,CK Products,FALSE,,,$0.00 
+72735ae7-0552-4a9c-819d-a9e44b833ba1,Make-N-Take October 2020 - Surprise Me!,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,FALSE,FALSE,TRUE,$0.00 ,,0,0,,10/3/2020 12:20,CK Products,FALSE,,,$0.00 
+e7c0a079-44cb-4de8-8c96-5bba98d42682,Make-N-Take September 2021,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,TRUE,FALSE,FALSE,,0,0,0,0,9/25/2021 14:11,Fox Run,FALSE,,,$0.00 
+d4900dfd-66ff-44e9-89d5-1dd5c3eb05d6,Make-N-Take September 2022,,$0.00 ,Events,Make-N-Take,,4.00E+11,$10.00 ,TRUE,FALSE,TRUE,$4.50 ,,0,0,0,9/14/2022 11:00,Fox Run,FALSE,,,$0.00 
+c5b32080-38c2-4b1a-8caa-44dcf867728d,"Vinyl Strawberry Hull Leaves, 100ct.",,$0.00 ,general,Make-N-Take,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.44 ,,9,2,1,9/22/2022 12:12,Whelan - Adam (ABanchiu at AllPackMidwest dot com) 248-635-9091 or 248-622-4977,FALSE,,,$21.96 

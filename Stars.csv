@@ -1,0 +1,5 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+5DC97F13-F350-4839-A3E9-2EB35A6FDAA0,1.25” Star Choc Mold 18-cav 90-4059,,$0.00 ,Chocolate Molds,Stars,,4.00E+11,$2.25 ,TRUE,TRUE,TRUE,$0.00 ,,5,1,3,,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+B5A98728-7FC9-4948-B2AF-5EA286239B3D,3.5” Star Sucker Choc Mold 3-cav LOTP M12,,$0.00 ,Chocolate Molds,Stars,,4.00E+11,$2.25 ,TRUE,TRUE,TRUE,$0.00 ,,0,1,6,6/24/2022 11:00,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+D9BA750D-30D5-4A0C-AF41-4E7626E280B3,4.2” Star Sucker Choc Mold 2-cav LOTP M71,,$0.00 ,Chocolate Molds,Stars,,4.00E+11,$2.25 ,TRUE,TRUE,TRUE,$0.00 ,,0,1,6,6/29/2022 10:30,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+DF408B14-BFE0-42FA-B4BB-9DC07AE5736B,Rounded Star Lolly Choc Mold LOTP M126,,$0.00 ,Chocolate Molds,Stars,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.03 ,,6,1,6,,Cookie Cutter dot Com Off the beaten path,FALSE,,,$6.18 
