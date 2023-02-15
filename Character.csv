@@ -1,2 +1,0 @@
-Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
-F8995901-9E91-47C8-B922-924C2A51446E,"Mickey Mouse Candles, 6ct.",4,$9.00 ,Candles,Character,6.08E+11,4.00E+11,$4.69 ,TRUE,TRUE,TRUE,$2.25 ,,4,1,6,12/16/2022 16:22,DecoPac,FALSE,,,$9.00 

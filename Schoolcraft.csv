@@ -1,0 +1,2 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+8d87fd42-aee1-4d7b-b856-dbf77f0837f7,Pastry Kit,,$0.00 ,Schoolcraft,general,,4.00E+11,$494.00 ,TRUE,TRUE,TRUE,$409.85 ,,1,0,0,,Sweet Stamp,FALSE,,,$409.85 

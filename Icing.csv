@@ -1,0 +1,93 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+c2e86e29-2e2b-4162-b25a-5b549d559663,"Buddy Valastro Italian Buttercream Icing, Vanilla, 13oz.",0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.96 ,,0,0,0,,DecoPac,FALSE,,,$0.00 
+5b961ff9-20de-45d5-a878-dfa326813cc0,"Bulk CK White Royal Icing Mix, 16oz.",0,$0.00 ,Icing,general,,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.36 ,,0,0,0,2/19/2021 15:50,DecoPac,FALSE,,,$0.00 
+783ad0fd-342b-493a-b4f6-7a9b73e32abc,"Caramel Icing, 24oz.",16,$53.28 ,Icing,general,,4.00E+11,$8.99 ,TRUE,FALSE,TRUE,$3.33 ,,16,1,1,12/21/2022 10:23,DecoPac,FALSE,,,$53.28 
+9c40ae15-2fc4-4c0c-89a8-0de988085ba5,Celebakes Black Royal Icing Mix 16oz.,0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.72 ,,0,8,12,4/26/2022 12:54,DecoPac,FALSE,,,$0.00 
+9afdb563-2640-44a0-8426-219cebcbbaf8,Celebakes Buttercream Garden Green 14oz.,0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,7/22/2020 13:35,DecoPac,FALSE,,,$0.00 
+393d0e9e-07ed-45f6-b9f2-e327ca043613,Celebakes Buttercream Icing Booming Black 14oz. ,0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$0.00 ,,0,0,0,8/13/2020 11:51,DecoPac,FALSE,,,$0.00 
+60ab546f-da5e-43a2-b63e-511bfde0d721,Celebakes Buttercream Icing Whimsical White 3.5lbs.,0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$19.99 ,TRUE,FALSE,TRUE,$8.68 ,,1,1,0,12/21/2022 16:10,DecoPac,FALSE,,,$8.68 
+e83e06fe-9f84-4d94-acc2-1e7e91c5d02e,Celebakes Buttercream Icing Whimsical White 8lbs.,2,$45.60 ,Icing,general,7.45E+11,4.00E+11,$45.99 ,TRUE,FALSE,TRUE,$22.80 ,,2,1,0,12/10/2022 13:52,DecoPac,FALSE,,,$45.60 
+8c6698c9-ea80-4469-915e-3e47c2cb92a2,"Celebakes Cookie Icing Tube, 10oz. - Blue",0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.27 ,,0,0,,12/18/2021 16:10,DecoPac,FALSE,,,$0.00 
+9e758b83-9f57-4478-856b-3b10508ee4e3,"Celebakes Cookie Icing Tube, 10oz. - Pink",0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.27 ,,0,0,,4/13/2021 13:12,DecoPac,FALSE,,,$0.00 
+6cac30e9-20b1-4e36-8adb-277d636e1e38,Celebakes Red Royal Icing Mix 16oz.,0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$2.85 ,,0,4,12,7/1/2022 14:56,DecoPac,FALSE,,,$0.00 
+e6592856-26fe-48e0-98af-4a68281c9bf9,Celebakes Royal Icing Mix 1lb,82,$223.86 ,Icing,general,7.45E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.73 ,,87,15,12,12/24/2022 15:22,DecoPac,FALSE,,,$237.51 
+b1b5bda2-f1f3-4189-9cb1-2979649a240d,"Celebakes Royal Icing Mix Green, 16oz.",35,$96.95 ,Icing,general,7.45E+11,4.00E+11,$6.99 ,TRUE,FALSE,TRUE,$2.77 ,,35,3,12,12/15/2022 13:20,DecoPac,FALSE,,,$96.95 
+b666a370-d6ef-48c4-ab30-d8ff528f2ee3,Celebakes RTU Royal Icing 14oz.,0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.21 ,,0,1,3,12/9/2022 13:36,DecoPac,FALSE,,,$0.00 
+ec39906e-0305-4c40-bb6d-ec1577f19b56,Celebakes Whimsical White Buttercream 14oz.,0,$0.00 ,Icing,general,7.45E+11,4.00E+11,$6.99 ,TRUE,FALSE,TRUE,$3.46 ,,1,1,0,12/21/2022 14:33,DecoPac,FALSE,,,$3.46 
+3fae869f-b449-443c-b697-f8a57e8c02ad,"Cookie Countess Instant Decorating Icing Red , 8oz.",15,$71.40 ,Icing,general,8.40E+11,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$4.76 ,,19,2,1,12/15/2022 13:20,DecoPac,FALSE,,,$90.44 
+464d86c0-cacc-409a-ae67-001f54d185c3,"Cookie Countess Stenciling Icing Tuxedo Black, 8oz.",0,$0.00 ,Icing,general,8.40E+11,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$4.86 ,,0,2,10,11/8/2022 11:51,DecoPac,FALSE,,,$0.00 
+df70ef53-afe1-4e15-bfd4-44bf3e32ec52,Dixie's Icing - Black,5,$22.05 ,Icing,general,,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$4.41 ,,6,3,,12/21/2022 12:09,DecoPac,FALSE,,,$26.46 
+533ae804-3148-4c85-8dba-7533a1e1c09c,Dixie's Icing - Burgundy,0,$0.00 ,Icing,general,,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$4.95 ,,0,0,,10/28/2021 13:49,DecoPac,FALSE,,,$0.00 
+79082e91-b0f9-472d-9d7d-1efa7011afbf,Dixie's Icing - Chocolate,8,$44.88 ,Icing,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$5.61 ,,7,0,,12/16/2022 12:33,DecoPac,FALSE,,,$39.27 
+031bb49a-f39d-432f-811d-f690dddfdbe1,Dixie's Icing - Navy,3,$15.57 ,Icing,general,,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$5.19 ,,3,1,,12/6/2022 12:48,DecoPac,FALSE,,,$15.57 
+17fb0595-8526-4342-a2bd-b33bec0742c3,Dixie's Icing - Red,5,$20.88 ,Icing,general,,4.00E+11,$8.99 ,TRUE,FALSE,TRUE,$4.18 ,,3,2,,12/16/2022 12:33,DecoPac,FALSE,,,$12.53 
+875685f4-c536-480f-b37e-5cbb262629d2,Dixie's Icing - Royal Blue,4,$16.72 ,Icing,general,,4.00E+11,$8.99 ,TRUE,FALSE,TRUE,$4.18 ,,6,1,,12/9/2022 14:23,not tracked,FALSE,,,$25.08 
+7b8099e0-4b52-4098-9751-4496b003ab00,Dixie's Icing - Vanilla,0,$0.00 ,Icing,general,,4.00E+11,$7.99 ,TRUE,FALSE,TRUE,$3.83 ,,3,3,,12/16/2022 12:33,not tracked,FALSE,,,$11.50 
+71070d43-6a9f-4b41-ad8f-a8762b6a9151,Evil Cake Genius Metallic Royal Icing Mix - Copper,2,$53.98 ,Icing,general,,4.00E+11,$28.99 ,TRUE,FALSE,TRUE,$26.99 ,,2,0,,7/5/2022 16:29,not tracked,FALSE,,,$53.98 
+94f148c5-b65a-4e65-8045-51af107ee5df,Evil Cake Genius Metallic Royal Icing Mix - Gold,11,$116.60 ,Icing,general,7.61E+11,4.00E+11,$22.99 ,TRUE,FALSE,TRUE,$10.60 ,,13,1,,12/17/2022 10:16,not tracked,FALSE,,,$137.80 
+8a8264f2-5f0c-4c6b-a3e5-05dabef8e854,Evil Cake Genius Metallic Royal Icing Mix - Pearl,5,$53.00 ,Icing,general,,4.00E+11,$22.99 ,TRUE,FALSE,TRUE,$10.60 ,,5,1,,12/10/2022 10:29,not tracked,FALSE,,,$53.00 
+8801be85-35f5-45bb-b592-a37c76fd1fb4,Evil Cake Genius Metallic Royal Icing Mix - Rose Gold,0,$0.00 ,Icing,general,,4.00E+11,$23.99 ,TRUE,FALSE,TRUE,$21.99 ,,0,0,,12/24/2021 11:19,not tracked,FALSE,,,$0.00 
+842c36c1-0ec7-4d10-9030-fb0e54a9fcf6,Evil Cake Genius Metallic Royal Icing Mix - Silver,3,$31.20 ,Icing,general,7.61E+11,4.00E+11,$22.99 ,TRUE,FALSE,TRUE,$10.40 ,,3,1,,12/3/2022 12:56,not tracked,FALSE,,,$31.20 
+63ce6233-8dff-4626-ab00-a34ce271cd50,Rich’s Bettercreme Chocolate Non-dairy Icing & Filling 32oz.,12,$76.92 ,Icing,general,49800078949,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$6.41 ,,12,5,12,12/17/2022 14:32,not tracked,FALSE,,,$76.92 
+5dcb39b2-85ee-4869-b1ce-b603ead4b1d0,"Rich’s Bettercreme Vanilla Non-Dairy Icing & Filling, 32oz.",7,$42.49 ,Icing,general,49800068087,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$6.07 ,,7,5,12,12/20/2022 15:47,not tracked,FALSE,,,$42.49 
+5b9d2340-4d69-447b-b469-6924c2617cc6,Satin Ice Fondant 2lb. Navy Blue,2,$21.92 ,Icing,Fondant,8.51E+11,4.00E+11,$22.99 ,TRUE,FALSE,TRUE,$10.96 ,,2,1,1,6/17/2022 12:05,not tracked,FALSE,,,$21.92 
+64effdb6-e8a3-44b6-97a8-0110b4d0509c,Satin Ice Fondant 2lb. White,0,$0.00 ,Icing,general,1.84E+11,4.00E+11,$20.99 ,TRUE,FALSE,TRUE,$10.55 ,,1,1,3,12/16/2022 14:02,DecoPac,FALSE,,,$10.55 
+452e9f03-674c-4cd1-8241-41efcc55769b,Satin Ice Fondant Black 4.4 oz.,13,$27.95 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.15 ,,14,2,0,12/6/2022 15:48,DecoPac,FALSE,,,$30.10 
+74f8f2f5-d815-428d-b5b7-9fc779fb7869,Satin Ice Fondant Blue 4.4oz,10,$21.70 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.17 ,,12,3,12,11/16/2022 10:48,DecoPac,FALSE,,,$26.04 
+68dfa04d-7eb8-4bfe-bf17-acbadfd19a82,Satin Ice Fondant Gold Shimmer 4.4oz.,13,$35.23 ,Icing,Fondant,8.57E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.71 ,,13,2,12,12/3/2022 14:55,DecoPac,FALSE,,,$35.23 
+cc589aac-e518-4dec-9b5d-b884f24b62d0,Satin Ice Fondant Green 4.4 oz.,16,$32.96 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.06 ,,19,2,0,12/22/2022 16:25,DecoPac,FALSE,,,$39.14 
+da35e975-6b3a-4b05-9048-52d88c4ebd51,Satin Ice Fondant Orange 4.4oz.,16,$36.32 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.27 ,,13,2,0,11/18/2022 13:52,DecoPac,FALSE,,,$29.51 
+281923f4-ae1e-4cda-98a1-0722ed03ab00,Satin Ice Fondant Pearl Shimmer 4.4oz.,2,$5.68 ,Icing,Fondant,8.10E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.84 ,,5,2,1,12/22/2022 16:25,DecoPac,FALSE,,,$14.20 
+18b74fe3-a88c-400a-a02f-92a61c67e7d9,Satin Ice Fondant Pink 4.4 oz.,10,$21.70 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.17 ,,12,2,0,12/3/2022 14:32,DecoPac,FALSE,,,$26.04 
+186646da-77ab-4e38-9a1c-e7ab8819f0a9,Satin Ice Fondant Purple 4.4 oz.,7,$15.12 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.16 ,,7,2,0,12/1/2022 12:17,DecoPac,FALSE,,,$15.12 
+7a5aabb4-b422-4365-a141-ea9e709701c4,Satin Ice Fondant Red 4.4 oz.,7,$14.77 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.11 ,,9,2,0,12/22/2022 16:25,DecoPac,FALSE,,,$18.99 
+58c54f99-044f-493a-9e8e-7c088396b020,Satin Ice Fondant Silver Shimmer 4.4oz.,8,$22.24 ,Icing,Fondant,1.84E+11,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.78 ,,8,2,1,12/2/2022 17:08,not tracked,FALSE,,,$22.24 
+f45a504b-e710-4398-99a1-1d5667251138,Satin Ice Fondant White 4.4 oz.,12,$25.08 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.09 ,,15,2,0,12/16/2022 9:24,not tracked,FALSE,,,$31.35 
+3cfc9a02-da26-464b-8513-be403e9fd9b2,Satin Ice Fondant Yellow 4.4 oz.,4,$8.24 ,Icing,general,8.57E+11,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.06 ,,5,2,0,12/6/2022 15:48,not tracked,FALSE,,,$10.30 
+cbafdc03-2e26-4ace-8715-765aca132640,"Satin Ice Glitter Glaze, 10oz. - Black",5,$30.90 ,Icing,general,8.10E+11,4.00E+11,$12.69 ,TRUE,FALSE,TRUE,$6.18 ,,5,1,,9/2/2022 15:51,not tracked,FALSE,,,$30.90 
+203fb18e-a573-4896-b842-7cdb18e58aaf,"Satin Ice Glitter Glaze, 10oz. - Gold",3,$18.54 ,Icing,general,8.10E+11,4.00E+11,$12.69 ,TRUE,FALSE,TRUE,$6.18 ,,5,1,,9/2/2022 15:51,not tracked,FALSE,,,$30.90 
+bd3529db-f31e-403d-99b0-07e44e170b52,"Satin Ice Glitter Glaze, 10oz. - Silver",5,$30.90 ,Icing,general,8.10E+11,4.00E+11,$12.69 ,TRUE,FALSE,TRUE,$6.18 ,,3,1,,11/29/2022 13:22,not tracked,FALSE,,,$18.54 
+8e4ed431-780b-4a0d-b3ee-e866edb5fb7f,"The Whimsy Cookie Company Royal Icing Mix, 16oz.",30,$4.50 ,Icing,general,7.59E+11,4.00E+11,$6.99 ,TRUE,FALSE,TRUE,$0.15 ,,30,12,1,12/23/2022 12:28,not tracked,FALSE,,,$4.50 
+826bcbdd-4d0b-4f55-915e-3eadda28c9d1,"Tiny Royal Icing Flowers 3/8"" 24ct. - Blue",2,$0.00 ,Icing,general,,4.00E+11,$1.99 ,TRUE,FALSE,TRUE,$0.00 ,,24,2,,,not tracked,FALSE,,,$0.00 
+1edf7721-acec-4546-9184-2bf29d4d3f1e,"Tiny Royal Icing Flowers 3/8"" 24ct. - Pink",12,$0.00 ,Icing,general,,4.00E+11,$1.99 ,TRUE,FALSE,TRUE,$0.00 ,,66,2,,12/2/2020 17:16,not tracked,FALSE,,,$0.00 
+4bf55266-8dbd-4308-93d5-1865d0ae087d,"Tiny Royal Icing Flowers 3/8"" 24ct. - Purple",70,$0.00 ,Icing,general,,4.00E+11,$1.99 ,TRUE,FALSE,TRUE,$0.00 ,,106,2,,12/2/2020 17:16,not tracked,FALSE,,,$0.00 
+5c0bb7b8-5be3-4b75-a092-aeb6da8c2173,"Tiny Royal Icing Flowers 3/8"" 24ct. - White",16,$0.00 ,Icing,general,,4.00E+11,$1.99 ,TRUE,FALSE,TRUE,$0.00 ,,103,2,,,not tracked,FALSE,,,$0.00 
+a2b4820b-5807-4fbf-8db0-c46e29f98623,"Tiny Royal Icing Flowers 3/8"" 24ct. - Yellow",0,$0.00 ,Icing,general,,4.00E+11,$1.99 ,TRUE,FALSE,TRUE,$0.00 ,,16,2,,12/2/2020 17:16,not tracked,FALSE,,,$0.00 
+4f0bd9cd-266a-40cc-8277-682080ecbbea,"Wilton Cookie Icing, 9oz. - Black",5,$15.60 ,Icing,general,70896201447,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$3.12 ,,5,1,,12/17/2022 14:16,not tracked,FALSE,,,$15.60 
+2ec8f78e-0bac-4768-a2d6-cffad9ce3f39,"Wilton Cookie Icing, 9oz. - Blue",6,$17.16 ,Icing,general,70896801470,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.86 ,,6,1,,12/15/2022 12:59,not tracked,FALSE,,,$17.16 
+8d51ad89-43a0-466c-ad04-84ac4770629b,"Wilton Cookie Icing, 9oz. - Green",4,$12.48 ,Icing,general,70896601438,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$3.12 ,,4,1,,12/17/2022 14:16,not tracked,FALSE,,,$12.48 
+40f98e01-8581-4bac-9dfd-08f587aeb8eb,"Wilton Cookie Icing, 9oz. - Orange",3,$9.17 ,Icing,general,70896101457,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$3.06 ,,3,1,,12/16/2022 16:13,not tracked,FALSE,,,$9.17 
+179856b8-55ba-4cf9-8b07-718b5887dacb,"Wilton Cookie Icing, 9oz. - Pink",6,$17.16 ,Icing,general,70896161468,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.86 ,,6,1,,12/15/2022 12:59,not tracked,FALSE,,,$17.16 
+9dcc4f39-c2df-4ba7-9c2a-8e55615d30aa,"Wilton Cookie Icing, 9oz. - Red",0,$0.00 ,Icing,general,70896121424,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.92 ,,0,1,,12/15/2022 13:51,not tracked,FALSE,,,$0.00 
+4e8a2354-6304-4c3a-824b-4fa9bd83674c,"Wilton Cookie Icing, 9oz. - White",0,$0.00 ,Icing,general,70896801418,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.97 ,,0,1,,12/14/2022 15:54,not tracked,FALSE,,,$0.00 
+4c405d01-9575-420e-845c-bf7d890c5d50,"Wilton Cookie Icing, 9oz. - Yellow",7,$20.02 ,Icing,general,70896601483,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.86 ,,7,1,,12/21/2022 15:01,not tracked,FALSE,,,$20.02 
+09ed2c28-4c39-463a-a2a0-a5f9852e4b25,"Wilton Creamy Decorating Icing Colors, 16oz. - Blue",0,$0.00 ,Icing,general,70896243614,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.39 ,,0,1,,10/21/2022 16:35,not tracked,FALSE,,,$0.00 
+29fe6a18-4eed-4a82-bbcc-ce867373db3d,"Wilton Creamy Decorating Icing Colors, 16oz. - Green",4,$9.56 ,Icing,general,70896143624,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.39 ,,-1,1,,12/16/2022 12:33,not tracked,FALSE,,,($2.39)
+bd281625-556e-4b68-bbdc-ece6e125015c,"Wilton Creamy Decorating Icing Colors, 16oz. - Pink",0,$0.00 ,Icing,general,70896143631,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.39 ,,0,1,,12/1/2022 11:46,not tracked,FALSE,,,$0.00 
+84d4cac5-d28a-4fe7-86ad-cdde9ba58726,"Wilton Creamy Decorating Icing Colors, 16oz. - Red",0,$0.00 ,Icing,general,70896243607,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.86 ,,0,1,,10/12/2022 12:53,not tracked,FALSE,,,$0.00 
+48c7e598-9c91-4f11-8f9f-067fe5a18785,Wilton Creamy Decorator Icing White 4lb.,2,$24.96 ,Icing,general,7089608922,4.00E+11,$24.99 ,TRUE,FALSE,TRUE,$12.48 ,,2,1,2,7/15/2022 14:54,not tracked,FALSE,,,$24.96 
+c3e533bf-bf67-4e74-825e-63ec200eb2d5,Wilton Decorating Icing 4.25 oz Tube - Black,3,$4.32 ,Icing,general,70896047632,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.44 ,,3,1,,12/17/2022 10:08,not tracked,FALSE,,,$4.32 
+fe876ebd-d5ac-45a3-8851-dd4f9556f0d8,Wilton Decorating Icing 4.25 oz Tube - Chocolate,0,$0.00 ,Icing,general,70896047670,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$0.00 ,,0,0,,6/9/2022 15:19,not tracked,FALSE,,,$0.00 
+cb5ff835-4b08-4914-9d13-744db01f5b37,Wilton Decorating Icing 4.25 oz Tube - Kelly Green,4,$5.71 ,Icing,general,70896047717,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.43 ,,4,1,,12/23/2022 17:15,not tracked,FALSE,,,$5.71 
+51682f73-0475-406f-b96c-34ef9f757be5,Wilton Decorating Icing 4.25 oz Tube - Orange,4,$5.76 ,Icing,general,70896643070,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.44 ,,4,1,,11/22/2022 12:09,not tracked,FALSE,,,$5.76 
+7571ad88-0ed8-4d69-bc16-ea4c2b673e43,Wilton Decorating Icing 4.25 oz Tube - Pink,1,$1.32 ,Icing,general,70896047649,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.32 ,,1,1,,12/23/2022 17:15,not tracked,FALSE,,,$1.32 
+386866fb-16bf-4e3f-823a-6311bfac38a9,Wilton Decorating Icing 4.25 oz Tube - Red,0,$0.00 ,Icing,general,70896047618,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.32 ,,1,1,,12/17/2022 11:11,not tracked,FALSE,,,$1.32 
+12226b9c-ec09-4237-a515-2442a031ca12,Wilton Decorating Icing 4.25 oz Tube - Royal Blue,0,$0.00 ,Icing,general,70896047687,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.32 ,,1,1,,12/23/2022 17:15,not tracked,FALSE,,,$1.32 
+3d0eba91-4232-41b8-a434-e816e61131be,Wilton Decorating Icing 4.25 oz Tube - Violet,3,$3.96 ,Icing,general,70896047700,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.32 ,,3,1,,12/23/2022 17:15,not tracked,FALSE,,,$3.96 
+1eaf23a5-796e-4b62-8f41-bc80aa0afc20,Wilton Decorating Icing 4.25 oz Tube - White,2,$2.64 ,Icing,general,70896047601,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.32 ,,2,1,,12/20/2022 12:04,not tracked,FALSE,,,$2.64 
+24a3d5f0-13bc-446b-8908-c6ba4af4ff51,Wilton Decorating Icing 4.25 oz Tube - Yellow,4,$5.69 ,Icing,general,70896047663,4.00E+11,$2.69 ,TRUE,FALSE,TRUE,$1.42 ,,4,1,,12/23/2022 17:15,not tracked,FALSE,,,$5.69 
+a1ab9111-5504-4dcf-afb1-7b8780b3c960,Wilton Decorator Preferred Fondant Black 24oz.,0,$0.00 ,Icing,general,70896423030,4.00E+11,$13.49 ,TRUE,FALSE,TRUE,$6.61 ,,0,1,3,12/20/2022 13:29,not tracked,FALSE,,,$0.00 
+05b64501-db00-4550-81a5-bef1e5814b69,Wilton Decorator Preferred Fondant Blue 24oz.,5,$37.65 ,Icing,general,70896123060,4.00E+11,$13.49 ,TRUE,FALSE,TRUE,$7.53 ,,5,1,3,11/9/2022 14:50,not tracked,FALSE,,,$37.65 
+4c7e9c67-75e8-4cd1-9be8-f494cee752d4,Wilton Decorator Preferred Fondant Green 24oz.,11,$72.71 ,Icing,general,70896523075,4.00E+11,$13.49 ,TRUE,FALSE,TRUE,$6.61 ,,11,1,3,9/23/2022 16:46,not tracked,FALSE,,,$72.71 
+1481ea00-8373-42ee-b2e1-298d9a3fc55d,Wilton Decorator Preferred Fondant Red 24oz.,7,$51.45 ,Icing,general,70896123046,4.00E+11,$14.99 ,TRUE,FALSE,TRUE,$7.35 ,,7,1,3,9/16/2022 16:45,not tracked,FALSE,,,$51.45 
+f1e1f44b-dd80-4cb0-bc32-ba8c43cc97f3,Wilton Decorator Preferred Fondant White Vanilla 24oz.,5,$25.05 ,Icing,general,70896423016,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$5.01 ,,5,2,0,12/14/2022 13:04,not tracked,FALSE,,,$25.05 
+cbd38785-e848-434c-82cd-a234a7c2ba17,Wilton Decorator Preferred Fondant White Vanilla 5lb. ,4,$57.64 ,Icing,general,70896323002,4.00E+11,$28.99 ,TRUE,FALSE,TRUE,$14.41 ,,5,2,0,11/23/2022 15:25,not tracked,FALSE,,,$72.05 
+f9c30569-ddfb-470e-a4e7-3122d4bb4a7e,Wilton Decorator Preferred Fondant Yellow 24oz,5,$33.05 ,Icing,Fondant,70896423085,4.00E+11,$13.49 ,TRUE,FALSE,TRUE,$6.61 ,,8,1,3,7/19/2022 13:51,not tracked,FALSE,,,$52.88 
+e6b5b9f7-074a-4b6b-8a41-e77d6712f988,"Wilton Decorator Preferred Fondant, Neutral Multipack, 4.4oz packs x4",3,$24.66 ,Icing,Fondant,70896123145,4.00E+11,$14.99 ,TRUE,FALSE,TRUE,$8.22 ,,3,1,3,11/29/2022 11:13,not tracked,FALSE,,,$24.66 
+d9181bdd-030a-4b61-9699-a6297b0ba64d,"Wilton Decorator Preferred Fondant, Pastels, 4.4oz packs x4",2,$14.24 ,Icing,Fondant,70896423139,4.00E+11,$14.99 ,TRUE,FALSE,TRUE,$7.12 ,,2,1,3,7/26/2022 14:19,not tracked,FALSE,,,$14.24 
+65f06562-b006-48f3-b3fb-cd9e391bf677,Wilton Sugar Sheet - 11.9911.9,0,$0.00 ,Icing,general,,4.00E+11,$0.00 ,TRUE,FALSE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+b69d5097-0e39-4f40-b5fe-b95a33fe1a64,Wilton Sugar Sheet - Colors - 3ct. primary,,$0.00 ,Icing,general,70896329127,4.00E+11,$11.49 ,TRUE,FALSE,TRUE,$5.38 ,,1,0,,12/14/2021 13:35,not tracked,FALSE,,,$5.38 
+6da3aca7-f1dc-4857-af29-2db4f38327f3,Wilton Sugar Sheet - White - 3ct.,2,$11.28 ,Icing,general,70896329295,4.00E+11,$11.49 ,TRUE,FALSE,TRUE,$5.64 ,,2,1,,6/11/2022 13:20,not tracked,FALSE,,,$11.28 
+70a1191d-c84d-4e12-b903-42b3d606f1e5,Wilton Sugar Sheet - White (single sheet),2,$5.23 ,Icing,general,70896629609,4.00E+11,$5.49 ,TRUE,FALSE,TRUE,$2.62 ,,2,1,,12/3/2022 13:58,not tracked,FALSE,,,$5.23 
+0aa91a3c-2912-42fe-9a7b-49ddcf6788be,Wilton Whipped Icing Mix 10oz. (Vanilla),4,$13.72 ,Icing,general,70896712417,4.00E+11,$6.99 ,TRUE,FALSE,TRUE,$3.43 ,,4,1,6,7/19/2022 13:10,not tracked,FALSE,,,$13.72 
+7dfb8cdf-a4ad-4b4c-aa05-b64ade9dd6e6,Wilton White Decorator Icing 16oz.,7,$18.20 ,Icing,general,70896243690,4.00E+11,$4.99 ,TRUE,FALSE,TRUE,$2.60 ,,8,4,6,12/21/2022 11:11,Linneas Inc dot com,FALSE,,,$20.80 

@@ -1,9 +1,0 @@
-Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
-1E132332-B84D-4268-9FF9-5A76AF512C4D,"Ann Clark Orange Cookie Cutter 3.25""x3.25""",10,$8.00 ,Cookie Cutters,Fruits and Veggies,8.18E+11,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.80 ,,10,2,12,6/21/2022 14:41,PME,FALSE,,,$8.00 
-4D84906C-6F93-404E-8A58-D06E6F1D8988,"Apple Cookie Cutter 2.5""",8,$6.32 ,Cookie Cutters,Fruits and Veggies,71581012775,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.79 ,,8,2,12,8/27/2022 15:33,DecoPac,FALSE,,,$6.32 
-51128B7D-E1F9-45BC-87D7-5514E0D1B7EB,"Carrot Cookie Cutter (wide) 4""",0,$0.00 ,Cookie Cutters,Fruits and Veggies,71581010184,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,1,12,,CK Products,FALSE,,,$0.00 
-DF839643-5A09-41FE-9074-3EE6FB58BA8F,"Chili Pepper Cookie Cutter, painted red 3.75” x 1”",9,$6.93 ,Cookie Cutters,Fruits and Veggies,71581713368,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.77 ,,9,1,12,12/16/2022 12:45,CK Products,FALSE,,,$6.93 
-13991957-8BBD-4068-BCF0-88519DD7B12A,"Eggplant Cookie Cutter 3.25""",6,$19.50 ,Cookie Cutters,Fruits and Veggies,,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.25 ,,6,1,6,,CK Products,FALSE,,,$19.50 
-579A1F04-2759-49AA-BE94-7B68C1F9A5AD,"Gourd Cookie Cutter 2.25""x4""",5,$16.25 ,Cookie Cutters,Fruits and Veggies,,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.25 ,,5,1,1,8/24/2022 15:03,not tracked,FALSE,,,$16.25 
-2C8601AE-3B21-48E7-989D-91C83FCE99A9,"Mushroom Cookie Cutter 3.25"" B915",5,$3.60 ,Cookie Cutters,Fruits and Veggies,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.72 ,,3,2,12,11/12/2022 13:10,CK Products,FALSE,,,$2.16 
-3F4B6681-182D-4277-A4E9-2A30D8FACE07,Pineapple 4”x 2.25”,2,$0.84 ,Cookie Cutters,Fruits and Veggies,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.42 ,,3,2,12,11/18/2022 10:39,R&M International - MoreThanBaking dot com,FALSE,,,$1.26 

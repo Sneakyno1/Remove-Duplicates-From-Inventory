@@ -1,8 +1,0 @@
-Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
-c5de75d8-87d4-4e0f-80fb-288622b5e58f,"Fall Flowers Gumpaste 3.5""",,$0.00 ,Gumpaste,Fall,,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.94 ,,8,2,6,9/15/2022 16:59,Fredal 586-773-3133,FALSE,,,$23.52 
-b26391e8-6a45-4163-b845-9f1f509ac0af,Wilton Halloween Pumpkin Turner,,$0.00 ,Seasonal,Fall,70896163523,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.13 ,,4,1,6,8/6/2022 14:15,Linneas Inc dot com,FALSE,,,$12.52 
-7ea94c81-ea57-4aac-bccb-e7ccba58864b,Cookie Countess Curly Stem Pumpkin Stencil,,$0.00 ,Stencils,Fall,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.24 ,,5,1,3,11/22/2022 15:44,Sweets & Treats,FALSE,,,$11.20 
-00f50711-ecaa-484f-8bc8-9e17c4298a0c,Cookie Countess Knit Pattern Stencil,3,$8.58 ,Stencils,Fall,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.86 ,,3,1,3,1/29/2022 15:57,Wilton (WiltonForBusiness dot com),FALSE,,,$8.58 
-3e401b5f-7d07-4e47-aaad-ce4a2e62e9fb,Cookie Countess Latte Cup 3pc. Stencil,2,$16.50 ,Stencils,Fall,,4.00E+11,$16.50 ,TRUE,TRUE,TRUE,$8.25 ,,2,1,3,10/18/2021 12:48,Wilton (WiltonForBusiness dot com),FALSE,,,$16.50 
-b5343340-6c69-4def-8735-ee8021c73dee,Cookie Countess Maple Leaves Stencil,1,$2.75 ,Stencils,Fall,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,1,1,3,11/10/2022 15:44,Cookie Countess Wholesale dot com,FALSE,,,$2.75 
-d8a0598a-4f67-4c67-beab-957d04926859,Cookie Countess Pumpkin Spice Stencil,,$0.00 ,Stencils,Fall,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,4,1,3,9/26/2020 11:14,Nashville Wraps,FALSE,,,$11.00 

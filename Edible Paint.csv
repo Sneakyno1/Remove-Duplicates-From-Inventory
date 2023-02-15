@@ -1,0 +1,28 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+b712312f-45d0-4c6d-99bb-68325a4835e1,"Cookie Countess Edible Watercolor Paint Palettes, 36ct.",1,$9.00 ,Edible Paint,Palettes,8.40E+11,4.00E+11,$17.99 ,TRUE,FALSE,TRUE,$9.00 ,,1,0,0,10/18/2022 10:56,not tracked,FALSE,,,$9.00 
+e53aa060-1eda-4b36-a29d-c97640fadefc,Poppy Paint - Black,7,$40.95 ,Edible Paint,general,,4.00E+11,$11.99 ,TRUE,FALSE,TRUE,$5.85 ,,7,3,,12/15/2022 10:30,not tracked,FALSE,,,$40.95 
+117a2c2e-043b-454f-8565-c9e49782dd0b,Poppy Paint - Blue,4,$23.40 ,Edible Paint,general,,4.00E+11,$11.99 ,TRUE,FALSE,TRUE,$5.85 ,,4,1,,8/6/2022 21:25,not tracked,FALSE,,,$23.40 
+e0e3a35b-8dc1-48b3-b99d-ff7c9b6d0c37,Poppy Paint - Brown,0,$0.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,0,0,,10/27/2021 12:42,not tracked,FALSE,,,$0.00 
+b9057fe6-3edc-4fd0-a08a-63217cf9586b,Poppy Paint - Champagne,6,$36.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,6,2,,12/28/2021 12:11,not tracked,FALSE,,,$36.00 
+7a967e96-6bd4-4c9a-9965-b3420eea4fed,Poppy Paint - Cotton Candy,6,$36.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,9,0,,12/2/2021 13:16,not tracked,FALSE,,,$54.00 
+a2d6bab4-7e0c-4c87-ab2c-8ee09cb978b0,Poppy Paint - Gold,1,$5.97 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$5.97 ,,1,2,,7/7/2022 14:09,not tracked,FALSE,,,$5.97 
+4f7bf2d1-4707-413d-8f7b-6fd07ada6a08,Poppy Paint - Gray,4,$24.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,4,0,,1/27/2022 11:18,not tracked,FALSE,,,$24.00 
+cefe5618-1d79-438e-870e-4593e4140c78,Poppy Paint - Green,3,$17.55 ,Edible Paint,general,,4.00E+11,$11.99 ,TRUE,FALSE,TRUE,$5.85 ,,3,1,,7/14/2022 11:39,not tracked,FALSE,,,$17.55 
+efb6a63f-0f9d-40fd-a84d-38dcb9ecb3cd,Poppy Paint - Gunmetal,2,$12.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,2,0,,12/2/2021 13:16,not tracked,FALSE,,,$12.00 
+5f60b93d-451b-4dda-9eef-ad74ff2c19f5,Poppy Paint - Orange,0,$0.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,0,0,,10/6/2021 12:51,not tracked,FALSE,,,$0.00 
+08937f4f-91b4-49a7-b3ac-d0eb148c175a,Poppy Paint - Peach,3,$18.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,3,0,,12/2/2021 13:16,not tracked,FALSE,,,$18.00 
+99e74fdd-f21e-4090-845b-6ba67e37c72e,Poppy Paint - Pearl,3,$18.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,3,0,,12/28/2021 12:11,not tracked,FALSE,,,$18.00 
+699650b0-6061-4c13-a7b1-cbba6632f0e2,Poppy Paint - Pink,5,$29.25 ,Edible Paint,general,,4.00E+11,$11.99 ,TRUE,FALSE,TRUE,$5.85 ,,5,1,,4/26/2022 16:23,not tracked,FALSE,,,$29.25 
+f209f48e-6407-4ea0-b561-3b50fd00af79,Poppy Paint - Poppy Thinner,3,$13.26 ,Edible Paint,general,,4.00E+11,$7.99 ,TRUE,FALSE,TRUE,$4.42 ,,3,2,,6/20/2022 14:13,not tracked,FALSE,,,$13.26 
+37194cfe-0efd-45f1-b158-0c1bd9fa2278,Poppy Paint - Purple,2,$12.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,2,1,,12/2/2021 13:16,not tracked,FALSE,,,$12.00 
+6c9ddeb7-f63e-4470-8e40-deff5d3be8cb,Poppy Paint - Red,10,$58.50 ,Edible Paint,general,,4.00E+11,$11.99 ,TRUE,FALSE,TRUE,$5.85 ,,10,3,,11/18/2022 10:17,not tracked,FALSE,,,$58.50 
+5b2cf5a1-a844-4c75-9a39-f644119b8405,Poppy Paint - Rose Gold,1,$6.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,3,1,,6/10/2022 11:32,not tracked,FALSE,,,$18.00 
+24269a86-8b14-440a-8341-7a5aa2366858,Poppy Paint - Silver,7,$43.10 ,Edible Paint,general,,4.00E+11,$12.99 ,TRUE,FALSE,TRUE,$6.16 ,,7,1,,6/2/2022 11:47,not tracked,FALSE,,,$43.10 
+e7121113-f330-4646-8b41-063a0d1d9630,Poppy Paint - Super Shine,9,$40.42 ,Edible Paint,general,,4.00E+11,$9.99 ,TRUE,FALSE,TRUE,$4.49 ,,9,2,,10/22/2022 10:42,Wilton (WiltonForBusiness dot com),FALSE,,,$40.42 
+1ca238e1-a622-4480-8f46-0f35a473de09,Poppy Paint - Teal,4,$23.40 ,Edible Paint,general,,4.00E+11,$11.99 ,TRUE,FALSE,TRUE,$5.85 ,,4,1,,8/25/2022 14:21,Wilton (WiltonForBusiness dot com),FALSE,,,$23.40 
+b69682e4-f2bc-4dca-87c0-cb248f145c1b,Poppy Paint - Unicorn Elixir,0,$0.00 ,Edible Paint,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$6.00 ,,0,0,,12/9/2021 11:44,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+83f0a9b3-8b0e-4ecf-bc61-1823594b201c,Poppy Paint - White,10,$58.50 ,Edible Paint,general,,4.00E+11,$11.99 ,TRUE,FALSE,TRUE,$5.85 ,,10,3,,11/15/2022 15:47,Wilton (WiltonForBusiness dot com),FALSE,,,$58.50 
+e62764d7-3f7f-4387-9b0e-a49d16235d97,Poppy Paint - Yellow,3,$17.55 ,Edible Paint,general,,4.00E+11,$11.99 ,TRUE,FALSE,TRUE,$5.85 ,,3,1,,11/4/2022 13:39,Wilton (WiltonForBusiness dot com),FALSE,,,$17.55 
+b08fe893-c0d7-400a-aebb-a8305b9f43c7,"Poppy Paint Edible Paint Pastel Starter Set, 5ct.",2,$58.50 ,Edible Paint,general,,4.00E+11,$59.99 ,TRUE,FALSE,TRUE,$29.25 ,,2,0,0,12/2/2021 13:16,Wilton (WiltonForBusiness dot com),FALSE,,,$58.50 
+d109b2fd-ac01-4a0a-8673-217e5e8312da,"Poppy Paint Edible Paint Starter Set, 10ct.",5,$285.10 ,Edible Paint,general,,4.00E+11,$99.99 ,TRUE,FALSE,TRUE,$57.02 ,,5,1,4,10/20/2022 10:37,Wilton (WiltonForBusiness dot com),FALSE,,,$285.10 
+e76d096f-7f65-4e6b-9f21-e0016a58824c,"The Sugar Art Color Solution, 1 fl. oz.",11,$29.59 ,Edible Paint,general,,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.69 ,,12,3,12,12/17/2022 13:49,Wilton (WiltonForBusiness dot com),FALSE,,,$32.28 

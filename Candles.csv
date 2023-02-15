@@ -1,0 +1,120 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+1F1A97F6-019A-42BF-9187-391E9A1B92C5,"Bakery Crafts Beer Candle Holders, 4ct.",1,$1.53 ,Candles,general,6.08E+11,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.53 ,,1,1,6,10/8/2022 11:28,Cookie Countess Wholesale dot com,FALSE,,,$1.53 
+2C263AE9-CAD0-43F0-9AEA-2FE10A2A1827,Bakery Crafts Block Number Candle - 0 (Yellow),0,$0.00 ,Candles,general,21466323120,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.00 ,,15,0,,,Cookie Countess Wholesale dot com,FALSE,,,$0.00 
+70C6FBFA-2002-42EF-89E1-2446A2018C2E,Bakery Crafts Block Number Candle - 2 (Red),0,$0.00 ,Candles,general,21466323144,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,8/20/2020 18:13,Cookie Countess Wholesale dot com,FALSE,,,$0.00 
+1C6AE1B4-40BD-466C-A4D8-78BF7A5FC3B4,Bakery Crafts Block Number Candle - 3 (Lime Green),0,$0.00 ,Candles,general,21466323151,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.00 ,,4,0,,9/14/2022 15:47,Cookie Countess Wholesale dot com,FALSE,,,$0.00 
+3E361204-081B-4C8C-AB0A-F21C03BA1B6E,Bakery Crafts Block Number Candle - 4 (Orange),0,$0.00 ,Candles,general,21466323168,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.00 ,,3,0,,9/20/2022 11:55,Parrishs Magic Line,FALSE,,,$0.00 
+D355E396-1DB9-4CE4-B2BA-0113835E7A70,Bakery Crafts Block Number Candle - 9 (Blue),0,$0.00 ,Candles,general,21466323212,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.00 ,,3,0,,6/4/2021 16:24,CK Products,FALSE,,,$0.00 
+54E5D496-5FB5-4C71-A77D-A4FE4E1BEBC9,"Bakery Crafts Champagne Candle Holder, 4ct.",3,$5.76 ,Candles,general,21466003879,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.92 ,,3,1,6,3/29/2022 12:15,CK Products,FALSE,,,$5.76 
+61A49AFE-20D3-42F9-91A3-3DBF0A0106CF,"Bakery Crafts Dotted White Candles, 3.5"", 16 ct.",5,$6.05 ,Candles,general,21466003732,4.00E+11,$2.79 ,TRUE,TRUE,TRUE,$1.21 ,,5,2,12,11/3/2022 14:06,CK Products,FALSE,,,$6.05 
+42826B76-06E1-4A8F-B9C6-EC8C996748D8,"Bakery Crafts Glitter Number Candle, Asst'd colors - 0",4,$2.10 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.53 ,,8,4,,6/8/2022 16:11,CK Products,FALSE,,,$4.20 
+AF7455FC-E3D7-464D-9ED2-BF556E16DB06,"Bakery Crafts Glitter Number Candle, Asst'd colors - 1",1,$0.54 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.54 ,,9,4,,7/22/2022 13:42,CK Products,FALSE,,,$4.86 
+F650D742-8F00-4C34-8A28-82EC9221FCE7,"Bakery Crafts Glitter Number Candle, Asst'd colors - 2",11,$5.68 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.52 ,,10,4,,7/13/2022 16:09,CK Products,FALSE,,,$5.16 
+3ECA02FF-14B9-4F4A-B744-D9CF8BE8D77B,"Bakery Crafts Glitter Number Candle, Asst'd colors - 3",1,$0.52 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.52 ,,5,4,,11/17/2022 13:28,CK Products,FALSE,,,$2.60 
+2006DCE3-AAD1-47BC-B0D1-61FE20A86C7C,"Bakery Crafts Glitter Number Candle, Asst'd colors - 4",1,$0.52 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.52 ,,6,4,,10/25/2022 13:52,CK Products,FALSE,,,$3.12 
+BB217481-154F-4621-AF04-837FED601C2E,"Bakery Crafts Glitter Number Candle, Asst'd colors - 5",10,$5.20 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.52 ,,9,4,,7/22/2022 15:39,CK Products,FALSE,,,$4.68 
+DDDAB544-5263-4A3B-A209-29C80EC58E52,"Bakery Crafts Glitter Number Candle, Asst'd colors - 6",3,$1.56 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.52 ,,4,4,,12/10/2022 15:37,CK Products,FALSE,,,$2.08 
+9200CA7C-36FE-4E04-88D8-723122F252AD,"Bakery Crafts Glitter Number Candle, Asst'd colors - 7",0,$0.00 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.48 ,,7,4,,11/10/2022 16:59,CK Products,FALSE,,,$3.36 
+AB092CEC-0CE9-45A4-BAB6-BF8B66A40226,"Bakery Crafts Glitter Number Candle, Asst'd colors - 8",4,$2.06 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.52 ,,8,4,,10/20/2022 14:01,CK Products,FALSE,,,$4.13 
+D22AC095-1548-45F5-A053-E52A3517CDA4,"Bakery Crafts Glitter Number Candle, Asst'd colors - 9",8,$4.16 ,Candles,general,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.52 ,,9,4,,7/22/2022 13:42,not tracked,FALSE,,,$4.68 
+CDFDBA2E-317C-4DD3-BEA8-DBED78EF572D,"Bakery Crafts Good Vibes Birthday Candles, 24ct. ",3,$2.10 ,Candles,general,6.08E+11,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.70 ,,3,2,6,9/21/2022 16:36,CK Products,FALSE,,,$2.10 
+999DB70A-FFF2-48D3-B67F-22F49103F427,"Bakery Crafts Metallic Candles, 16ct.",1,$1.14 ,Candles,general,6.08E+11,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.14 ,,1,1,6,10/27/2022 14:13,CK Products,FALSE,,,$1.14 
+3688A42D-ADAC-41FC-ACD1-FF99EBAD5F47,Bakery Crafts Number Candles - Stripes & Dots - 0 (Orange),0,$0.00 ,Candles,general,21466320525,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,5,0,,,CK Products,FALSE,,,$0.00 
+09D49C1B-5CA7-4CD2-AE5E-A5F6E8847B63,Bakery Crafts Number Candles - Stripes & Dots - 1,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+5BC48839-49B4-4A46-A261-12EB726FB44A,Bakery Crafts Number Candles - Stripes & Dots - 2,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+754B278B-B361-4484-BC49-852F349F5AF9,Bakery Crafts Number Candles - Stripes & Dots - 3,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+F1C1BC3F-346C-480F-8AAE-6177942A7815,Bakery Crafts Number Candles - Stripes & Dots - 4,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+84EA5ED8-0580-4A91-8B73-3E550D5B222D,Bakery Crafts Number Candles - Stripes & Dots - 5,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+CFA4E466-56EA-40AE-B82B-CFE64F995BF3,Bakery Crafts Number Candles - Stripes & Dots - 6 (Lt. Green),0,$0.00 ,Candles,general,21466320488,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,,9/14/2022 15:47,CK Products,FALSE,,,$0.00 
+CB4294B7-EC89-4E1B-BB7A-961A7EC1868D,Bakery Crafts Number Candles - Stripes & Dots - 7 (Dark Green),0,$0.00 ,Candles,general,21466320495,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,2,0,,10/22/2022 11:34,CK Products,FALSE,,,$0.00 
+4C1539B7-1126-4133-A69E-9E9E352365B9,Bakery Crafts Number Candles - Stripes & Dots - 8,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+3669B676-3CC4-4054-A417-B5DD7D9C00DE,Bakery Crafts Number Candles - Stripes & Dots - 9,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+4E7FDBB2-EDCE-44FF-B456-FDD12D041D84,Bakery Crafts Numeral Candle Polka Dot - 3,0,$0.00 ,Candles,general,21466051931,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,3,0,,12/2/2022 12:15,CK Products,FALSE,,,$0.00 
+55382EAF-A356-46C0-8D98-8F747D5503C6,Bakery Crafts Numeral Candle Polka Dot - 4,0,$0.00 ,Candles,general,21466051955,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,4/13/2021 15:38,not tracked,FALSE,,,$0.00 
+3CBFC6B8-6EE3-475D-ADB7-5F13F1DFB36E,Bakery Crafts Numeral Candle Polka Dot - 5,0,$0.00 ,Candles,general,21466051979,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,11/25/2020 15:25,CK Products,FALSE,,,$0.00 
+08867E0A-89CA-410F-9534-229103DF2A37,Bakery Crafts Numeral Candle Polka Dot - 9,0,$0.00 ,Candles,general,21466052051,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,,10/22/2022 11:34,CK Products,FALSE,,,$0.00 
+95F105D9-0B72-40E0-B571-2F434D2B2C5C,Bakery Crafts Rainbow Candle,6,$6.30 ,Candles,general,6.08E+11,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.05 ,,6,1,6,,CK Products,FALSE,,,$6.30 
+F78AE724-059B-43A0-9093-8DB14F64005A,Bakery Crafts Shark Candle,1,$1.05 ,Candles,general,6.08E+11,4.00E+11,$2.29 ,TRUE,TRUE,TRUE,$1.05 ,,1,1,6,11/17/2022 14:27,Ateco,FALSE,,,$1.05 
+952CD74E-DCD5-460C-B630-9ACBF17F58CA,"Bakery Crafts Spiral Bright Birthday Candles, 2.5"", 24ct.",20,$6.20 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.31 ,,20,2,12,12/9/2022 14:23,Ateco,FALSE,,,$6.20 
+19C67227-2456-44C2-AAE7-AC24E68F14DC,"Bakery Crafts Spiral Candles, 12ct. - Assorted",3,$0.84 ,Candles,general,21466597514,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.28 ,,6,2,,12/10/2022 15:37,Ateco,FALSE,,,$1.68 
+C05A37C5-E2CE-4EA9-A755-3130C02CA75A,"Bakery Crafts Spiral Candles, 12ct. - Gold",6,$6.30 ,Candles,general,6.08E+11,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.05 ,,8,2,,11/21/2020 13:48,Ateco,FALSE,,,$8.40 
+CAE0D328-846B-4505-AB40-AE71101EF964,"Bakery Crafts Spiral Candles, 12ct. - Green",0,$0.00 ,Candles,general,21466597538,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.28 ,,0,0,,10/14/2020 10:38,Ateco,FALSE,,,$0.00 
+0D320794-87C4-4DE8-8FC8-4998AC2E6047,"Bakery Crafts Spiral Candles, 12ct. - Pink",3,$0.84 ,Candles,general,21466597545,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.28 ,,3,2,,8/20/2022 14:18,Ateco,FALSE,,,$0.84 
+74748555-6089-4FF0-A0F1-4B96D7C95B68,"Bakery Crafts Spiral Candles, 12ct. - Red",3,$0.84 ,Candles,general,21466597552,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.28 ,,3,2,,11/30/2022 14:23,Ateco,FALSE,,,$0.84 
+59D22D05-D1F3-4676-942F-92CF79AD7212,Bakery Crafts Sprinkle Number Candle - 0,0,$0.00 ,Candles,general,21466593004,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,2/6/2021 14:18,Ateco,FALSE,,,$0.00 
+7C2F5ED4-ACE6-4313-B872-8B69AE91A5EF,Bakery Crafts Sprinkle Number Candle - 6,0,$0.00 ,Candles,general,21466593066,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,7/17/2021 11:38,Ateco,FALSE,,,$0.00 
+2147E4FC-CF73-4911-A402-27825062B04F,"Bakery Crafts Striped Candles 3.5"", 12ct.",2,$2.26 ,Candles,general,21466002995,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.13 ,,2,2,6,12/13/2022 10:41,Ateco,FALSE,,,$2.26 
+9E68A05B-4205-4B62-9B01-595A88330CA1,"Bakery Crarts Fiesta Spirit Glitter Candles, 16ct.",7,$6.72 ,Candles,general,6.08E+11,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.96 ,,7,2,6,8/5/2022 10:20,Ateco,FALSE,,,$6.72 
+F33E570E-F30E-45EE-A4D8-12EEE9F086D7,"Celebakes Number ""1"" Candle",0,$0.00 ,Candles,general,7.45E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,5/21/2021 15:52,Ateco,FALSE,,,$0.00 
+D9A37A8C-9B58-40CB-B820-658754BE0559,Culpitt Birthday Candle Numeral Candle - Blue,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,8/1/2020 11:41,Ateco,FALSE,,,$0.00 
+B80D2CAF-ACAF-4A3D-8174-8FF24FC01EB9,Culpitt Birthday Candle Numeral Candle - Pink,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,4/30/2021 14:43,Ateco,FALSE,,,$0.00 
+FFAD9D21-5104-4758-A7DE-CA6EF32AE0FE,Culpitt Numeral Birthday Candle - 0,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,11/26/2022 13:04,Ateco,FALSE,,,$0.00 
+27929AD4-3D6C-4FD2-9B22-369DFFC446F7,Culpitt Numeral Birthday Candle - 2,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,10/2/2021 14:40,Ateco,FALSE,,,$0.00 
+0E3AC307-9152-4329-8279-91D70E8D1D49,Culpitt Numeral Birthday Candle - 3,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,Ateco,FALSE,,,$0.00 
+2506FAA3-55C6-408F-91DE-4777FC83ED47,Culpitt Numeral Birthday Candle - 4,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,5/27/2021 14:47,Ateco,FALSE,,,$0.00 
+943FB278-552D-4237-AD2D-AD9B72E3D575,Culpitt Numeral Birthday Candle - 5,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,10/14/2020 13:05,Ateco,FALSE,,,$0.00 
+3DFDF642-A54C-4652-827A-2FA14ED4F521,Culpitt Numeral Birthday Candle - 6,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,,2/19/2022 10:48,Ateco,FALSE,,,$0.00 
+4052A368-D5FA-46AD-A06D-78280487CD18,Culpitt Numeral Birthday Candle - 7,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,10/29/2020 13:50,Ateco,FALSE,,,$0.00 
+428DDC18-7CDE-49B4-A679-3A9370260A34,Culpitt Numeral Birthday Candle - 8,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,,12/7/2022 14:39,Ateco,FALSE,,,$0.00 
+A216DB99-C2A5-4513-A2A1-C850C07A009D,Culpitt Numeral Birthday Candle - 9,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,11/26/2022 13:04,Ateco,FALSE,,,$0.00 
+06EC1305-96C7-4D2D-8AC1-9341FDA833A8,Culpitt Party Candles Numeral Candle - 0 (blue),0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,5,0,,,Ateco,FALSE,,,$0.00 
+5A36A78C-37EC-4290-A835-3218A73C0AD0,Culpitt Party Candles Numeral Candle - 1,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,Ateco,FALSE,,,$0.00 
+9EADFE43-9A3A-42B7-A75D-EE4BBB09B31C,Culpitt Party Candles Numeral Candle - 2 (orange),0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,,8/23/2022 10:33,Ateco,FALSE,,,$0.00 
+A03D5489-77A8-49F7-A995-3549D7BA0A76,Culpitt Party Candles Numeral Candle - 3 (green),0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,,,Ateco,FALSE,,,$0.00 
+3012A142-EAB8-4C64-A98D-13C7C645BF2C,Culpitt Party Candles Numeral Candle - 4,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,Ateco,FALSE,,,$0.00 
+07C4D882-BE9A-4815-A589-2B6412E88A03,Culpitt Party Candles Numeral Candle - 5,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,Ateco,FALSE,,,$0.00 
+34C34D94-91A8-46EE-9E66-180DF7F02B5D,Culpitt Party Candles Numeral Candle - 6 (yellow),0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,Ateco,FALSE,,,$0.00 
+7C8D16BB-7D35-4939-B90C-9C894EFF4F75,Culpitt Party Candles Numeral Candle - 7,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+FC15981E-857C-4BD9-884D-B62D06FCCA71,Culpitt Party Candles Numeral Candle - 8,0,$0.00 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,CK Products,FALSE,,,$0.00 
+D7EBBF5A-DA54-4E83-A0A7-3290C082D6F3,Culpitt Party Candles Numeral Candle - 9 (yellow),0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,1,0,,6/17/2021 16:15,not tracked,FALSE,,,$0.00 
+D8BA0519-EAC1-462E-B197-23D0F54024AC,Deluxe Hanukkah Candles 44ct,0,$0.00 ,Candles,general,48419295525,4.00E+11,$4.95 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,12/17/2022 13:23,DecoPac,FALSE,,,$0.00 
+95F2F89F-A00A-44A7-9DEA-7A0CFD58AA22,Mermaid Tail Candle,4,$4.20 ,Candles,general,6.08E+11,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.05 ,,5,1,6,5/6/2021 16:49,DecoPac,FALSE,,,$5.25 
+F8995901-9E91-47C8-B922-924C2A51446E,"Mickey Mouse Candles, 6ct.",4,$9.00 ,Candles,Character,6.08E+11,4.00E+11,$4.69 ,TRUE,TRUE,TRUE,$2.25 ,,4,1,6,12/16/2022 16:22,DecoPac,FALSE,,,$9.00 
+DD883479-D098-4989-BE90-A5C7A475BCB2,"Mini Glitter Numeral Candle 1.75"" - Blue 1",0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.45 ,,1,0,,4/6/2022 11:35,DecoPac,FALSE,,,$0.45 
+60B4D0FE-E49A-4358-9F8B-AC6211F9611E,"Mini Glitter Numeral Candle 1.75"" - Green 1",0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.45 ,,2,0,,9/30/2022 15:15,DecoPac,FALSE,,,$0.89 
+36DF21FB-2D07-4ACF-ACB0-B4E837A3C0AE,"Mini Glitter Numeral Candle 1.75"" - Orange 1",0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.44 ,,5,0,,7/16/2022 15:03,DecoPac,FALSE,,,$2.18 
+614D9CB0-A526-4DE3-A9E4-8A680C349F4A,"Mini Glitter Numeral Candle 1.75"" - Pink 1",0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.44 ,,4,0,,9/29/2022 13:38,DecoPac,FALSE,,,$1.76 
+9A743D58-1C17-412E-910B-620B87AD9740,"Mini Glitter Numeral Candle 1.75"" - Purple 1",0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.45 ,,2,0,,7/7/2022 13:11,DecoPac,FALSE,,,$0.89 
+8FE2749F-F91E-4460-AA28-F2FEB57BB8AD,"Mini Glitter Numeral Candle 1.75"" - Yellow 1",0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.44 ,,4,0,,7/28/2022 10:55,DecoPac,FALSE,,,$1.76 
+CB970ACE-E78A-4948-B92C-0A5DF3B48FFC,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 0",13,$6.11 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,15,3,,8/16/2022 10:41,DecoPac,FALSE,,,$7.05 
+8C6D0733-6468-4CC1-BCF3-5DC07738823D,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 1",1,$0.47 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,12,3,,11/12/2022 12:30,DecoPac,FALSE,,,$5.64 
+18BD550C-2C73-4498-82B4-B3C1051FDB19,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 2",9,$4.23 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,12,3,,12/3/2022 13:49,not tracked,FALSE,,,$5.64 
+DD9958BD-129A-4827-A18D-75B9167BDF3B,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 3",4,$1.88 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,4,3,,11/25/2022 12:17,not tracked,FALSE,,,$1.88 
+F2ECC6DB-4444-4D42-BB5C-987D3CC32A9F,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 4",4,$1.88 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,5,3,,12/16/2022 12:10,CK Products,FALSE,,,$2.35 
+A21E9641-0EF2-41D7-872F-4F80FEBD1F0B,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 5",6,$2.82 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,6,3,,7/16/2022 15:03,not tracked,FALSE,,,$2.82 
+327C30D3-10B1-4726-AECF-631104E519A8,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 6",14,$6.58 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,15,3,,11/4/2022 11:31,Linneas Inc dot com,FALSE,,,$7.05 
+FF2593B7-6E16-4EB2-927E-DC270AAC2F98,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 7",9,$4.23 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,9,3,,10/27/2022 12:36,Linneas Inc dot com,FALSE,,,$4.23 
+52DF5C17-3C93-4EB5-A426-86D78C86BBD7,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 8",8,$3.76 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,8,3,,9/29/2022 13:38,Linneas Inc dot com,FALSE,,,$3.76 
+02F3A854-5177-4F25-B2D6-41E2D8E12100,"Mini Glitter Numeral Candle 1.75"", Asst'd colors - 9",13,$6.11 ,Candles,general,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.47 ,,13,3,,11/10/2022 14:16,Linneas Inc dot com,FALSE,,,$6.11 
+648562A5-86D0-48B6-BE97-D777BC235BFF,"Party Hits Number Birthday Candle, Asst. Colors",0,$0.00 ,Candles,general,7.42E+11,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,-2,0,0,10/1/2022 11:29,CK Products,FALSE,,,$0.00 
+1353C448-9FFE-4CAF-8371-A4224F7B689E,PME Gold Glitter Numeral Candle - 0,3,$31.98 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.66 ,,3,2,,12/9/2022 12:22,CK Products,FALSE,,,$31.98 
+D827E401-F7AD-47C4-8A28-2998A9E70820,PME Gold Glitter Numeral Candle - 1,3,$31.98 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.66 ,,3,2,,11/25/2022 12:17,Lorann Oils dot com,FALSE,,,$31.98 
+A84BBFB9-B494-446D-B9D5-83EF98B0A1D3,PME Gold Glitter Numeral Candle - 2,3,$31.98 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.66 ,,3,2,,12/1/2022 12:16,Lorann Oils dot com,FALSE,,,$31.98 
+EFABF285-3F2A-43A3-91D2-F5CE9886A437,PME Gold Glitter Numeral Candle - 3,6,$63.96 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.66 ,,6,2,,,CK Products,FALSE,,,$63.96 
+F6BD6DC6-9D7E-43AB-8814-3C69485FF908,PME Gold Glitter Numeral Candle - 4,4,$42.64 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.66 ,,4,2,,11/10/2022 16:59,not tracked,FALSE,,,$42.64 
+42018675-B1B5-4F23-808E-4D20C5F856B5,PME Gold Glitter Numeral Candle - 5,16,$340.96 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$21.31 ,,10,2,,11/25/2022 12:17,Lorann Oils dot com,FALSE,,,$213.10 
+1B098D9D-DF9B-447D-AD87-C5EC8AD56651,PME Gold Glitter Numeral Candle - 6,6,$63.36 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.56 ,,6,2,,,Lorann Oils dot com,FALSE,,,$63.36 
+73D07F7D-052F-4B28-A99F-2F62853076C8,PME Gold Glitter Numeral Candle - 7,3,$31.98 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.66 ,,4,2,,11/3/2022 16:15,Lorann Oils dot com,FALSE,,,$42.64 
+9BD12629-C23F-4F5E-B3D5-9C67505A4C73,PME Gold Glitter Numeral Candle - 8,3,$31.98 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.66 ,,3,2,,12/9/2022 12:22,Lorann Oils dot com,FALSE,,,$31.98 
+6A2A0A53-4B27-4603-A291-3679871BCE04,PME Gold Glitter Numeral Candle - 9,6,$63.96 ,Candles,general,5.06E+12,4.00E+11,$3.69 ,TRUE,TRUE,TRUE,$10.66 ,,6,2,,,Lorann Oils dot com,FALSE,,,$63.96 
+F1612F36-7D8F-4E43-93AF-EF43B6D8E33C,"PME Silver Twist Candles w/holders, 10ct.",5,$4.70 ,Candles,general,5.06E+12,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.94 ,,5,1,6,9/28/2022 11:43,Lorann Oils dot com,FALSE,,,$4.70 
+1E7F9421-BC20-4369-A498-05D9B37E3312,"Rainbow Candles, 12ct.",3,$3.06 ,Candles,general,21466056172,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.02 ,,3,2,6,6/22/2022 13:33,CK Products,FALSE,,,$3.06 
+24A7C449-21DF-4853-B0DE-A4C86C9CBA80,Unicorn Candle Holder,0,$0.00 ,Candles,general,6.08E+11,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.92 ,,1,0,0,1/15/2021 14:38,Linneas Inc dot com,FALSE,,,$0.92 
+9DC4AF56-912D-4E02-A0C7-F162F1A107C8,"Wilton Birthday Candle Pick Set, 10pc.",7,$0.00 ,Candles,general,70896887016,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.00 ,,7,0,0,4/1/2022 11:26,Linneas Inc dot com,FALSE,,,$0.00 
+7EF78551-7117-4A63-815D-BA3D46479AE3,"Wilton Celebration Birthday Candles, Soft Colors, 24ct.",4,$1.84 ,Candles,general,70896282910,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.46 ,,4,1,6,10/6/2022 14:51,Lorann Oils dot com,FALSE,,,$1.84 
+2780870C-F9D2-4320-A410-7F1191B53D86,"Wilton Gold Metallic Candles, 10ct.",5,$5.55 ,Candles,general,70896281227,4.00E+11,$2.29 ,TRUE,TRUE,TRUE,$1.11 ,,6,1,6,12/13/2022 13:55,Linneas Inc dot com,FALSE,,,$6.66 
+C48F41A2-D6E4-4EA1-B37D-14B2D6F9DF53,Wilton Numeral Candle Green - 0,5,$2.60 ,Candles,general,70896291004,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.52 ,,5,1,,7/12/2022 17:07,Lorann Oils dot com,FALSE,,,$2.60 
+350B9159-2413-49F8-9694-31376560E1F0,Wilton Numeral Candle Green - 1,7,$3.94 ,Candles,general,70896291011,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.56 ,,7,2,,12/13/2022 10:41,Lorann Oils dot com,FALSE,,,$3.94 
+A2FCCBFA-6A9C-4EAC-8C24-A5362C33FE20,Wilton Numeral Candle Green - 2,0,$0.00 ,Candles,general,70896291028,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.61 ,,0,0,,6/10/2022 11:26,Lorann Oils dot com,FALSE,,,$0.00 
+263389AC-9C67-4F5D-930A-A3A321ADC191,Wilton Numeral Candle Green - 3,5,$2.71 ,Candles,general,70896291035,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.54 ,,4,2,,7/12/2022 17:07,Lorann Oils dot com,FALSE,,,$2.17 
+637E8528-9027-44DE-A5AD-DF814FB3DB15,Wilton Numeral Candle Green - 4,4,$2.44 ,Candles,general,70896291042,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.61 ,,4,2,,5/26/2021 15:30,Lorann Oils dot com,FALSE,,,$2.44 
+AB4DBD8D-0599-4D13-B758-A37166E87BEC,Wilton Numeral Candle Green - 5,7,$3.73 ,Candles,general,70896291059,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.53 ,,7,2,,4/8/2022 13:49,Lorann Oils dot com,FALSE,,,$3.73 
+EC512F6E-4F06-4535-9EDA-E529FEEDF670,Wilton Numeral Candle Green - 6,5,$3.05 ,Candles,general,70896291066,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.61 ,,6,1,,4/16/2022 15:03,Lorann Oils dot com,FALSE,,,$3.66 
+633D3936-AD1B-4873-8A44-F063E125B0CF,Wilton Numeral Candle Green - 7,1,$0.61 ,Candles,general,70896291073,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.61 ,,2,1,,5/13/2022 11:42,Lorann Oils dot com,FALSE,,,$1.22 
+929B1637-5234-49E2-A94F-12948DD1DA8E,Wilton Numeral Candle Green - 8,3,$1.83 ,Candles,general,70896291080,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.61 ,,3,1,,12/2/2022 11:06,CK Products,FALSE,,,$1.83 
+D9476D9C-61E2-405F-90D5-8EAE274E85E6,Wilton Numeral Candle Green - 9,1,$0.61 ,Candles,general,70896291097,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.61 ,,1,1,,12/13/2022 10:41,not tracked,FALSE,,,$0.61 
+477180C3-58F8-4419-98B1-394DDE5AF96B,Wilton Rainbow Number Candle - 0,0,$0.00 ,Candles,general,70896170590,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,8/14/2021 12:16,Lorann Oils dot com,FALSE,,,$0.00 
+465E9655-36F9-4E1F-B982-368D1F2C0673,Wilton Rainbow Number Candle - 2,0,$0.00 ,Candles,general,70896130419,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,8/14/2021 12:16,Linneas Inc dot com,FALSE,,,$0.00 
+7DB6DC16-5193-48D3-A6F0-ADC6B9871AE9,Wilton Rainbow Number Candle - 4,0,$0.00 ,Candles,general,70896130433,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,Lorann Oils dot com,FALSE,,,$0.00 
+53B7DCDC-8468-4550-B12D-BB4BBCE94ADB,Wilton Rainbow Number Candle - 9,0,$0.00 ,Candles,general,70896160485,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,2/10/2021 13:06,Lorann Oils dot com,FALSE,,,$0.00 
+1CC1F8E6-F0E4-4887-822E-FEC983309F37,"Wilton Tall Gold Birthday Candle, 12ct.",1,$1.56 ,Candles,general,70896489487,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.56 ,,2,1,6,11/15/2022 16:45,Lorann Oils dot com,FALSE,,,$3.12 

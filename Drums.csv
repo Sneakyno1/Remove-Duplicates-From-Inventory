@@ -1,0 +1,114 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+153C522B-094B-4AD0-9FBC-6BFB3E7E3BD2,"Holiday Color Cake Drums - Blue 10""",,$0.00 ,Drums,Holiday,,4.00E+11,$4.50 ,TRUE,TRUE,TRUE,$1.75 ,,0,0,,3/10/2021 15:15,not tracked,FALSE,,,$0.00 
+4F94BC6A-7163-4DAE-9A7D-95AFD5202EB2,"Holiday Color Cake Drums - Blue 12""",,$0.00 ,Drums,Holiday,,4.00E+11,$5.00 ,TRUE,TRUE,TRUE,$2.25 ,,1,0,,4/16/2021 15:39,CK Products,FALSE,,,$2.25 
+8E6C043F-E982-4AA1-B990-E5D44EA50C41,"Holiday Color Cake Drums - Blue 14""",,$0.00 ,Drums,Holiday,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.44 ,,0,0,,4/28/2021 11:03,CK Products,FALSE,,,$0.00 
+61FB1A68-4D00-45A9-8972-E0B827084CB0,"Holiday Color Cake Drums - Blue 16""",,$0.00 ,Drums,Holiday,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.47 ,,0,0,,9/17/2021 10:42,not tracked,FALSE,,,$0.00 
+EE394D0B-AF75-4CC1-928F-3F0A86B0FA1F,"Holiday Color Cake Drums - Blue 6""",,$0.00 ,Drums,Holiday,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.04 ,,3,0,,7/29/2022 13:36,CK Products,FALSE,,,$3.12 
+870F7266-64B8-4A2A-A145-788ADA44328F,"Holiday Color Cake Drums - Blue 8""",,$0.00 ,Drums,Holiday,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.26 ,,0,0,,4/27/2021 13:18,not tracked,FALSE,,,$0.00 
+0A99C797-F61D-44A5-BBF1-61DC006BA063,"Holiday Color Cake Drums - Green 10""",,$0.00 ,Drums,Holiday,,4.00E+11,$4.50 ,TRUE,TRUE,TRUE,$1.75 ,,0,0,,3/16/2021 13:50,not tracked,FALSE,,,$0.00 
+677F339C-6EFC-434C-A81E-5976C889E79B,"Holiday Color Cake Drums - Green 12""",,$0.00 ,Drums,Holiday,,4.00E+11,$5.00 ,TRUE,TRUE,TRUE,$2.25 ,,0,0,,3/12/2021 15:17,not tracked,FALSE,,,$0.00 
+2F6BE6FD-2AB8-4DB4-AB97-6276F87F7BA4,"Holiday Color Cake Drums - Green 14""",,$0.00 ,Drums,Holiday,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.44 ,,0,0,,7/14/2021 13:26,AnnClarkCookieCutters dot com,FALSE,,,$0.00 
+4CA32448-256A-4E96-85DB-D1F3D4B059D8,"Holiday Color Cake Drums - Green 16""",,$0.00 ,Drums,Holiday,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.47 ,,0,0,,12/14/2021 10:45,not tracked,FALSE,,,$0.00 
+BF5F9FF5-11DA-4478-A156-5E2AB0CCFD72,"Holiday Color Cake Drums - Green 6""",,$0.00 ,Drums,Holiday,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.04 ,,4,0,,10/4/2022 11:59,not tracked,FALSE,,,$4.16 
+DCDD5705-6B3B-4D3D-A925-26927730BBCB,"Holiday Color Cake Drums - Green 8""",,$0.00 ,Drums,Holiday,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.26 ,,0,0,,10/28/2021 16:44,not tracked,FALSE,,,$0.00 
+CA49305C-1100-469E-9597-F1A9D9FB9DB6,"Holiday Color Cake Drums - Red 10""",,$0.00 ,Drums,Holiday,,4.00E+11,$4.50 ,TRUE,TRUE,TRUE,$1.75 ,,0,0,,2/17/2021 13:04,DecoPac,FALSE,,,$0.00 
+00D0FCD6-61B4-4A14-93D8-F5C50AA3B980,"Holiday Color Cake Drums - Red 12""",,$0.00 ,Drums,Holiday,,4.00E+11,$5.00 ,TRUE,TRUE,TRUE,$2.25 ,,0,0,,5/4/2021 13:36,AnnClarkCookieCutters dot com,FALSE,,,$0.00 
+EF979ADE-291B-407F-85FA-0849B050B1D5,"Holiday Color Cake Drums - Red 14""",,$0.00 ,Drums,Holiday,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.44 ,,0,0,,7/2/2021 14:14,not tracked,FALSE,,,$0.00 
+9A89FA18-54E3-481D-B373-B5EC847A49E3,"Holiday Color Cake Drums - Red 16""",,$0.00 ,Drums,Holiday,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.47 ,,0,0,,9/9/2022 15:56,not tracked,FALSE,,,$0.00 
+356FE279-EB69-4C1D-AD4C-9CB85634C170,"Holiday Color Cake Drums - Red 6""",,$0.00 ,Drums,Holiday,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.04 ,,0,0,,2/1/2022 10:33,not tracked,FALSE,,,$0.00 
+50AEDE58-D376-4486-80CD-4619FEF19F3C,"Holiday Color Cake Drums - Red 8""",,$0.00 ,Drums,Holiday,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.26 ,,1,0,,2/9/2021 15:51,not tracked,FALSE,,,$1.26 
+441D8155-3A92-4657-B201-105128647897,Rectangle Sheet Cake Drum - 1/2 Sheet White,,$0.00 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$3.97 ,,6,2,,10/22/2022 13:52,not tracked,FALSE,,,$23.82 
+C4C99EC4-64F5-4FF1-BFB9-6351B9A8F604,Round Black Cake Drums - 10”,4,$9.75 ,Drums,general,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.44 ,,6,4,,12/23/2022 12:19,AnnClarkCookieCutters dot com,FALSE,,,$14.63 
+EB43ACBD-A046-484C-8AA6-C78EFA634F2A,Round Black Cake Drums - 12”,14,$43.68 ,Drums,general,,4.00E+11,$6.50 ,TRUE,TRUE,TRUE,$3.12 ,,16,4,,12/16/2022 11:40,AnnClarkCookieCutters dot com,FALSE,,,$49.92 
+EA75DCF3-B911-4C5F-B772-8206AB218C6D,Round Black Cake Drums - 14”,15,$52.94 ,Drums,general,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.53 ,,16,4,,12/6/2022 14:02,AnnClarkCookieCutters dot com,FALSE,,,$56.47 
+D81A353E-89A6-4E6E-AAAA-F6C7D26F0CA4,Round Black Cake Drums - 16”,26,$66.48 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$2.56 ,,26,3,,10/20/2022 16:46,not tracked,FALSE,,,$66.48 
+51BE1733-4D2F-436A-BA5F-8DCB3257CEBF,Round Black Cake Drums - 18”,6,$21.93 ,Drums,general,,4.00E+11,$11.50 ,TRUE,TRUE,TRUE,$3.66 ,,6,2,,12/1/2022 12:16,not tracked,FALSE,,,$21.93 
+6fa82914-6210-43bd-88e0-2b6019f36ca6,Round Black Cake Drums - 20”,0,$0.00 ,Drums,general,,4.00E+11,$14.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+3accbac6-c886-4afa-a71d-2fd56fc1bf00,Round Black Cake Drums - 22”,0,$0.00 ,Drums,general,,4.00E+11,$16.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+aa66a983-5945-4595-9d9f-0a61b6abdd6e,Round Black Cake Drums - 24”,0,$0.00 ,Drums,general,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+4c33eaf4-b553-4a3a-9fe2-f3216c08be80,Round Black Cake Drums - 6”,7,$7.28 ,Drums,general,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.04 ,,7,4,,9/7/2022 11:44,not tracked,FALSE,,,$7.28 
+67eb758c-9bee-4ebb-81e2-bf171783bfff,Round Black Cake Drums - 8”,8,$13.61 ,Drums,general,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.70 ,,10,4,,11/23/2022 15:37,not tracked,FALSE,,,$17.01 
+94cbb613-7864-472a-9c93-63666a2d6df3,Round Black Cake Drums - 9”,0,$0.00 ,Drums,general,,4.00E+11,$4.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+e33ac187-61bb-4971-89d7-26df9f4f4376,Round Gold Cake Drums - 10”,12,$29.36 ,Drums,general,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.45 ,,14,4,,12/17/2022 10:16,not tracked,FALSE,,,$34.25 
+e8c6b02a-53ee-4419-b437-f260d594c439,Round Gold Cake Drums - 12”,10,$16.71 ,Drums,general,,4.00E+11,$6.50 ,TRUE,TRUE,TRUE,$1.67 ,,10,4,,12/21/2022 15:09,not tracked,FALSE,,,$16.71 
+967d5e70-73b0-4871-b56f-3cc53e4121a3,Round Gold Cake Drums - 14”,12,$41.10 ,Drums,general,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.43 ,,13,4,,12/16/2022 11:28,not tracked,FALSE,,,$44.53 
+5d51c73c-1bc0-4de2-ae75-65f5cc7da66b,Round Gold Cake Drums - 16”,15,$72.96 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$4.86 ,,14,3,,11/5/2022 15:57,not tracked,FALSE,,,$68.10 
+542cba00-0a07-4985-ac7c-93354595cab9,Round Gold Cake Drums - 18”,8,$42.07 ,Drums,general,,4.00E+11,$11.50 ,TRUE,TRUE,TRUE,$5.26 ,,8,2,,12/10/2022 15:26,not tracked,FALSE,,,$42.07 
+1d8793ae-6ec1-4109-ac63-1583f903563c,Round Gold Cake Drums - 20”,10,$45.09 ,Drums,general,,4.00E+11,$14.00 ,TRUE,TRUE,TRUE,$4.51 ,,11,2,,9/10/2022 12:58,not tracked,FALSE,,,$49.59 
+9b43ad97-e733-4709-ba14-a85ecd1c24da,Round Gold Cake Drums - 22”,0,$0.00 ,Drums,general,,4.00E+11,$16.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+68cd58e4-d34a-4829-9b89-73e15f178a31,Round Gold Cake Drums - 24”,0,$0.00 ,Drums,general,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+5dc87767-7044-4bd5-8cb3-037c384809ff,Round Gold Cake Drums - 6”,14,$18.49 ,Drums,general,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.32 ,,15,4,,11/4/2022 16:16,not tracked,FALSE,,,$19.81 
+d8107f7e-3c34-49cd-b40e-dfeb05bcd96b,Round Gold Cake Drums - 8”,12,$20.90 ,Drums,general,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.74 ,,13,4,,11/23/2022 15:37,not tracked,FALSE,,,$22.64 
+8a58d614-3053-4736-8505-5ae81672836c,Round Gold Cake Drums - 9”,0,$0.00 ,Drums,general,,4.00E+11,$4.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+418fa900-3b88-47dd-8d0f-2ee6d3b1a589,Round Silver Cake Drums - 10”,7,$17.12 ,Drums,general,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.45 ,,10,4,,12/20/2022 16:28,not tracked,FALSE,,,$24.46 
+3901dd91-fd46-4bc3-a8aa-2e2c7e1ec8e0,Round Silver Cake Drums - 12”,4,$12.48 ,Drums,general,,4.00E+11,$6.50 ,TRUE,TRUE,TRUE,$3.12 ,,7,4,,12/23/2022 13:58,not tracked,FALSE,,,$21.85 
+02a012e8-0e35-4355-ab0f-66545f67f344,Round Silver Cake Drums - 14”,11,$37.90 ,Drums,general,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.45 ,,15,4,,12/8/2022 17:04,not tracked,FALSE,,,$51.69 
+eb6adc06-7cc1-4f0e-82be-7a3df6f58ba5,Round Silver Cake Drums - 16”,10,$48.20 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$4.82 ,,10,4,,12/1/2022 16:52,not tracked,FALSE,,,$48.20 
+cde1bc01-6fe7-46f9-a624-1bbab501c59b,Round Silver Cake Drums - 18”,20,$114.91 ,Drums,general,,4.00E+11,$11.50 ,TRUE,TRUE,TRUE,$5.75 ,,20,2,,12/10/2022 15:26,not tracked,FALSE,,,$114.91 
+7cdd4a3a-8271-4e3e-a9ec-447e370bd637,Round Silver Cake Drums - 20”,6,$28.98 ,Drums,general,,4.00E+11,$14.00 ,TRUE,TRUE,TRUE,$4.83 ,,6,2,,9/9/2022 12:54,not tracked,FALSE,,,$28.98 
+22edd673-0f05-461a-bf56-05deafedc5b4,Round Silver Cake Drums - 22”,5,$0.00 ,Drums,general,,4.00E+11,$20.00 ,TRUE,TRUE,TRUE,$0.00 ,,5,2,,11/18/2022 10:46,not tracked,FALSE,,,$0.00 
+1e48bc40-b4d3-4be4-9b15-f647f7f7baaa,Round Silver Cake Drums - 24”,0,$0.00 ,Drums,general,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+83c17b57-2124-43d5-b96d-259279c642ef,Round Silver Cake Drums - 6”,16,$21.56 ,Drums,general,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.35 ,,16,4,,4/6/2022 10:37,not tracked,FALSE,,,$21.56 
+bec02483-cb84-486f-adfc-e4696078b680,Round Silver Cake Drums - 8”,11,$18.98 ,Drums,general,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.73 ,,11,4,,12/14/2022 16:18,not tracked,FALSE,,,$18.98 
+efa12711-0664-40a9-8ca5-fa2981208898,Round Silver Cake Drums - 9”,0,$0.00 ,Drums,general,,4.00E+11,$4.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+0ce43914-71b6-433c-88c4-dff2ba7f8e51,"Round Silver Cake Drums - Thin 14""",15,$27.75 ,Drums,general,,4.00E+11,$4.50 ,TRUE,TRUE,TRUE,$1.85 ,,17,0,,1/25/2022 15:39,not tracked,FALSE,,,$31.45 
+a78e9907-2c3b-497c-89f2-fd1484761958,Round White Cake Drums - 10”,15,$36.45 ,Drums,general,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.43 ,,16,4,,12/22/2022 12:13,not tracked,FALSE,,,$38.88 
+7c54f6b3-824a-48a1-b167-0cf0ba435f87,Round White Cake Drums - 12”,6,$16.84 ,Drums,general,,4.00E+11,$6.50 ,TRUE,TRUE,TRUE,$2.81 ,,7,4,,12/16/2022 15:02,not tracked,FALSE,,,$19.65 
+07fe63f0-96ce-476c-b04e-2dedf4fe0352,Round White Cake Drums - 14”,10,$33.90 ,Drums,general,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.39 ,,12,4,,12/15/2022 13:20,not tracked,FALSE,,,$40.68 
+54414a9f-caaf-4176-b935-5310315f34c4,Round White Cake Drums - 16”,17,$82.32 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$4.84 ,,14,3,,12/15/2022 13:41,not tracked,FALSE,,,$67.80 
+1ca6471b-4699-4dfa-993b-ee9324dcc6ef,Round White Cake Drums - 18”,10,$56.35 ,Drums,general,,4.00E+11,$11.50 ,TRUE,TRUE,TRUE,$5.64 ,,12,2,,12/3/2022 10:16,not tracked,FALSE,,,$67.62 
+40e239a8-e719-400e-a2bf-b62512628ead,Round White Cake Drums - 20”,4,$17.83 ,Drums,general,,4.00E+11,$14.00 ,TRUE,TRUE,TRUE,$4.46 ,,4,2,,8/4/2022 12:05,not tracked,FALSE,,,$17.83 
+8beb1552-6392-4163-af86-970e195d1f5e,Round White Cake Drums - 22”,0,$0.00 ,Drums,general,,4.00E+11,$16.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+9183fb2d-d9ef-42cb-ab1e-38d77f82db8e,Round White Cake Drums - 24”,0,$0.00 ,Drums,general,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+084cd2e2-0b74-4870-aea8-506ca3d5abac,Round White Cake Drums - 6”,12,$17.37 ,Drums,general,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.45 ,,12,4,,12/9/2022 16:15,not tracked,FALSE,,,$17.37 
+e204e1da-1031-4f0f-a35e-8aeb60739462,Round White Cake Drums - 8”,15,$26.25 ,Drums,general,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.75 ,,15,4,,12/22/2022 14:07,not tracked,FALSE,,,$26.25 
+54c68698-1175-43ea-9acd-cb1d45628898,Round White Cake Drums - 9”,0,$0.00 ,Drums,general,,4.00E+11,$4.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+7d7bcdaf-5cd6-457e-a683-451877693bde,"Sq/Rect. Gold Cake Drums - 1/2 sheet 13.75""x18.75""",5,$20.90 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$4.18 ,,6,2,,11/25/2022 10:13,not tracked,FALSE,,,$25.08 
+80ede035-6c25-4242-a410-62c7246d3ce0,Sq/Rect. Gold Cake Drums - 1/2 sheet 14x20,0,$0.00 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$3.97 ,,1,0,,7/28/2022 15:38,not tracked,FALSE,,,$3.97 
+919f657d-48c3-4e13-a3df-7081527acde1,Sq/Rect. Gold Cake Drums - 1/4 sheet 11x15,0,$0.00 ,Drums,general,,4.00E+11,$6.00 ,TRUE,TRUE,TRUE,$1.64 ,,10,2,,12/6/2022 11:03,not tracked,FALSE,,,$16.43 
+9ae9ac93-100d-4ecb-80ee-b743aded9521,"Sq/Rect. Gold Cake Drums - 1/4 sheet 13 5/8""x9 5/8""",2,$3.28 ,Drums,general,,4.00E+11,$6.00 ,TRUE,TRUE,TRUE,$1.64 ,,4,2,,7/21/2022 10:07,not tracked,FALSE,,,$6.56 
+77f2b213-8f44-41cc-9cc9-8e097dd18481,Sq/Rect. Gold Cake Drums - 10”,14,$34.31 ,Drums,general,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.45 ,,14,2,,12/8/2022 15:22,not tracked,FALSE,,,$34.31 
+7900a80b-ac3d-4085-99d1-3d090497947c,Sq/Rect. Gold Cake Drums - 12”,14,$43.68 ,Drums,general,,4.00E+11,$6.50 ,TRUE,TRUE,TRUE,$3.12 ,,11,2,,12/16/2022 14:29,not tracked,FALSE,,,$34.32 
+3b4d7aa7-4e34-45d4-9fe5-e936f17b42cb,Sq/Rect. Gold Cake Drums - 14”,13,$43.55 ,Drums,general,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.35 ,,13,2,,10/14/2022 12:17,not tracked,FALSE,,,$43.55 
+c784e49d-6e54-4e8c-a3b9-7b9f5353a3ad,Sq/Rect. Gold Cake Drums - 16”,9,$27.22 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$3.02 ,,9,2,,10/27/2022 13:15,not tracked,FALSE,,,$27.22 
+2d11f88f-b7f2-43bf-ba7b-956dce6ed97c,Sq/Rect. Gold Cake Drums - 18”,5,$19.80 ,Drums,general,,4.00E+11,$11.50 ,TRUE,TRUE,TRUE,$3.96 ,,5,2,,4/23/2022 15:34,not tracked,FALSE,,,$19.80 
+ec09eb82-a1ee-45f2-b0e5-968cf7f1ef5f,Sq/Rect. Gold Cake Drums - 20”,0,$0.00 ,Drums,general,,4.00E+11,$14.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+e69dbd32-2bae-40f7-9ea8-3d578c72a8b4,Sq/Rect. Gold Cake Drums - 22”,0,$0.00 ,Drums,general,,4.00E+11,$16.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+aaf87595-22ad-4fa9-ae1a-79c904117fdc,Sq/Rect. Gold Cake Drums - 24”,0,$0.00 ,Drums,general,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+aa19d61c-61f5-4253-b2e5-57c49826ef41,Sq/Rect. Gold Cake Drums - 6”,10,$13.91 ,Drums,general,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.39 ,,9,2,,10/13/2022 10:45,not tracked,FALSE,,,$12.52 
+a0432c36-bcab-4ab3-b284-f678ee081279,Sq/Rect. Gold Cake Drums - 8”,10,$8.72 ,Drums,general,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$0.87 ,,10,2,,10/7/2022 10:16,not tracked,FALSE,,,$8.72 
+f2bdad94-2623-4c2c-bbb7-0267bc8aacd2,Sq/Rect. Gold Cake Drums - 9”,0,$0.00 ,Drums,general,,4.00E+11,$4.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+f20fe7d7-0e10-4b41-8652-ea381aaf0c16,Square Black Cake Drums - 10”,15,$36.78 ,Drums,general,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.45 ,,14,2,,12/15/2022 14:04,not tracked,FALSE,,,$34.33 
+9d0790a0-fd56-4122-9e98-419516dc1b86,Square Black Cake Drums - 12”,21,$35.02 ,Drums,general,,4.00E+11,$6.50 ,TRUE,TRUE,TRUE,$1.67 ,,21,2,,12/3/2022 10:26,not tracked,FALSE,,,$35.02 
+8e0ca916-830b-4eba-930f-5af08e31a89f,Square Black Cake Drums - 14”,6,$22.68 ,Drums,general,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.78 ,,6,2,,10/26/2022 16:51,not tracked,FALSE,,,$22.68 
+93f2d099-1022-413d-86de-93b68f3356af,Square Black Cake Drums - 16”,21,$104.61 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$4.98 ,,21,2,,9/22/2022 10:17,not tracked,FALSE,,,$104.61 
+42770102-c75e-41ae-ab58-31fa1adf4a4d,Square Black Cake Drums - 18”,8,$484.56 ,Drums,general,,4.00E+11,$11.50 ,TRUE,TRUE,TRUE,$60.57 ,,9,2,,11/19/2022 14:56,not tracked,FALSE,,,$545.13 
+5559ed4f-ef1e-429a-ab5f-82633818ce8c,Square Black Cake Drums - 20”,0,$0.00 ,Drums,general,,4.00E+11,$14.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+37c263fe-dbe1-411d-bf0e-f0701b16a68b,Square Black Cake Drums - 22”,0,$0.00 ,Drums,general,,4.00E+11,$16.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+327cbf30-11a0-4b56-a444-0315b1dc8e47,Square Black Cake Drums - 24”,0,$0.00 ,Drums,general,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+5aef5a29-7dd4-4675-9927-3a4f85a4e1cb,Square Black Cake Drums - 6”,8,$0.00 ,Drums,general,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$0.00 ,,8,2,,7/14/2022 12:11,not tracked,FALSE,,,$0.00 
+20d03170-2091-4aeb-bec5-8b9e5350e88a,Square Black Cake Drums - 8”,10,$11.63 ,Drums,general,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.16 ,,10,2,,7/6/2022 16:00,not tracked,FALSE,,,$11.63 
+65f28171-88ee-4085-9639-1febc74741a1,Square Black Cake Drums - 9”,0,$0.00 ,Drums,general,,4.00E+11,$4.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+affee28e-4224-4c6e-af32-a337e1a08e60,Square Silver Cake Drums - 10”,10,$23.52 ,Drums,general,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.35 ,,11,2,,12/8/2022 11:22,not tracked,FALSE,,,$25.88 
+3b7293c8-6c52-4a9f-a275-dbecb2b7b28f,Square Silver Cake Drums - 12”,12,$37.17 ,Drums,general,,4.00E+11,$6.50 ,TRUE,TRUE,TRUE,$3.10 ,,10,2,,11/25/2022 11:33,not tracked,FALSE,,,$30.98 
+684063a6-360b-41fd-914f-a77f38f4f9f1,"Square Silver Cake Drums - 14"" Thin",21,$42.63 ,Drums,general,,4.00E+11,$4.50 ,TRUE,TRUE,TRUE,$2.03 ,,21,0,,2/10/2022 11:52,not tracked,FALSE,,,$42.63 
+941a9a0f-bda6-4b5e-8fe8-0b37c5126cd2,Square Silver Cake Drums - 14”,16,$54.76 ,Drums,general,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.42 ,,16,2,,8/10/2022 13:19,not tracked,FALSE,,,$54.76 
+0c82e002-5c6a-4fa7-ad30-d8796cfaa499,Square Silver Cake Drums - 16”,8,$25.62 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$3.20 ,,8,2,,7/14/2022 12:11,not tracked,FALSE,,,$25.62 
+936e618a-4a0c-45be-b22c-48c77a74461f,Square Silver Cake Drums - 18”,5,$19.80 ,Drums,general,,4.00E+11,$11.50 ,TRUE,TRUE,TRUE,$3.96 ,,6,2,,3/29/2022 12:47,not tracked,FALSE,,,$23.76 
+d454012d-fe7d-4d09-bac4-e1aa2b877133,Square Silver Cake Drums - 20”,0,$0.00 ,Drums,general,,4.00E+11,$14.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+5ab108e6-637d-446b-a2a2-7093205f5e13,Square Silver Cake Drums - 22”,0,$0.00 ,Drums,general,,4.00E+11,$16.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+e62c6376-20a3-4816-b315-81f11004a6c0,Square Silver Cake Drums - 24”,0,$0.00 ,Drums,general,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,,,not tracked,FALSE,,,$0.00 
+9054bd57-4946-4827-921e-8520c25ef327,Square Silver Cake Drums - 6”,14,$19.22 ,Drums,general,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$1.37 ,,14,2,,10/13/2022 10:45,not tracked,FALSE,,,$19.22 
+24c9d4df-4975-44c2-ba5d-c587953d1ebd,Square Silver Cake Drums - 8”,10,$10.35 ,Drums,general,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.04 ,,11,2,,10/7/2022 10:16,not tracked,FALSE,,,$11.39 
+c61016d4-f2f0-45f9-b61c-54caf7d22784,Square Silver Cake Drums - 9”,0,$0.00 ,Drums,general,,4.00E+11,$4.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,not tracked,FALSE,,,$0.00 
+97f59e4c-b865-407e-a548-9108d69c202f,Square White Cake Drums - 10”,8,$24.25 ,Drums,general,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$3.03 ,,8,2,,12/21/2022 16:56,not tracked,FALSE,,,$24.25 
+788b1c78-e2f3-46a5-a9b3-6a61eefc1328,Square White Cake Drums - 12”,9,$30.24 ,Drums,general,,4.00E+11,$6.50 ,TRUE,TRUE,TRUE,$3.36 ,,9,2,,12/22/2022 12:27,not tracked,FALSE,,,$30.24 
+72fe9c3c-0ba6-4dbf-9d0a-87e6d2d89e70,Square White Cake Drums - 14”,5,$16.99 ,Drums,general,,4.00E+11,$7.00 ,TRUE,TRUE,TRUE,$3.40 ,,5,2,,11/25/2022 14:36,not tracked,FALSE,,,$16.99 
+54ee7b34-9b38-4468-b55c-2d25679a53f0,Square White Cake Drums - 16”,15,$71.70 ,Drums,general,,4.00E+11,$10.00 ,TRUE,TRUE,TRUE,$4.78 ,,11,2,,12/9/2022 13:58,not tracked,FALSE,,,$52.58 
+23b5b97f-75c8-421b-bc13-7a5d491640cd,Square White Cake Drums - 18”,8,$44.48 ,Drums,general,,4.00E+11,$11.50 ,TRUE,TRUE,TRUE,$5.56 ,,8,2,,12/6/2022 10:15,not tracked,FALSE,,,$44.48 
+1b608661-e4c2-417a-9f16-c17e790f625f,Square White Cake Drums - 20”,6,$34.51 ,Drums,general,,4.00E+11,$14.00 ,TRUE,TRUE,TRUE,$5.75 ,,12,2,,5/17/2022 10:55,not tracked,FALSE,,,$69.02 
+b58823e8-b634-4dcc-9fa8-7ce3e18de8ae,Square White Cake Drums - 22”,8,$73.99 ,Drums,general,,4.00E+11,$20.00 ,TRUE,TRUE,TRUE,$9.25 ,,8,2,,12/16/2022 14:02,not tracked,FALSE,,,$73.99 
+b13b23b8-5ca8-440b-b65e-30274cf07251,Square White Cake Drums - 24”,6,$0.00 ,Drums,general,,4.00E+11,$18.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,Choklit Molds dot com,FALSE,,,$0.00 
+d18d47bb-d77d-45f1-88af-f494c68f88b4,Square White Cake Drums - 6”,10,$0.00 ,Drums,general,,4.00E+11,$3.00 ,TRUE,TRUE,TRUE,$0.00 ,,11,2,,9/23/2022 12:07,Choklit Molds dot com,FALSE,,,$0.00 
+f53620a8-25db-4861-8304-445a5d7c2407,Square White Cake Drums - 8”,16,$26.94 ,Drums,general,,4.00E+11,$3.50 ,TRUE,TRUE,TRUE,$1.68 ,,16,2,,11/16/2022 12:29,Choklit Molds dot com,FALSE,,,$26.94 
+25d0899c-d9c6-4425-97fd-b7c7b918ddc8,Square White Cake Drums - 9”,0,$0.00 ,Drums,general,,4.00E+11,$4.00 ,TRUE,TRUE,TRUE,$0.00 ,,0,2,,,Choklit Molds dot com,FALSE,,,$0.00 

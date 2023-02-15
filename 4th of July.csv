@@ -1,6 +1,0 @@
-Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
-422ef225-899d-4fb2-868e-d1f8f973324e,Cookie Countess America the Beautiful Stencil,1,$2.75 ,Stencils,4th of July,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,1,1,4,7/1/2022 14:56,Cookie Countess Wholesale dot com,FALSE,,,$2.75 
-ef2c3aee-3d58-4849-b1fb-475e2dcb5751,Cookie Countess American Eagle PYO Stencil,3,$8.25 ,Stencils,4th of July,8.40E+11,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,3,1,3,,Sweets & Treats,FALSE,,,$8.25 
-bf9a8b4b-2fb2-4313-bac5-06a6c64ef7bd,Cookie Countess Fireworks Stencil,2,$5.72 ,Stencils,4th of July,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.86 ,,2,1,3,7/1/2022 14:56,Sweets & Treats,FALSE,,,$5.72 
-f53accde-73df-40a1-ae17-f28a2e15b14d,Cookie Countess July 4th Stencil,3,$8.49 ,Stencils,4th of July,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.83 ,,3,1,3,7/1/2022 14:56,Wilton (WiltonForBusiness dot com),FALSE,,,$8.49 
-84dbc5dd-7b58-4942-bcd5-c7766ba2d1b7,Cookie Countess 'merica Stencil,2,$5.50 ,Stencils,4th of July,,4.00E+11,$5.50 ,TRUE,TRUE,TRUE,$2.75 ,,2,1,3,6/29/2021 17:01,Nashville Wraps,FALSE,,,$5.50 

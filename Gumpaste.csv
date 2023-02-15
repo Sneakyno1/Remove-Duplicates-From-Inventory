@@ -1,0 +1,100 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+233d04e5-5afc-441d-bd2c-5ef466f4c37b,Asst'd Gum Paste Stars Gold/Black/Silver,,$0.00 ,Gumpaste,general,,4.00E+11,$3.29 ,TRUE,FALSE,TRUE,$1.62 ,,8,0,0,11/9/2022 11:35,Fredal 586-773-3133,FALSE,,,$12.96 
+c5de75d8-87d4-4e0f-80fb-288622b5e58f,"Fall Flowers Gumpaste 3.5""",,$0.00 ,Gumpaste,Fall,,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.94 ,,8,2,6,9/15/2022 16:59,Fredal 586-773-3133,FALSE,,,$23.52 
+099a4bae-47bc-4f01-aec1-53f4731d7148,"Gum Paste ""Tiger Paw"" Shell 2.5""",,$0.00 ,Gumpaste,general,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.46 ,,10,0,0,,Fredal 586-773-3133,FALSE,,,$4.60 
+90c80438-65ee-467c-b588-7473710c430e,"Gum Paste 5 Petal Diamante Flowers, 3ct.",,$0.00 ,Gumpaste,general,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.44 ,,5,1,4,4/22/2022 13:08,Fredal 586-773-3133,FALSE,,,$7.20 
+45d7e3e2-72ac-4736-ac2c-51527c89850f,"Gum Paste Airy Ferns, 2ct.",,$0.00 ,Gumpaste,Leaves,,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$2.40 ,,4,1,6,9/15/2022 16:59,Fredal 586-773-3133,FALSE,,,$9.60 
+c8b2b1df-ea82-4a9d-a226-0a521b422a60,"Gum Paste Anemone 3.25"" - Black",,$0.00 ,Gumpaste,general,,4.00E+11,$8.99 ,TRUE,FALSE,TRUE,$3.21 ,,6,1,,3/25/2022 12:08,Fredal 586-773-3133,FALSE,,,$19.26 
+34b9b2bf-1505-40f8-b74f-dfeac2be8197,"Gum Paste Anemone 3.25"" - Purple",,$0.00 ,Gumpaste,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$5.56 ,,4,1,,6/17/2022 16:12,Fredal 586-773-3133,FALSE,,,$22.24 
+44f6a043-b988-435c-8931-4d20e9094380,"Gum Paste Anemone 3.25"" - Red",,$0.00 ,Gumpaste,general,,4.00E+11,$8.99 ,TRUE,FALSE,TRUE,$4.36 ,,4,1,,,CK Products,FALSE,,,$17.44 
+2dc8b8df-6133-475c-b3b3-f40b2a103e47,"Gum Paste Anemone 3.25"" - White",,$0.00 ,Gumpaste,general,,4.00E+11,$8.99 ,TRUE,FALSE,TRUE,$3.21 ,,8,1,,3/25/2022 12:08,CK Products,FALSE,,,$25.68 
+d159abc6-7cb0-4e68-8a14-fe4d8aebee27,Gum Paste Apple Blossom Spray with Leaves,,$0.00 ,Gumpaste,Flowers,,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$2.85 ,,5,1,6,,CK Products,FALSE,,,$14.25 
+8c185687-2fbd-413f-ad8d-78ee6a27f8c4,Gum Paste Apricot Nectar Rose - Large,,$0.00 ,Gumpaste,Roses,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$1.94 ,,7,1,,9/15/2022 16:59,CK Products,FALSE,,,$13.58 
+29b74507-26cd-4857-ae9d-6c7763531847,Gum Paste Apricot Nectar Rose - Small,,$0.00 ,Gumpaste,Roses,,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$1.94 ,,6,1,,9/15/2022 16:59,CK Products,FALSE,,,$11.64 
+19dc8eba-c971-4475-be22-3597c88c558e,"Gum Paste Briar Rose, White, 3""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$2.45 ,,4,1,6,4/22/2022 13:08,Oh Sweet Art,FALSE,,,$9.80 
+4b3e4539-233f-4d11-bc33-a436ae9f5e7b,"Gum Paste Bright Lily - Large 3.5""",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.35 ,,6,1,,5/20/2022 12:22,Oh Sweet Art,FALSE,,,$20.10 
+4e41fc48-e444-426e-a3f2-0149010530b5,"Gum Paste Bright Lily - Medium 2.5""",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.35 ,,4,1,,12/14/2022 13:04,Oh Sweet Art,FALSE,,,$9.40 
+1b33a24c-09c6-486d-b589-eab1cf167929,"Gum Paste Bright Lily - Small 1.5""",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.35 ,,2,1,,12/14/2022 13:04,Oh Sweet Art,FALSE,,,$2.70 
+b05cd22d-316d-4c29-ae1c-e2bb39b64412,Gum Paste Bright Tassel,,$0.00 ,Gumpaste,general,,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.49 ,,20,2,1,10/26/2022 17:02,Oh Sweet Art,FALSE,,,$9.80 
+54fc02b2-2d3b-4ade-9c67-998ab0aa35b6,"Gum Paste Carnation 2.5"", Antique Yellow",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$12.99 ,TRUE,TRUE,TRUE,$5.41 ,,0,0,0,9/15/2022 16:59,Oh Sweet Art,FALSE,,,$0.00 
+6b6c1108-4f5e-4424-aafb-f13d900c079f,"Gum Paste Charming Blossom, Coral, 1.5"", 3ct.",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.75 ,,11,0,0,5/4/2022 16:32,Oh Sweet Art,FALSE,,,$8.25 
+186c11c3-ab19-495a-81af-b9514fe29a39,"Gum Paste Cosmos 4"" - Purple",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$2.23 ,,7,2,,7/13/2022 16:12,Oh Sweet Art,FALSE,,,$15.61 
+e4705d16-a115-4402-96f2-47d98b5ee050,"Gum Paste Cross 4""x3""",,$0.00 ,Gumpaste,Religious,,4.00E+11,$5.49 ,TRUE,TRUE,TRUE,$2.35 ,,3,1,1,6/8/2022 12:18,Oh Sweet Art,FALSE,,,$7.05 
+fefbb3fa-afa1-41b5-93b8-3c02e2c8c9a1,"Gum Paste Cymbidium Orchid, 3.5"", Large Peach",,$0.00 ,Gumpaste,general,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$3.96 ,,2,1,3,4/1/2022 11:32,Oh Sweet Art,FALSE,,,$7.92 
+17e29178-d146-488a-a929-9b6b8b7c894f,"Gum Paste Cymbidium Orchid, 3.5"", Medium White w/Pink",,$0.00 ,Gumpaste,general,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$2.73 ,,4,1,4,,Oh Sweet Art,FALSE,,,$10.92 
+102fbfdd-b24b-4e5e-8836-a2ab47757be0,"Gum Paste Daffodil on Wire, Medium",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.67 ,,30,2,1,,Linneas Inc dot com,FALSE,,,$20.10 
+fff97dd7-5072-45f7-a893-f021189eebd4,"Gum Paste Dark Red Rose 4""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$15.99 ,TRUE,FALSE,TRUE,$7.53 ,,6,1,6,12/14/2022 13:04,Linneas Inc dot com,FALSE,,,$45.18 
+020b0a93-0d51-4228-a143-9e831ea29f19,"Gum Paste Eucalyptus Leaves, 2ct.",,$0.00 ,Gumpaste,Leaves,,4.00E+11,$10.99 ,TRUE,TRUE,TRUE,$4.70 ,,4,1,6,10/11/2022 17:07,CK Products,FALSE,,,$18.80 
+d05d347f-8092-402e-ac2f-0d69b31cabee,"Gum Paste Forget-Me-Not Filler, Pink",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.81 ,,7,1,6,9/22/2022 12:12,CK Products,FALSE,,,$12.67 
+6e0f1f5c-2288-414c-a99b-18571fc39cff,"Gum Paste Formal Rose - 1.5"" White",,$0.00 ,Gumpaste,Roses,,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.73 ,,24,2,,8/19/2022 16:55,CK Products,FALSE,,,$17.52 
+0ffcf4bf-82ad-4a2d-ac50-93a79742d4e0,"Gum Paste Formal Rose - 2"" White",,$0.00 ,Gumpaste,Roses,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.95 ,,13,2,,7/16/2022 12:46,CK Products,FALSE,,,$12.35 
+71a2b7a0-e246-4e04-9238-26f325d59e39,"Gum Paste French Tulip, 3"", Red",,$0.00 ,Gumpaste,general,,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$3.24 ,,5,1,5,,CK Products,FALSE,,,$16.20 
+81d0dab5-74f3-4947-b1f2-01f197dd373d,Gum Paste Green Leaf Stems,,$0.00 ,Gumpaste,general,,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.65 ,,11,2,12,11/29/2022 14:13,CK Products,FALSE,,,$29.15 
+748381ac-e4b1-472a-b5cf-99498bb86120,"Gum Paste Green Rose Leaves 3.5""",,$0.00 ,Gumpaste,general,,4.00E+11,$1.99 ,TRUE,FALSE,TRUE,$0.68 ,,3,2,25,8/27/2022 10:43,CK Products,FALSE,,,$2.04 
+60deecce-46f6-4daa-89cc-069466978c4d,"Gum Paste Hibiscus, Med, 4"" - Pink",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.49 ,,12,2,,,CK Products,FALSE,,,$17.88 
+997ca701-6899-4a42-be83-c00caef36e3e,"Gum Paste Hibiscus, Med, 4"" - White",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.49 ,,12,2,,,CK Products,FALSE,,,$17.88 
+fba4ee6e-e00a-40e7-a172-b6a6cc9fdde5,Gum Paste Holly Leaves ,34,$0.00 ,Gumpaste,Christmas,,4.00E+11,$0.99 ,TRUE,TRUE,TRUE,$0.00 ,,34,5,1,12/22/2022 16:25,CK Products,FALSE,,,$0.00 
+aa2a8d7b-7b45-4dec-9143-34bb8964f365,Gum Paste Holly Sprig 2.5”,2,$0.00 ,Gumpaste,Christmas,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.00 ,,2,2,12,12/15/2021 12:21,CK Products,FALSE,,,$0.00 
+5f130b86-f5dd-4e82-b8ed-1fe8f4d1a69e,"Gum Paste Hydrangea Bunch, White, 2.5-3""",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$3.86 ,,3,1,3,7/16/2022 12:46,CK Products,FALSE,,,$11.58 
+03483983-4e05-4f8e-85d2-54dede8cc1d6,"Gum Paste Large Clam Shell 3.5""",,$0.00 ,Gumpaste,general,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.76 ,,3,1,3,,CK Products,FALSE,,,$2.28 
+08b10a5c-7b40-4ac9-b71d-e0d53edb9e26,"Gum Paste Lg Peony Blossom, 2.5""",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.37 ,,17,2,1,7/27/2022 10:22,CK Products,FALSE,,,$23.29 
+418015e1-6549-4034-acca-3555859bed56,"Gum Paste Lg Rubrum Lily, Red/Hot Pink",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.51 ,,7,1,1,11/11/2022 14:51,CK Products,FALSE,,,$10.57 
+959d10e2-b368-402f-8e53-f1aaf0445b0b,"Gum Paste Lily Leaves 3"" w/wire, 3ct.",,$0.00 ,Gumpaste,Leaves,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.78 ,,9,2,1,12/14/2022 13:04,CK Products,FALSE,,,$7.02 
+9c93ee57-492d-4d2f-a897-299a6d283e33,Gum Paste Lily of the Valley Spray - White,,$0.00 ,Gumpaste,general,,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$2.98 ,,6,1,3,10/11/2022 17:07,CK Products,FALSE,,,$17.88 
+df0f4179-d483-423a-b48e-97485f3e5143,"Gum Paste Magnolia, White - Large",,$0.00 ,Gumpaste,general,,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.99 ,,1,1,,5/3/2022 14:30,CK Products,FALSE,,,$2.99 
+d10e755e-5abf-424d-813d-9eea3195873a,"Gum Paste Magnolia, White - Medium & Small Set",,$0.00 ,Gumpaste,general,,4.00E+11,$7.99 ,TRUE,FALSE,TRUE,$3.70 ,,1,1,,10/18/2022 12:34,CK Products,FALSE,,,$3.70 
+5d1a1aa1-3588-49f5-a935-3d1b449c49d1,Gum Paste Marigold,,$0.00 ,Gumpaste,Flowers,,4.00E+11,$4.69 ,TRUE,TRUE,TRUE,$2.23 ,,12,0,0,,CK Products,FALSE,,,$26.76 
+495a32ac-9967-48f8-a559-d4f601d79b48,"Gum Paste Medium Rose Leaf, White, 1.75"", 6ct.",,$0.00 ,Gumpaste,Leaves,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.92 ,,5,2,1,8/4/2022 14:17,not tracked,FALSE,,,$4.60 
+237ff877-2a43-4912-a8a7-901c70728524,Gum Paste Mini Bow - White,,$0.00 ,Gumpaste,general,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.69 ,,19,2,,11/11/2022 13:08,not tracked,FALSE,,,$13.11 
+ae12d14e-147d-4ebd-a20a-7bf1fc8c4d46,"Gum Paste Motilija Blossom, 3"", White/Yellow",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$2.95 ,,0,0,0,7/27/2022 16:16,Linneas Inc dot com,FALSE,,,$0.00 
+bd1507fe-5702-4921-8630-701e78f4b216,"Gum Paste Orchid Spray 9"" Pink",,$0.00 ,Gumpaste,Orchids,,4.00E+11,$9.99 ,TRUE,TRUE,TRUE,$4.70 ,,2,1,3,4/29/2022 12:10,Linneas Inc dot com,FALSE,,,$9.40 
+6de109e0-b59f-4402-960b-83afac0bd46a,"Gum Paste Orchid Spray, 6.5""",,$0.00 ,Gumpaste,general,,4.00E+11,$12.99 ,TRUE,TRUE,TRUE,$5.59 ,,3,1,3,11/18/2022 14:15,Linneas Inc dot com,FALSE,,,$16.77 
+593a36ad-7998-4ca4-834e-dafd182467da,"Gum Paste Peony, Large Red 4""",,$0.00 ,Gumpaste,general,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$3.64 ,,0,1,2,,Linneas Inc dot com,FALSE,,,$0.00 
+5eff4fe9-0718-41bf-9ab9-866f95ec9f57,"Gum Paste Peony, White - Large",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$4.12 ,,0,1,,7/26/2022 11:44,Linneas Inc dot com,FALSE,,,$0.00 
+215eacb9-92a5-40f8-8dfd-0a450ea71116,"Gum Paste Peony, White - Small & Medium",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$4.12 ,,4,1,,,Linneas Inc dot com,FALSE,,,$16.48 
+390d06d7-bf17-4dcd-873d-1893f9015c13,"Gum Paste Poinsettia, yellow center - Large",0,$0.00 ,Gumpaste,Christmas,,4.00E+11,$3.99 ,TRUE,FALSE,TRUE,$0.00 ,,0,2,,12/15/2022 12:19,Linneas Inc dot com,FALSE,,,$0.00 
+7a9b167b-5970-47c3-ab23-f32bbcd48151,"Gum Paste Poinsettia, yellow center - Medium",2,$0.00 ,Gumpaste,Christmas,,4.00E+11,$2.99 ,TRUE,FALSE,TRUE,$0.00 ,,2,1,,12/8/2021 16:18,Linneas Inc dot com,FALSE,,,$0.00 
+43460f47-0cba-48b3-8d68-7fbfdf56344a,"Gum Paste Ranunculus, Medium 2"" w/Wire",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.00 ,,11,2,1,7/16/2022 12:46,Linneas Inc dot com,FALSE,,,$11.00 
+cdf3f8b6-8e14-463a-b7d1-062038355cab,"Gum Paste Red Garden Rose - Large 3""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$16.99 ,TRUE,TRUE,TRUE,$8.45 ,,5,1,,,CK Products,FALSE,,,$42.25 
+64de9c67-fe59-4a5d-a65f-0512db65bfab,"Gum Paste Red Garden Rose - Medium 2""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$10.99 ,TRUE,TRUE,TRUE,$5.55 ,,5,1,,,CK Products,FALSE,,,$27.75 
+f35ce5fb-eb64-4b39-9685-ea3a72d354f8,"Gum Paste Red Garden Rose - Small 1""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$2.75 ,,5,1,,,CK Products,FALSE,,,$13.75 
+d60da97a-cfa4-453e-960c-218c26687991,"Gum Paste Red Poinsettia, medium",15,$0.00 ,Gumpaste,Christmas,,4.00E+11,$3.99 ,TRUE,FALSE,TRUE,$0.00 ,,15,1,2,12/8/2022 15:23,CK Products,FALSE,,,$0.00 
+114b0117-49a1-4d0f-bbf1-666477f80ea8,"Gum Paste Red Poinsettia, small",,$0.00 ,Gumpaste,general,,4.00E+11,$2.99 ,TRUE,FALSE,TRUE,$0.00 ,,5,1,1,,CK Products,FALSE,,,$0.00 
+2dc97c02-2379-4997-9488-b0dbab71c4b8,Gum Paste Red Rose Trio Spray,,$0.00 ,Gumpaste,Roses,,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.79 ,,3,1,6,12/1/2021 17:09,CK Products,FALSE,,,$8.37 
+14d4a714-018f-434d-a73f-db359a15b5ba,"Gum Paste Red Roses 5"" Spray",,$0.00 ,Gumpaste,Roses,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$5.75 ,,1,0,0,6/3/2022 14:27,CK Products,FALSE,,,$5.75 
+97c50ec8-f876-41cf-a3e3-7d68880dba2c,Gum Paste Rose Filler Leaves - Large,,$0.00 ,Gumpaste,Leaves,,4.00E+11,$11.99 ,TRUE,TRUE,TRUE,$5.69 ,,0,1,,10/18/2022 12:34,CK Products,FALSE,,,$0.00 
+26bc9219-3fa6-4553-9b13-431cc1734727,Gum Paste Rose Filler Leaves - Small,,$0.00 ,Gumpaste,Leaves,,4.00E+11,$6.99 ,TRUE,TRUE,TRUE,$2.85 ,,0,1,,12/15/2022 13:36,CK Products,FALSE,,,$0.00 
+034ba98f-d44d-4860-8c47-e17933622a89,"Gum Paste Rose Leaf Filler 3""",,$0.00 ,Gumpaste,Leaves,,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.31 ,,3,1,1,12/14/2022 13:04,CK Products,FALSE,,,$3.93 
+73389229-0d8a-4e50-8335-d4df5d412529,"Gum Paste Rose Trio Spray - Peach 4""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$2.89 ,,5,1,1,5/14/2022 12:54,CK Products,FALSE,,,$14.45 
+2074203d-e82c-440f-8931-002295a3d5bf,"Gum Paste Rose Trio Spray - Pink 4""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$7.99 ,TRUE,FALSE,TRUE,$2.76 ,,4,1,4,4/2/2022 10:50,CK Products,FALSE,,,$11.04 
+d14487b3-ec40-482a-9b29-1c44fd2fc681,"Gum Paste Small Spray, Asst'd colors",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$3.63 ,,3,1,1,9/1/2022 10:36,CK Products,FALSE,,,$10.89 
+20d9a08a-2a58-45b1-a2c2-a41e9c777a6f,Gum Paste Small White Cattleya Orchid,,$0.00 ,Gumpaste,Orchids,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.51 ,,34,2,1,7/16/2022 12:46,CK Products,FALSE,,,$17.34 
+945b91a5-7ed7-4132-8702-fb4aada25ae2,"Gum Paste Starfish 3""",,$0.00 ,Gumpaste,general,,4.00E+11,$2.19 ,TRUE,TRUE,TRUE,$0.94 ,,3,1,3,,CK Products,FALSE,,,$2.82 
+1084b037-0afb-404f-ac3f-59e0f0a5f858,"Gum Paste Sugar Rose, 2.5"" - Ivory",,$0.00 ,Gumpaste,Roses,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$3.79 ,,4,1,,,CK Products,FALSE,,,$15.16 
+95ab383b-d3df-4a6a-bdbc-f0032d8858f2,"Gum Paste Sugar Rose, 2.5"" - Pink",,$0.00 ,Gumpaste,Roses,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$3.79 ,,3,1,,2/24/2022 15:22,CK Products,FALSE,,,$11.37 
+5a6cf94d-4f45-45f8-b44f-3f55b9e50a56,"Gum Paste Sugar Rose, 2.5"" - Red",,$0.00 ,Gumpaste,Roses,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$2.75 ,,14,1,,6/16/2022 13:36,CK Products,FALSE,,,$38.50 
+92381fcc-47a2-41d2-bfc9-24ff504c37d9,"Gum Paste Sunflower 2.5""",,$0.00 ,Gumpaste,general,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$1.89 ,,11,2,16,7/16/2022 12:46,CK Products,FALSE,,,$20.79 
+06037bc7-87ff-44a3-a735-1bdd77fc5593,Gum Paste Tea Rose XL Pink Single w/wire,,$0.00 ,Gumpaste,Roses,,4.00E+11,$9.99 ,TRUE,TRUE,TRUE,$3.75 ,,5,2,1,12/15/2022 13:20,CK Products,FALSE,,,$18.75 
+cc974b12-e8cd-44e0-b67f-abe975416039,"Gum Paste Tranquil Water Lily- Hot Pink 5""",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$9.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,,CK Products,FALSE,,,$0.00 
+140c30c8-44e1-4eae-9427-a98a37ca6cbe,"Gum Paste Vanda Orchid Spray 7"" Purple",,$0.00 ,Gumpaste,Orchids,,4.00E+11,$9.99 ,TRUE,TRUE,TRUE,$4.98 ,,4,1,1,,CK Products,FALSE,,,$19.92 
+ac1a2146-7b67-4603-884b-07c45eeeba66,Gum Paste White Cymbidium Orchid Spray,,$0.00 ,Gumpaste,Orchids,,4.00E+11,$17.99 ,TRUE,TRUE,TRUE,$8.93 ,,2,1,1,5/26/2022 16:16,CK Products,FALSE,,,$17.86 
+f767c946-7d85-4703-a4ec-1e29a1b4d5fe,"Gum Paste White Peony, 4""",,$0.00 ,Gumpaste,Flowers,,4.00E+11,$8.99 ,TRUE,TRUE,TRUE,$3.43 ,,4,1,1,11/29/2022 14:13,CK Products,FALSE,,,$13.72 
+6c4f7163-e81d-4cf9-b88c-4bf52ab6b1f1,Gum Paste White Poinsettia,,$0.00 ,Gumpaste,general,,4.00E+11,$3.99 ,TRUE,FALSE,TRUE,$0.00 ,,7,3,12,12/12/2020 12:47,Linneas Inc dot com,FALSE,,,$0.00 
+36646ebe-327a-4dbd-b982-52d662aaff0f,"Gum Paste White Poppy, Large 4.25""",,$0.00 ,Gumpaste,general,,4.00E+11,$8.99 ,TRUE,FALSE,TRUE,$3.48 ,,1,1,6,7/27/2022 12:59,Linneas Inc dot com,FALSE,,,$3.48 
+bea22745-d972-4cc4-8073-770176379484,"Gum Paste XL Black Rose 3""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.91 ,,12,1,1,2/23/2022 15:38,Linneas Inc dot com,FALSE,,,$10.92 
+dc7c287b-1865-4e4b-be07-d8688b81470d,"Gumpaste ""Meghan's"" Rose, White",,$0.00 ,Gumpaste,Roses,,4.00E+11,$19.99 ,TRUE,TRUE,TRUE,$10.25 ,,4,1,1,10/20/2021 15:52,DecoPac,FALSE,,,$41.00 
+846a0e5a-ebd9-416f-af86-be74bc82711d,"Gumpaste Cherry Blossom Spray, 5.5""",,$0.00 ,Gumpaste,general,,4.00E+11,$7.99 ,TRUE,FALSE,TRUE,$3.68 ,,8,2,8,8/17/2022 14:52,DecoPac,FALSE,,,$29.44 
+a5f0225b-f671-4d87-ac2f-75569ea68766,Gumpaste Mickey/Minnie Mouse,,$0.00 ,Gumpaste,general,,4.00E+11,$7.99 ,TRUE,FALSE,TRUE,$3.94 ,,1,0,0,7/8/2022 16:43,DecoPac,FALSE,,,$3.94 
+75de3804-492d-4da3-8be9-6809888e2e4e,Gumpaste Morning Blush,,$0.00 ,Gumpaste,general,,4.00E+11,$10.99 ,TRUE,TRUE,TRUE,$5.25 ,,3,1,6,6/9/2022 15:56,DecoPac,FALSE,,,$15.75 
+bfafaf2b-d814-4ad6-94ab-1274e497b6ae,"Gumpaste Queen Elizabeth Rose, White, 2.5""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$1.69 ,,22,2,1,9/10/2022 13:49,Wilton (WiltonForBusiness dot com),FALSE,,,$37.18 
+42442084-e2f9-4fae-9272-416ee74d45ba,"Gumpaste Queen Elizabeth Rose, White, 3.5""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$7.99 ,TRUE,TRUE,TRUE,$2.67 ,,8,1,1,6/16/2022 13:36,Wilton (WiltonForBusiness dot com),FALSE,,,$21.36 
+f8c43cf6-c310-474c-b948-53124dbc3098,"Gumpaste Queen Elizabeth Rose, White, 4""",,$0.00 ,Gumpaste,Roses,,4.00E+11,$11.99 ,TRUE,TRUE,TRUE,$5.79 ,,3,1,3,3/5/2022 14:50,Wilton (WiltonForBusiness dot com),FALSE,,,$17.37 
+e6c43546-17b2-414c-b7df-d1252af95a7d,"Gumpaste Rainbow 4.25""x3.5""",,$0.00 ,Gumpaste,general,,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$2.63 ,,0,0,0,5/31/2022 11:35,Wilton (WiltonForBusiness dot com),FALSE,,,$0.00 
+52cf9615-a013-4a01-b382-1f253fbf33ec,Gumpaste Rose (Australian) & Babys Breath Spray,,$0.00 ,Gumpaste,Roses,,4.00E+11,$9.99 ,TRUE,TRUE,TRUE,$3.39 ,,5,1,5,,DecoPac,FALSE,,,$16.95 
+1d8791f2-05ea-4ae8-9c38-805ab7002990,Gumpaste Succulents - Green,,$0.00 ,Gumpaste,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$5.25 ,,4,1,,,DecoPac,FALSE,,,$21.00 
+f0c73538-2c53-4cf5-beb1-1dce834d40a2,Gumpaste Succulents - Green (2ct),,$0.00 ,Gumpaste,general,,4.00E+11,$5.99 ,TRUE,FALSE,TRUE,$5.25 ,,2,0,,9/27/2022 11:29,DecoPac,FALSE,,,$10.50 
+ca7b12ce-2e14-415a-826b-170b353fa876,Gumpaste Succulents - Purple,,$0.00 ,Gumpaste,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$5.25 ,,1,1,,9/27/2022 11:29,DecoPac,FALSE,,,$5.25 
+3158e953-d019-41e2-9c02-fff07eb7c4b4,"Rose Leaves, 3ct.",,$0.00 ,Gumpaste,general,,4.00E+11,$5.99 ,TRUE,TRUE,TRUE,$2.11 ,,21,0,0,12/15/2022 13:36,DecoPac,FALSE,,,$44.31 
+85c3511e-eac2-432f-8b16-8f5c8755d051,"Satin Ice Gum Paste, 2lb.",,$0.00 ,Gumpaste,general,1.84E+11,4.00E+11,$23.99 ,TRUE,FALSE,TRUE,$11.63 ,,2,1,1,11/16/2022 13:18,DecoPac,FALSE,,,$23.26 
+2dc9d824-2e41-45de-8277-8afda61132ae,"Sweet Inspiration Chantilly Rose Spray, Pink",,$0.00 ,Gumpaste,Roses,,4.00E+11,$32.99 ,TRUE,FALSE,TRUE,$17.47 ,,4,1,3,7/29/2022 15:59,DecoPac,FALSE,,,$69.88 
+1cf981a3-db59-4016-b95b-98836eda0af1,Unicorn Creations Gumpaste Set,,$0.00 ,Gumpaste,general,,4.00E+11,$10.99 ,TRUE,FALSE,TRUE,$4.90 ,,1,1,6,11/23/2022 10:58,DecoPac,FALSE,,,$4.90 

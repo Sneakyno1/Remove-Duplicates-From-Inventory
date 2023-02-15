@@ -1,9 +1,0 @@
-Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
-1B29593A-30A6-4FC3-9260-09B2A8583D28,"Angel Wings 4""",2,$0.90 ,Cookie Cutters,Religious,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.45 ,,2,2,6,12/7/2022 15:36,R&M International - MoreThanBaking dot com,FALSE,,,$0.90 
-FE5D0F1C-68D1-4526-AE1B-9F8887AD8AE3,"Ann Clark Cross Cookie Cutter 2""x3.5""",0,$0.00 ,Cookie Cutters,Religious,,4.00E+11,$1.99 ,TRUE,TRUE,TRUE,$0.00 ,,0,0,0,6/10/2022 13:51,Webstaurant store,FALSE,,,$0.00 
-53D339FA-C12D-4D66-B9B8-7579DC925B58,"Ann Clark Holy Cross Cookie Cutter 4.25""x3"" 7953A",12,$13.08 ,Cookie Cutters,Religious,8.18E+11,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.09 ,,12,2,12,12/21/2022 12:21,CK Products,FALSE,,,$13.08 
-B6CE11DC-285E-4EDB-BD22-B9487BC87E18,"Ann Clark XL Cross Cookie Cutter by Tunde 5.5""x3.75"" 8238A",4,$3.20 ,Cookie Cutters,Religious,8.18E+11,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.80 ,,4,2,12,11/23/2022 11:29,DecoPac,FALSE,,,$3.20 
-59648C22-CD06-4342-A13E-E220C869BA31,"Chalice Cookie Cutter 4"" B1599",6,$3.96 ,Cookie Cutters,Religious,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$0.66 ,,7,1,6,5/11/2022 15:06,not tracked,FALSE,,,$4.62 
-CEE26A2C-64D3-4789-A301-5DB361F4DE10,"Mini Angel Cookie Cutter 1.75""",0,$0.00 ,Cookie Cutters,Religious,71581015332,4.00E+11,$1.49 ,TRUE,TRUE,TRUE,$0.64 ,,11,1,1,12/8/2022 14:27,CK Products,FALSE,,,$7.04 
-CFE7FBD4-1E31-4E6A-8667-D715759C67A9,"Fancy Gold Cross Pick, 3.75""",,$0.00 ,Decorations,Religious,,4.00E+11,$1.19 ,TRUE,TRUE,TRUE,$0.26 ,,21,2,1,12/13/2022 13:06,CK Products,FALSE,,,$5.46 
-e4705d16-a115-4402-96f2-47d98b5ee050,"Gum Paste Cross 4""x3""",,$0.00 ,Gumpaste,Religious,,4.00E+11,$5.49 ,TRUE,TRUE,TRUE,$2.35 ,,3,1,1,6/8/2022 12:18,Oh Sweet Art,FALSE,,,$7.05 

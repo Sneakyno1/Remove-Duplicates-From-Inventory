@@ -1,4 +1,0 @@
-Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
-2a35b43f-1943-49a7-8efe-9a56b63bf3f0,"Fat Daddio's 6""x3"" Springform Pan",,$0.00 ,Pans,Springform,8.12E+11,4.00E+11,$19.99 ,TRUE,TRUE,TRUE,$10.25 ,,3,1,3,5/6/2022 14:52,DecoPac,FALSE,,,$30.75 
-68fadcae-765e-4bfa-a381-12dfd7efb776,"Fat Daddio's 8""x3"" Springform Pan",,$0.00 ,Pans,Springform,8.12E+11,4.00E+11,$24.99 ,TRUE,TRUE,TRUE,$12.22 ,,4,1,3,12/22/2022 12:41,DecoPac,FALSE,,,$48.88 
-18560c31-35d2-40f0-b707-60d4ef20ab74,"Wilton 3pc. Mini Springform 4"" Pans",,$0.00 ,Pans,Springform,70896421746,4.00E+11,$17.99 ,TRUE,TRUE,TRUE,$8.79 ,,2,1,3,7/5/2022 12:05,Wilton (WiltonForBusiness dot com),FALSE,,,$17.58 
