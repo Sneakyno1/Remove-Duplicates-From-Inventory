@@ -1,0 +1,3 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+7F78816E-FE44-4CAC-914D-1E0A8EB8E13A,"Rose Floral Print Std. Baking Cup 2""x1.25""",12,$13.92 ,Cupcake Liners,Seasonal Mothers Day Spring,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.16 ,,12,0,0,,CK Products,FALSE,,,$13.92 
+92C58EE3-4FE8-4FEA-BF46-521AA2BE83BB,"Wilton Pinstripe Spring Baking Cups, 75ct.",2,$2.40 ,Cupcake Liners,Seasonal Mothers Day Spring,70896328427,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.20 ,,2,1,3,9/2/2022 15:40,Linneas Inc dot com,FALSE,,,$2.40 

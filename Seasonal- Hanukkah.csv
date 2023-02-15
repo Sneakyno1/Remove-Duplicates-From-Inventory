@@ -1,0 +1,6 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+5097380E-561B-413E-86D3-86BE903A67EC,Fondant Star of David - For Decoration Only,,$0.00 ,Decorations,Seasonal- Hanukkah,,4.00E+11,$3.49 ,TRUE,FALSE,TRUE,$1.67 ,,5,0,0,,CK Products,FALSE,,,$8.35 
+3567A224-36F1-4865-BE9C-CE86D23C5364,"Menorah Sugars 1.25"", 6ct.",,$0.00 ,Decorations,Seasonal- Hanukkah,,4.00E+11,$1.99 ,TRUE,FALSE,TRUE,$0.57 ,,19,2,1,12/3/2022 16:12,not tracked,FALSE,,,$10.83 
+1A266A90-44EF-423C-9D65-5D704B39DAF3,"Royal Icing Dreidels 1.5"", 3ct. - Kosher",,$0.00 ,Decorations,Seasonal- Hanukkah,,4.00E+11,$2.19 ,TRUE,FALSE,TRUE,$0.78 ,,39,1,8,12/14/2022 14:19,not tracked,FALSE,,,$30.42 
+93F05445-6A3C-4697-8493-12D10AB9BCB8,"Royal Icing Menorah 1.5"", 3ct. - Kosher",,$0.00 ,Decorations,Seasonal- Hanukkah,,4.00E+11,$2.99 ,TRUE,FALSE,TRUE,$1.06 ,,36,1,0,12/20/2022 16:58,not tracked,FALSE,,,$38.16 
+02600319-0BDF-46C0-AF3A-41350B84DC77,"Star of David Picks, 6ct.",,$0.00 ,Decorations,Seasonal- Hanukkah,,4.00E+11,$1.69 ,TRUE,TRUE,TRUE,$0.52 ,,7,3,12,12/6/2022 12:48,Choklit Molds dot com,FALSE,,,$3.64 

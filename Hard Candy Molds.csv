@@ -1,0 +1,24 @@
+Item UUID,Product Name,Quantity,Total Value,Department,Category,UPC,Store Code (SKU),Price,Discountable,Taxable,Tracking Inventory,Cost,Assigned Cost,Quantity,Reorder Trigger,Recommended Order,Last Sold Date,Supplier,Liability Item,Liability Redemption Tender,Tax Group or Rate,Total Value
+5b0aadd0-4db0-4c93-92b3-5349f2127803,"1"" Round Mint Hard Candy Mold8H-5049",,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.55 ,,3,1,3,3/22/2022 12:01,DecoPac,FALSE,,,$4.65 
+ce6a44c7-30eb-48e7-8e15-6dbc3b82412b,"1.75"" Maple Leaf Hard Candy Mold 8H-13013",,$0.00 ,Hard Candy Molds,general,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.50 ,,5,2,6,10/2/2020 13:16,DecoPac,FALSE,,,$7.50 
+b86a4e02-74bb-4a75-a1af-a69f0ced86e4,"2"" Maple Leaf Hard Candy Mold 8H-13033",,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.54 ,,3,1,3,,DecoPac,FALSE,,,$4.62 
+cdfa65f3-03a9-4ed3-abe4-966957c2e7f8,"7/8"" Plain Heart HC Mold 8H-1001",,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.71 ,,4,1,3,2/11/2022 13:33,DecoPac,FALSE,,,$6.84 
+d78ecec0-30ca-4715-b8c6-705837997b7a,"Candy Cane 2"" Hard Candy Mold 8H-4044",3,$4.65 ,Hard Candy Molds,Christmas,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.55 ,,3,1,3,12/14/2022 15:25,DecoPac,FALSE,,,$4.65 
+d0c755b2-be75-4f0b-a111-cdcea73d8236,Champagne Bottle Hard Candy Mold 8H-12230,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$4.99 ,TRUE,TRUE,TRUE,$2.33 ,,3,1,3,,DecoPac,FALSE,,,$6.99 
+58630a1b-d179-4969-b53c-a329a64e9248,Christmas Tree Hard Candy Mold 8H-4003,,$0.00 ,Hard Candy Molds,Christmas,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.56 ,,1,1,3,12/14/2022 15:25,DecoPac,FALSE,,,$1.56 
+42114fc8-89d0-4171-85a7-d9d244f8f0d3,Christmas Tree Sucker Hard Candy Mold 8H-4216,,$0.00 ,Hard Candy Molds,Christmas,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.56 ,,3,1,3,12/22/2020 16:20,DecoPac,FALSE,,,$4.68 
+972ba928-71d0-473a-8318-20b6c000a461,"Footprints 1"" Hard Candy Mold 8H-15301",,$0.00 ,Hard Candy Molds,general,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$0.00 ,,2,0,0,,DecoPac,FALSE,,,$0.00 
+145ed195-8e56-4e65-bfef-a3633d39e45c,Hat & Boot Sucker Hard Candy Mold 8H-15723,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.63 ,,3,1,3,,DecoPac,FALSE,,,$4.89 
+dd1657d2-f015-4cc3-a08c-03b2e356c211,"Heart/Love Sucker Hard Candy Mold 2.75"" 8H-1238",,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.79 ,TRUE,TRUE,TRUE,$1.88 ,,3,1,3,,DecoPac,FALSE,,,$5.64 
+b2b63f4a-cba4-4690-8a0f-594e6d1d6fea,Jack O Lantern Sucker Hard Candy Mold 8H-3239,1,$1.59 ,Hard Candy Molds,Halloween,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.59 ,,1,1,3,10/4/2022 13:53,DecoPac,FALSE,,,$1.59 
+8b208300-a7fb-45a2-acd7-077941b410ec,Maple Leaf Sucker Hard Candy Mold 8H-13131,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.54 ,,4,1,3,9/16/2021 12:28,DecoPac,FALSE,,,$6.16 
+749c2b30-df8a-41b1-967b-1cd0883a2b5e,Plain Heart Sucker Hard Candy Mold 5cav 8H-1203,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$2.49 ,TRUE,TRUE,TRUE,$1.39 ,,1,0,3,11/3/2021 14:38,DecoPac,FALSE,,,$1.39 
+c3c9f454-431e-46d9-a9e3-2b997138d8a7,Plain Heart Sucker Hard Candy Mold 6cav 8H-1201,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$4.49 ,TRUE,TRUE,TRUE,$2.23 ,,3,0,3,10/27/2022 15:20,DecoPac,FALSE,,,$6.69 
+da70255d-b77d-4f7b-884a-0d1ef1ee62bf,Plain Rnd Sucker Hard Candy Mold 5cav 8H-5207,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.59 ,TRUE,TRUE,TRUE,$1.99 ,,3,0,1,6/14/2022 13:53,DecoPac,FALSE,,,$5.97 
+c71a5962-cc41-426e-93bb-0c7c4a5c9794,Plain Rnd Sucker Hard Candy Mold 6cav 8H-5209,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$2.04 ,,1,0,3,7/23/2022 10:40,DecoPac,FALSE,,,$2.04 
+c69e8854-47d4-4d19-b1ee-770188d325d0,Santa Sucker Hard Candy Mold 8H-4202,,$0.00 ,Hard Candy Molds,Christmas,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.55 ,,4,1,3,,DecoPac,FALSE,,,$6.20 
+bd656560-b834-4d49-9415-4e2cca701880,"Shamrock 1"" Hard Candy Mold 8H-14803",,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.99 ,TRUE,TRUE,TRUE,$1.90 ,,2,1,3,3/8/2022 10:24,DecoPac,FALSE,,,$3.80 
+8867ad68-a4fc-47bb-a35d-09944b145474,Skull Sucker Hard Candy Mold 8H-3262,2,$3.18 ,Hard Candy Molds,Halloween,,4.00E+11,$3.29 ,TRUE,TRUE,TRUE,$1.59 ,,2,1,3,10/23/2021 13:32,DecoPac,FALSE,,,$3.18 
+2151416b-fa6e-45d7-8ff3-ffcd5f3d629f,Smiley Face Hard Candy Sucker Mold 8H-9822,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.72 ,,1,1,3,12/21/2022 15:15,DecoPac,FALSE,,,$1.72 
+004163ab-0f93-4f6a-8dc5-314b2b276a5c,Smiley Face Hard Candy Sucker Mold 8H-9824,,$0.00 ,Hard Candy Molds,general,,4.00E+11,$3.49 ,TRUE,TRUE,TRUE,$1.72 ,,1,1,3,12/21/2022 15:15,DecoPac,FALSE,,,$1.72 
+1d4fb6c7-183b-4382-9186-bf649b6bc3d3,Snowflake Hard Candy Mold 8H-4115,,$0.00 ,Hard Candy Molds,Christmas,,4.00E+11,$2.99 ,TRUE,TRUE,TRUE,$1.53 ,,2,1,3,12/30/2021 13:48,DecoPac,FALSE,,,$3.06 
