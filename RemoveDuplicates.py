@@ -7,8 +7,8 @@ ITEM_NAME = 1
 DEPARTMENT = 4
 CATEGORY = 5
 
-inputPath = input("Please type in, or copy-paste, the full file path for where the excel file is located: \n")
-outputPath = input("Please type in, or copy-paste, the full file path for where the finished excel files will be located: \n")
+inputPath = input("Please type in, or copy-paste, the full file path for where the excel file is located and then press enter: \n")
+outputPath = input("Please type in, or copy-paste, the full file path for where the finished excel files will be located \nand then press enter: \n")
 
 for root, dirs, files in os.walk(inputPath):
     for file in files:
@@ -34,30 +34,23 @@ with open(inputPath,'r', encoding='utf8') as inputCSV:
 #the associated value will be a list of the items in that category
 seasonalDictionary = dict()
 
-#load dictionary with empty lists where the key is the category name
-#but only adds the category if it starts with the string seasonal
-for line in listWithNoZZ[1:]:
-    if line[CATEGORY][:8].lower()=='seasonal':
-        seasonalDictionary[line[CATEGORY]] = list()
-
-#add items to appropriate list based on category
-for line in listWithNoZZ[1:]:
-    if line[CATEGORY][:8].lower()=='seasonal':
-       seasonalDictionary[line[CATEGORY]].append(line[ITEM_NAME])
-
 #Initializing a dictionary that will hold lists like seasonalDicitonary
 departmentDictionary = dict()
 
-#adds entry into dictionary only if the category doesnt start with 'seasonal'
+#initialize dictionaries with their lists
 for line in listWithNoZZ[1:]:
     if line[CATEGORY][:8].lower()=='seasonal':
-        continue
-    departmentDictionary[line[DEPARTMENT]] = list()
+        seasonalDictionary[line[CATEGORY]] = list()
+    else:
+        departmentDictionary[line[DEPARTMENT]] = list()
 
+#add items to appropriate list based on category and department
 for line in listWithNoZZ[1:]:
     if line[CATEGORY][:8].lower()=='seasonal':
-        continue
-    departmentDictionary[line[DEPARTMENT]].append(line[ITEM_NAME])
+       seasonalDictionary[line[CATEGORY]].append(line[ITEM_NAME])
+    else:
+        departmentDictionary[line[DEPARTMENT]].append(line[ITEM_NAME])
+
 
 
 #Makes one csv per category
